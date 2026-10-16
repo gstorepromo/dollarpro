@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Will physics be the next field to be turned upside down by AI?</title>
+<link>https://www.newscientist.com/article/2593273-will-physics-be-the-next-field-to-get-turned-upside-down-by-ai</link>
+<guid isPermaLink="false">ffe9dde5f68c829ee7175952a776d2c8b6744c09b0a89ae695f039e3a6c72ad6</guid>
+<source>New Scientist</source>
+<category>science</category>
+<pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
+<description>AI has taken huge strides in computer programming and mathematics – physics could be next</description>
+<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316576979.jpg" type="image/jpeg"/>
+<media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316576979.jpg" medium="image"/>
+</item>
+<item>
+<title>Isaias Dims the Gulf Coast</title>
+<link>https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast</link>
+<guid isPermaLink="false">1d060f804230bcac24f6d183f6d876ec27ddc828dbf5a9e350e37dcf1e819818</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
+<description>High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg" medium="image"/>
+</item>
+<item>
 <title>Antarctica’s ‘doomsday’ glacier will keep melting even if oceans cool</title>
 <link>https://www.newscientist.com/article/2594246-antarcticas-doomsday-glacier-will-keep-melting-even-if-oceans-cool</link>
 <guid isPermaLink="false">4320f86e95ef6804a9f7f5c52f278fad4d03848070d503ec815108d054b4fa3f</guid>
@@ -290,28 +312,6 @@
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI315782062.jpg" medium="image"/>
 </item>
 <item>
-<title>Russia and China are using AI to stage relentless cyberattacks against the UK</title>
-<link>https://www.newscientist.com/article/2593414-russia-and-china-are-using-ai-to-stage-relentless-cyber-attacks-against-the-uk</link>
-<guid isPermaLink="false">c8f793f22a27eaf5d0c11a59dc0c8a135c6df10378d2ef478a193819c37a06ba</guid>
-<source>New Scientist</source>
-<category>science</category>
-<pubDate>Thu, 15 Oct 2026 06:00:00 +0000</pubDate>
-<description>AI is increasing the speed of attacks against infrastructure in the UK but also being used to help defend against it</description>
-<enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316450311_0dd792.jpg" type="image/jpeg"/>
-<media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316450311_0dd792.jpg" medium="image"/>
-</item>
-<item>
-<title>APOD: 2026 October 15 – The Milky Way over Manhattan</title>
-<link>https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan</link>
-<guid isPermaLink="false">41eb8051a9c2c0bc5bb7e5af8eb07b159ca77da3a18035db810780cd1ada4ba5</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 15 Oct 2026 04:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Manhattan%20Milkyway.jpg?w=1152&amp;h=2048&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Manhattan%20Milkyway.jpg?w=1152&amp;h=2048&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>SpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS</title>
 <link>https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking</link>
 <guid isPermaLink="false">431d789ca4e534f11754b414f6013187702ead1be6cc159009d1f374e7a1b410</guid>
@@ -321,17 +321,6 @@
 <description>SpaceX's CRS-35 cargo Dragon rendezvoused and docked with the International Space Station today (Oct. 15) after a two-day chase, delivering more than 6,000 pounds of supplies to the orbtial laboratory's astronaut crew.</description>
 <enclosure url="https://cdn.mos.cms.futurecdn.net/RnMNGc6UnVDhGExG6veNL6-1920-80.png" type="image/jpeg"/>
 <media:content url="https://cdn.mos.cms.futurecdn.net/RnMNGc6UnVDhGExG6veNL6-1920-80.png" medium="image"/>
-</item>
-<item>
-<title>Fires Arrive in the Amazon Rainforest</title>
-<link>https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest</link>
-<guid isPermaLink="false">7f03a5df97184a3bc8a239cc9582967be5e020986cefc733e0fe6cc12eece1f5</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 15 Oct 2026 04:01:00 +0000</pubDate>
-<description>During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fires-arrive-in-the-amazon-rainforest/amazofires_amo_20261012.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Planetary genealogy: Milky Way worlds belong to 1 of 2 'families,' scientists find</title>
