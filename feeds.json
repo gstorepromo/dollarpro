@@ -55,8 +55,8 @@
       "enabled": true
     },
     {
-      "name": "Sky Sports Football",
-      "url": "https://www.skysports.com/rss/12040",
+      "name": "The Athletic Soccer",
+      "url": "https://www.nytimes.com/athletic/rss/football/",
       "category": "sports",
       "enabled": true
     },
@@ -253,8 +253,8 @@
       "enabled": true
     },
     {
-      "name": "The Register",
-      "url": "https://www.theregister.com/headlines.atom",
+      "name": "Wired",
+      "url": "https://www.wired.com/feed/rss",
       "category": "technology",
       "enabled": true
     },

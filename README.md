@@ -69,3 +69,8 @@ The collector skips stories without a usable RSS image and applies a basic image
 - The collector checks for an image at least 400×225 pixels and applies a sharpness heuristic. Articles with no usable image are skipped.
 - If an RSS entry supplies several image candidates, the collector prefers the largest one and tries alternatives when an image fails the checks.
 - The sharpness check is a lightweight heuristic, not an AI vision model, so some images may still look soft. Feed endpoints and image quality should be verified in GitHub Actions after upload.
+
+
+### Sports feed and article text
+
+The Sky Sports Football source has been replaced with The Athletic Soccer RSS feed (`https://www.nytimes.com/athletic/rss/football/`). The collector now prefers the longest available RSS body/summary text (up to 3,000 characters) and keeps the headline. RSS publishers may provide only an excerpt, so full article body text cannot be guaranteed unless the publisher includes it in its feed.

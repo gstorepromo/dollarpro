@@ -2,24 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#ffffff">
-<meta name="description" content="The stories shaping Nigeria and the world — from breaking news and technology to sports, science and culture.">
-<link rel="canonical" href="https://dollarprofx9-creator.github.io/dollarpro/">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="DailyPulse">
-<meta property="og:title" content="DailyPulse — Stay informed. Stay ahead.">
-<meta property="og:description" content="The stories shaping Nigeria and the world — from breaking news and technology to sports, science and culture.">
-<meta property="og:url" content="https://dollarprofx9-creator.github.io/dollarpro/">
-<meta property="og:image" content="https://dollarprofx9-creator.github.io/dollarpro/dailypulse-social-preview.jpg">
-<meta property="og:image:secure_url" content="https://dollarprofx9-creator.github.io/dollarpro/dailypulse-social-preview.jpg">
-<meta property="og:image:type" content="image/jpeg">
-<meta property="og:image:width" content="1536">
-<meta property="og:image:height" content="1090">
-<meta property="og:image:alt" content="DailyPulse daily briefing: Stay informed. Stay ahead. The stories shaping Nigeria and the world.">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="DailyPulse — Stay informed. Stay ahead.">
-<meta name="twitter:description" content="The stories shaping Nigeria and the world — from breaking news and technology to sports, science and culture.">
-<meta name="twitter:image" content="dailypulse-social-preview.jpg">
+<meta name="theme-color" content="#ffffff"><meta name="description" content="DailyPulse — latest news, stories and updates.">
 <title>DailyPulse — Latest News</title>
 <style>
 :root{--blue:#087cf0;--blue-dark:#075ed1;--ink:#10284e;--muted:#667c99;--line:#dceafa;--pale:#eaf4ff;--card:#fff;--bg:#f8fbff;--shadow:0 8px 28px rgba(24,83,143,.07)}
@@ -109,14 +92,16 @@ main{max-width:1240px;margin:0 auto;padding:24px 26px 48px}.hero{position:relati
       article.className = "story";
 
       const imageUrl = findImage(item);
-      if (imageUrl) {
+      // Also filter older/already-generated XML feeds in the browser.
+      if (!imageUrl) return null;
+      {
         const img = document.createElement("img");
         img.className = "photo";
         img.src = imageUrl;
         img.alt = "";
         img.loading = "lazy";
         img.referrerPolicy = "no-referrer";
-        img.onerror = () => img.remove();
+        img.onerror = () => article.remove();
         article.appendChild(img);
       }
 
