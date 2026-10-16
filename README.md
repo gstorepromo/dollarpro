@@ -74,3 +74,8 @@ The collector skips stories without a usable RSS image and applies a basic image
 ### Sports feed and article text
 
 The Sky Sports Football source has been replaced with The Athletic Soccer RSS feed (`https://www.nytimes.com/athletic/rss/football/`). The collector now prefers the longest available RSS body/summary text (up to 3,000 characters) and keeps the headline. RSS publishers may provide only an excerpt, so full article body text cannot be guaranteed unless the publisher includes it in its feed.
+
+
+### Body text handling
+
+Sports stories are skipped unless the feed supplies at least 80 characters of body text (`MIN_SPORTS_BODY` in `scripts/fetch_news.py`). Stories in other categories with no body text are kept and show a short "Read the full story at {source}" line. The "Show full text" button appears only when the body is longer than 220 characters.
