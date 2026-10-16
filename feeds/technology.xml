@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Steam can now show game achievements in separate ‘sets’</title>
+<link>https://www.theverge.com/games/1012541/valve-steam-achievement-sets</link>
+<guid isPermaLink="false">b4e6b604d0b97688d38057613ff2ccd7dbfff0504a7ef592b0e7ea498ca8548e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 23:18:28 +0000</pubDate>
+<description>Valve is introducing a major new feature for Steam achievements called "achievement sets" that lets developers list different groups of achievements for a base game and DLCs. "In games that support sets, you still unlock achievements by playing the game as usual," Valve says. "But when you browse what you have unlocked afterward, Steam will […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Withings wants new users to pay $100 a year to sync with Apple Health</title>
 <link>https://www.engadget.com/2288346/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health</link>
 <guid isPermaLink="false">dc6c392179ffe78b1777a6649a3ef6731b1166e49b2f5868cefb17e83a73348b</guid>
@@ -35,6 +46,17 @@
 <description>Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell</title>
+<link>https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell</link>
+<guid isPermaLink="false">0ec3496a44512a926988917b0e22872c493fa91a80e74280644cd7c2baf994ed</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 22:21:06 +0000</pubDate>
+<description>KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png" medium="image"/>
 </item>
 <item>
 <title>The tech backlash is now in theaters</title>
@@ -321,17 +343,6 @@
 <description>Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to Tesla's Full Self-Driving (Supervised). Volvo says the new point-to-point system will be Level 2++, meaning it can […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off</title>
-<link>https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale</link>
-<guid isPermaLink="false">ca1e1956e39867233edba7d3ea5d0dbccb711c7faf1c1f4fcdb9011180053982</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 17:30:00 +0000</pubDate>
-<description>The Alienware AW3426DW is discounted to $742.22 at Amazon, just over $50 off its usual price of $799.99. It’s not quite the lowest price we’ve seen on this well-equipped gaming monitor, but still a decent discount. The 34-inch screen just came out a couple months ago, and is equipped with Penta Tandem quantum dots for […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/alienware-aw3426dw-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/alienware-aw3426dw-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>YouTuber built 30-frame-per-second grayscale Game Boy, then open sourced it for all e-paper displays</title>
@@ -1003,17 +1014,6 @@
 <description>Vendor promises fix for separate privilege-escalation flaw in the coming weeks</description>
 <enclosure url="https://image.theregister.com/?imageId=232983&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=232983&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Researchers use AI to design proteins that cut up other proteins</title>
-<link>https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins</link>
-<guid isPermaLink="false">4036f92f054c1062d41c4082d7605863a057923b661ca60673fd068c68840461</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 17:10:15 +0000</pubDate>
-<description>AI design tools make proteins that break bonds that are stable for hundreds of years.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster</title>
