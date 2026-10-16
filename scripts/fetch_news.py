@@ -16,6 +16,7 @@ OUT = ROOT / "feeds"
 MAX_PER_SOURCE = 100
 USER_AGENT = "DailyPulse/1.0 (+RSS reader; respectful polling)"
 IMAGE_TIMEOUT = 8
+MIN_SPORTS_BODY = 80  # minimum characters of body text for sports stories
 MIN_IMAGE_WIDTH = 400
 MIN_IMAGE_HEIGHT = 225
 # Laplacian-variance blur heuristic. This is an image-quality check, not an AI vision model.
@@ -186,11 +187,16 @@ def main():
                 image = next((candidate for candidate in entry_images(entry) if image_is_usable(candidate)), "")
                 if not image:
                     continue
+                body = entry_body(entry)
+                if category == "sports" and len(body) < MIN_SPORTS_BODY:
+                    continue  # sports cards need real body text; skip title-only entries
+                if not body:
+                    body = f"Read the full story at {name}."
                 title_key = re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
                 if link in seen_urls or (title_key and title_key in seen_titles): continue
                 seen_urls.add(link); seen_titles.add(title_key)
                 date = entry_date(entry)
-                grouped[category].append({"title":title,"link":link,"source":name,"date":date,"description":entry_description(entry),"body":entry_body(entry),"author":entry_author(entry),"image":image,"category":category})
+                grouped[category].append({"title":title,"link":link,"source":name,"date":date,"description":entry_description(entry),"body":body,"author":entry_author(entry),"image":image,"category":category})
                 total += 1
         except Exception as exc:
             failed_sources += 1
