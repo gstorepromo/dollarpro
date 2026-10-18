@@ -4,7 +4,7 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Returning samples from a Mars moon: Inside the science of Japan's bold MMX mission</title>
+<title>Returning the first samples from a Martian moon: Inside the science of Japan's bold MMX mission to Mars</title>
 <link>https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission</link>
 <guid isPermaLink="false">ad47bc6cebd342115d2a20c177c4abe919fdfc4d6753993959002e6d24b12b05</guid>
 <source>Space.com</source>
@@ -379,6 +379,19 @@
 <content:encoded>Drought driven by El Niño is causing hunger and disease in Sudan that has already killed hundreds of children</content:encoded>
 <enclosure url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316890923.jpg" type="image/jpeg"/>
 <media:content url="https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316890923.jpg" medium="image"/>
+</item>
+<item>
+<title>Artemis II Heat Shield After Splashdown</title>
+<link>https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown</link>
+<guid isPermaLink="false">5357de9353ef4cacb37b6e1a9913005f0f26b4206cb8243b8b16bcc846ff5e2f</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 16 Oct 2026 16:28:01 +0000</pubDate>
+<description>US Navy Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the heat shield performed as expected. Learn how Orion’s heat shield was examined. Image credit: US Navy</description>
+<dc:creator>HQ Web Team</dc:creator>
+<content:encoded>US Navy Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the heat shield performed as expected. Learn how Orion’s heat shield was examined. Image credit: US Navy</content:encoded>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>'Mission: 60s' event promises passport back to the Space Age</title>
@@ -1226,6 +1239,19 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg" medium="image"/>
 </item>
 <item>
+<title>Astronomers Solve Cosmic Cold Case with NASA Hubble Data</title>
+<link>https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9</link>
+<guid isPermaLink="false">e7acee45febf783e11665c7d291d8b2a40f8aba5f5607b9b460e19e507ca7a75</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Tue, 06 Oct 2026 16:17:00 +0000</pubDate>
+<description>This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.</description>
+<dc:creator></dc:creator>
+<content:encoded>This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.</content:encoded>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg" medium="image"/>
+</item>
+<item>
 <title>NASA Astronaut Christina Koch at Eagles vs. Rams</title>
 <link>https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field</link>
 <guid isPermaLink="false">578734c1fe8df2e9efa4b83a532b1ddf9a63a7e7b36defe815c606d85de22c40</guid>
@@ -1447,6 +1473,19 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg" medium="image"/>
 </item>
 <item>
+<title>Colorful Collage of Tarantula Nebula</title>
+<link>https://www.nasa.gov/image-detail/30dor-crop</link>
+<guid isPermaLink="false">c66fa1686b72e2606534bad91ba33deb29d79cade921ec43b2632131268cf3dd</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Mon, 17 Aug 2026 16:03:00 +0000</pubDate>
+<description>Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.</description>
+<dc:creator></dc:creator>
+<content:encoded>Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.</content:encoded>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg" medium="image"/>
+</item>
+<item>
 <title>Perseids Meteor Shower</title>
 <link>https://www.nasa.gov/image-detail/perseidsorion-2</link>
 <guid isPermaLink="false">796e22218cfd29be9db55317e7fb1b94fe245cca06bf425698882b75441051a9</guid>
@@ -1458,6 +1497,19 @@
 <content:encoded>The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.</content:encoded>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp" medium="image"/>
+</item>
+<item>
+<title>2026 Total Solar Eclipse in Spain</title>
+<link>https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2</link>
+<guid isPermaLink="false">88facde88034cedc4ee8f0a4003b54cd7fdcd2931f77b522038da11ed4e20ede</guid>
+<source>NASA Image of the Day</source>
+<category>science</category>
+<pubDate>Wed, 12 Aug 2026 20:17:00 +0000</pubDate>
+<description>A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026.</description>
+<dc:creator></dc:creator>
+<content:encoded>A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026.</content:encoded>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg" medium="image"/>
 </item>
 <item>
 <title>Taking Flight to Prepare for Space</title>

@@ -4,6 +4,84 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Time Lords kill leap seconds, before they become the new Y2K bug</title>
+<link>https://www.theregister.com/networks/2026/10/19/time-lords-kill-leap-seconds-before-they-become-the-new-y2k-bug/5303711</link>
+<guid isPermaLink="false">0405507349befd8c2dd3c53821d3993e22c3ead626a994cb237ff187635e8cd4</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 23:01:00 +0000</pubDate>
+<description>The Time Lords at the General Conference on Weights and Measures (GCPM)* have decided to stop introducing leap seconds, citing the likelihood they could cause problems with internet of things devices – and therefore a Y2K scale remediation effort – as a reason for the change. As The Register reported last week, the GCPM works to harmonize Universal Time – UT1, which boffins calculate using the changing speed of Earth’s rotation – and the Coordinated Universal Time (UTC) standard that humans use to set time. We big-brained hominids can set standards but can’t do much about the fact that the speed of Earth’s rotation is variable. When our planet’s spin slows, the GCPM adds leap seconds so that UT1 and UTC are in synch. In recent years, they have even pondered a negative leap second because Earth’s rotation has sped up a little. Like all good standards orgs, the GCPM conducts years-long debates about its work. The topic of leap seconds has very much been on the agenda in recent years, as they’re increasingly hard to implement now that humanity relies on billions of devices that can usefully share the same timing data but may not easily account for leap seconds. The matter came to a head at last week’s 28th meeting of the GCPM, at which Time Lords voted to end use of leap seconds. The possibility of a negative leap second seems to have been a major factor. “A negative leap second has not previously been applied, and it is considered to pose a high risk of causing anomalies and disruption to critical infrastructures that are largely unprepared,” the Time Lords wrote in a resolution posted after their vote. “The preparation would create, for the industries that rely on time synchronization, a need for financial investment, whose amount is estimated to be similar to their preparations for the millennium bug.” Readers may recall that in the late 1990s, the world spent billions of dollars remediating software that, due to sensible-at-the-time memory-saving measures from the early years of business computing, couldn’t comfortably handle dates after December 31, 1999. Historians now cite the global cost of Y2K remediation at $300-$600 billion. It's widely thought that money was not well-spent. The GCPM also worries about connected devices. The growing influence of IoT (Internet of Things) technologies, dispersed multi-sensor systems, smart grids, and virtual services for contemporary society, creates an increasing risk of malfunction in operation of systems and services with the insertion of any leap second, especially with a negative one,” they wrote. Another concern raised in the resolution is: “The use of different mitigation methods for leap second introductions by global service providers in their server systems, in order to avoid time steps, leads to inconsistency in timing between different systems and in the disseminated time and frequency, which do not conform to the SI unit [the standard second].” The world is home to myriad manufacturers of IoT d</description>
+<dc:creator></dc:creator>
+<content:encoded>The Time Lords at the General Conference on Weights and Measures (GCPM)* have decided to stop introducing leap seconds, citing the likelihood they could cause problems with internet of things devices – and therefore a Y2K scale remediation effort – as a reason for the change. As The Register reported last week, the GCPM works to harmonize Universal Time – UT1, which boffins calculate using the changing speed of Earth’s rotation – and the Coordinated Universal Time (UTC) standard that humans use to set time. We big-brained hominids can set standards but can’t do much about the fact that the speed of Earth’s rotation is variable. When our planet’s spin slows, the GCPM adds leap seconds so that UT1 and UTC are in synch. In recent years, they have even pondered a negative leap second because Earth’s rotation has sped up a little. Like all good standards orgs, the GCPM conducts years-long debates about its work. The topic of leap seconds has very much been on the agenda in recent years, as they’re increasingly hard to implement now that humanity relies on billions of devices that can usefully share the same timing data but may not easily account for leap seconds. The matter came to a head at last week’s 28th meeting of the GCPM, at which Time Lords voted to end use of leap seconds. The possibility of a negative leap second seems to have been a major factor. “A negative leap second has not previously been applied, and it is considered to pose a high risk of causing anomalies and disruption to critical infrastructures that are largely unprepared,” the Time Lords wrote in a resolution posted after their vote. “The preparation would create, for the industries that rely on time synchronization, a need for financial investment, whose amount is estimated to be similar to their preparations for the millennium bug.” Readers may recall that in the late 1990s, the world spent billions of dollars remediating software that, due to sensible-at-the-time memory-saving measures from the early years of business computing, couldn’t comfortably handle dates after December 31, 1999. Historians now cite the global cost of Y2K remediation at $300-$600 billion. It's widely thought that money was not well-spent. The GCPM also worries about connected devices. The growing influence of IoT (Internet of Things) technologies, dispersed multi-sensor systems, smart grids, and virtual services for contemporary society, creates an increasing risk of malfunction in operation of systems and services with the insertion of any leap second, especially with a negative one,” they wrote. Another concern raised in the resolution is: “The use of different mitigation methods for leap second introductions by global service providers in their server systems, in order to avoid time steps, leads to inconsistency in timing between different systems and in the disseminated time and frequency, which do not conform to the SI unit [the standard second].” The world is home to myriad manufacturers of IoT devices, but fewer standards on how they should behave. Some manufacturers therefore build shabbily insecure devices that ship with vulnerable software that allow them to be subverted with malware, or without facilities that allow easy updates. Billions of devices could therefore fail to implement a leap second. That would become a problem because digital certificates include a notbefore value – a time before which the cert won’t be accepted. Many systems that see a misbehaving cert would reject it. It’s therefore conceivable that if a major ISP’s modems could not accommodate a leap second, the extra sliver of time’s introduction could see the carrier’s network decide its own customers are not trustworthy enough to connect. Scenarios like that rather suggest Time Lords have taken a sensibly long view regarding the perhaps-inevitable fallibility of software developers. The GCPM's replacement for leap seconds is to allow UT1 and UTC to diverge by up to 3,600 seconds under a scheme called "Continuous UTC" that comes into force next year. Humanity has lots of practice adding and removing hours thanks to Daylight Saving time, which some want to sunset. ® * The organisation’s formal name is the Conférence générale des poids et mesures, which yields the acronym GCPM</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=1684142&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=1684142&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>An Xbox Series X can now run PlayStation 5 games, but there's a catch</title>
+<link>https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues</link>
+<guid isPermaLink="false">3492edecdcd1c1b5c6b31f19ad2a269d4fd7467afd0ecb9efecee1f2a14ed885</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 23:00:00 +0000</pubDate>
+<description>The idea of PS5 games running on an Xbox Series X -- made possible by how both consoles were built around closely matched hardware -- is certainly exciting.</description>
+<dc:creator>staff@engadget.com (Luke James)</dc:creator>
+<content:encoded>The idea of PS5 games running on an Xbox Series X -- made possible by how both consoles were built around closely matched hardware -- is certainly exciting.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/an-xbox-series-x-can-now-run-playstation-5-games-but-theres-a-catch/l-intro-1791888562.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/an-xbox-series-x-can-now-run-playstation-5-games-but-theres-a-catch/l-intro-1791888562.jpg" medium="image"/>
+</item>
+<item>
+<title>Starlink has two $55 plans that are wildly different — here's how</title>
+<link>https://www.engadget.com/2286681/starlink-residential-vs-roam-55-dollar-plan-how-different</link>
+<guid isPermaLink="false">cb0d8dbebb24b7531545c8fcb50197a3efeb291f988488a8e57a19ce7268fdf8</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 22:45:00 +0000</pubDate>
+<description>It's a trade-off between download speeds and data caps.</description>
+<dc:creator>staff@engadget.com (Giancarlo Valdes)</dc:creator>
+<content:encoded>It's a trade-off between download speeds and data caps.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/starlink-has-two-55-plans-that-are-wildly-different-heres-how/l-intro-1791994899.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/starlink-has-two-55-plans-that-are-wildly-different-heres-how/l-intro-1791994899.jpg" medium="image"/>
+</item>
+<item>
+<title>Router and modem or gateway: What's actually in your home network?</title>
+<link>https://www.engadget.com/2286663/router-modem-gateway-whats-in-home-network</link>
+<guid isPermaLink="false">74f7a1e42c2a91a8995f174ad1dbca321d666b61de5036751d77ae788879511e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 22:30:00 +0000</pubDate>
+<description>A gateway pulls double duty, but a modem and router combo can give you a lot more flexibility and power.</description>
+<dc:creator>staff@engadget.com (Roger Fingas)</dc:creator>
+<content:encoded>A gateway pulls double duty, but a modem and router combo can give you a lot more flexibility and power.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/router-and-modem-or-gateway-whats-actually-in-your-home-network/l-intro-1791993839.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/router-and-modem-or-gateway-whats-actually-in-your-home-network/l-intro-1791993839.jpg" medium="image"/>
+</item>
+<item>
+<title>A Savannah police officer gave her Flock login to her ICE agent husband</title>
+<link>https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband</link>
+<guid isPermaLink="false">4615586fa44617cff144dda6d40d8fb87f07ddf9312e3fc884c5aed718d05813</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 22:20:53 +0000</pubDate>
+<description>Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he had unauthorized access to the system, Tyler Harpe conducted 983 searches related to 97 license plates, which were overwhelmingly registered to Hispanic drivers, according to Savannah's local ABC affiliate, WJCL . The Harpes defended their actions, saying they didn't use access for personal reasons and that … Read the full story at The Verge.</description>
+<dc:creator>Terrence O’Brien</dc:creator>
+<content:encoded>Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he had unauthorized access to the system, Tyler Harpe conducted 983 searches related to 97 license plates, which were overwhelmingly registered to Hispanic drivers, according to Savannah's local ABC affiliate, WJCL . The Harpes defended their actions, saying they didn't use access for personal reasons and that … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>What is Apple's Image Playground app for and how do you use it?</title>
+<link>https://www.engadget.com/2286648/what-is-image-playground-app-how-to-use</link>
+<guid isPermaLink="false">d8a4db0a2e154c0738fd9067fcbe3050efc7bad0c335a56f98615d3ed143dddf</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 22:00:00 +0000</pubDate>
+<description>Apple's image generation tool got some noteworthy updates this fall.</description>
+<dc:creator>staff@engadget.com (Erin Carson)</dc:creator>
+<content:encoded>Apple's image generation tool got some noteworthy updates this fall.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/what-is-apples-image-playground-app-for-and-how-do-you-use-it/l-intro-1791993182.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-is-apples-image-playground-app-for-and-how-do-you-use-it/l-intro-1791993182.jpg" medium="image"/>
+</item>
+<item>
 <title>After five years, Inscryption is finally coming to mobile</title>
 <link>https://www.engadget.com/2289805/after-five-years-inscryption-is-finally-coming-to-mobile</link>
 <guid isPermaLink="false">740897c773e2eb00e6d8005c046f474cb32eb86f50882de4a5d7a7d0c7888cff</guid>
@@ -355,19 +433,6 @@
 <media:content url="https://www.engadget.com/img/gallery/why-are-internet-upload-speeds-so-much-slower-than-download-speeds/l-intro-1791899938.jpg" medium="image"/>
 </item>
 <item>
-<title>Why you might not want to join two Ethernet cables (and what you should do instead)</title>
-<link>https://www.engadget.com/2285141/ethernet-cables-why-not-join-two-what-do-instead</link>
-<guid isPermaLink="false">a9e75cec9461a475e13608f5963df43c0f05f899b972fc88934e59e7474bc957</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 12:15:00 +0000</pubDate>
-<description>Joining two Ethernet cables together with a coupler is rare, but when your cords are suddenly too short, there are better options to extend your network.</description>
-<dc:creator>staff@engadget.com (Husain Parvez)</dc:creator>
-<content:encoded>Joining two Ethernet cables together with a coupler is rare, but when your cords are suddenly too short, there are better options to extend your network.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/why-you-might-not-want-to-join-two-ethernet-cables-and-what-you-should-do-instead/l-intro-1791896475.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-you-might-not-want-to-join-two-ethernet-cables-and-what-you-should-do-instead/l-intro-1791896475.jpg" medium="image"/>
-</item>
-<item>
 <title>Cities want to put the boot on robotaxis</title>
 <link>https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws</link>
 <guid isPermaLink="false">30168ad36b6a9c9cbb75bb017242da662e1fc5dc7f98dba100c22162da50f781</guid>
@@ -522,58 +587,6 @@
 <content:encoded>Lena Schilling of Austrian Greens says images are ‘digital violence against women’ and a threat to democracy An Austrian MEP has spoken out about her experience of being “stripped naked” online without her consent and has urged the EU to take action, as a report found that one in six female MEPs had been targeted by sexualised AI-generated content. Lena Schilling of the Green party said she had learned last month about nude deepfakes of herself circulating online. When she opened the links, she found herself staring at images from one of her first ever press conferences – but the images had been digitally altered to remove her clothing. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/f451bf58ce9566761ef3e471f9080edcbc94e0a6/261_121_2606_2085/master/2606.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90aee8633dcf52c912ebda8b00901ef4" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/f451bf58ce9566761ef3e471f9080edcbc94e0a6/261_121_2606_2085/master/2606.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90aee8633dcf52c912ebda8b00901ef4" medium="image"/>
-</item>
-<item>
-<title>You don't have to turn off your phone to switch SIM cards (but you probably should)</title>
-<link>https://www.engadget.com/2285099/why-turn-off-phone-remove-sim-card-explained</link>
-<guid isPermaLink="false">227f3cd05f9904630081e319f4f783d20663f33b2b3e2fd61bbca1061c419b65</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 00:30:00 +0000</pubDate>
-<description>Swapping SIM cards isn't something you'll do all the time, but when it does come up, you should do it carefully.</description>
-<dc:creator>staff@engadget.com (Jonny Evans)</dc:creator>
-<content:encoded>Swapping SIM cards isn't something you'll do all the time, but when it does come up, you should do it carefully.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/you-dont-have-to-turn-off-your-phone-to-switch-sim-cards-but-you-probably-should/l-intro-1791896825.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/you-dont-have-to-turn-off-your-phone-to-switch-sim-cards-but-you-probably-should/l-intro-1791896825.jpg" medium="image"/>
-</item>
-<item>
-<title>What to check if your Nintendo Switch 2 isn't connecting to the TV</title>
-<link>https://www.engadget.com/2285088/nintendo-switch-2-not-connecting-to-tv-what-check</link>
-<guid isPermaLink="false">c22429d39b7e571783b7df4102bb9ad3beac36a7c0d7321031d35328d3f33299</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-<description>Your Nintendo Switch 2 is made to project its display to a TV. If it's not working, there are some things you should check.</description>
-<dc:creator>staff@engadget.com (Kate Irwin)</dc:creator>
-<content:encoded>Your Nintendo Switch 2 is made to project its display to a TV. If it's not working, there are some things you should check.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/what-to-check-if-your-nintendo-switch-2-isnt-connecting-to-the-tv/l-intro-1791896347.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-to-check-if-your-nintendo-switch-2-isnt-connecting-to-the-tv/l-intro-1791896347.jpg" medium="image"/>
-</item>
-<item>
-<title>OpenAI is building a humanoid robot, but the body isn't the real challenge</title>
-<link>https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge</link>
-<guid isPermaLink="false">8f36e120b70f3dce3f3a8cb120873b976bc5e7104b3151bfc527430c5e853d82</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 23:45:00 +0000</pubDate>
-<description>OpenAI CEO Sam Altman wants a humanoid that can operate in a world designed for people, though the CEO says a robot 'brain' is a much bigger challenge.</description>
-<dc:creator>staff@engadget.com (Husain Parvez)</dc:creator>
-<content:encoded>OpenAI CEO Sam Altman wants a humanoid that can operate in a world designed for people, though the CEO says a robot 'brain' is a much bigger challenge.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/l-intro-1791892991.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/l-intro-1791892991.jpg" medium="image"/>
-</item>
-<item>
-<title>TikTok bans Musk documentary account</title>
-<link>https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary</link>
-<guid isPermaLink="false">e41822633f704ba720543e489022b1bfba1ee44653b8640ea5dd381c4fbdd743</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 19:32:23 +0000</pubDate>
-<description>Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in Washington, DC, on January 20, 2025. (Photo by ANGELA WEISS / AFP) (Photo by ANGELA WEISS/AFP via Getty Images) | AFP via Getty Images Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter , the film's distributor, Bleecker Street, was informed Friday afternoon that a "permanent suspension" was imminent. Bleecker Street has not yet responded to a request for comment from The Verge . While TikTok has no official affiliation with Elon Musk, part owner Larry Ellison appears in the film via a text message offering to help Musk fund his Twitter purchase. Last month, YouTube, Meta, X, and TikTok all face … Read the full story at The Verge.</description>
-<dc:creator>Terrence O’Brien</dc:creator>
-<content:encoded>Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in Washington, DC, on January 20, 2025. (Photo by ANGELA WEISS / AFP) (Photo by ANGELA WEISS/AFP via Getty Images) | AFP via Getty Images Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter , the film's distributor, Bleecker Street, was informed Friday afternoon that a "permanent suspension" was imminent. Bleecker Street has not yet responded to a request for comment from The Verge . While TikTok has no official affiliation with Elon Musk, part owner Larry Ellison appears in the film via a text message offering to help Musk fund his Twitter purchase. Last month, YouTube, Meta, X, and TikTok all face … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Plug-in solar is legal in these 10 states now – how it could save you money</title>
@@ -2251,19 +2264,6 @@
 <content:encoded>Researchers at security startup Xbow used OpenAI's GPT-5.6 Sol model to help chain three zero-day vulnerabilities in Chrome into an exploit capable of executing code outside the browser's sandbox on Windows machines. Xbow estimates that this could affect about one billion users worldwide. Google fixed all three, and paid the Xbow team a $250,000 bounty, its top reward for a Chrome full-chain exploit. The payout also proves a nice return on investment for the human bug hunters - Brendan Dolan-Gavitt, Andres Luksenberg, Baul Lee, and Willem Pinckaers - who spent just six days during the Black Hat and DEF CON conferences and about $40,000 in token charges to discover the vulnerabilities and build the attack chain. “The number on the check is impressive, but the time it took our team, with the help of a publicly available AI model, to break in is even more impressive,” Xbow CEO and founder Oege de Moor said on Tuesday. “A three letter intelligence-agency veteran told me that his team used to spend six months trying to identify this kind of vulnerability and get total access. We did it in six days.” In a separate technical writeup about the attack chain, Dolan-Gavitt detailed the work done by humans and AI agents. Agents, using OpenAI's GPT-5.6-Sol model, searched source code, tested the team’s hypotheses, and developed proofs of concept and exploit stages, he said. Meanwhile, the AI pen-testing security startup’s researchers chose targets, provided context, challenged the agents’ results, and decided which attack components to chain. "We did apply a fair bit of our own human expertise and judgment," he wrote. Crossing two security boundaries in 3 steps Google’s Chrome browser uses several layers of security to protect users, and this includes sandboxes - barriers to contain compromised code and ensure that someone who hacks an individual website can’t take over the entire computer. This includes deploying the V8 sandbox to prevent any memory corruption flaws in the V8 JavaScript engine from impacting other memory. The V8 sandbox sits inside the operating-system process sandbox, and this nested design means that escaping V8's memory restrictions doesn't automatically grant native code execution. Even if an attacker achieves native code execution inside Chrome's renderer, the outer process sandbox restricts access to the rest of the machine. “The chain crossed both boundaries in three vulnerability stages,” abusing Chrome to run code on Windows machines, Dolan-Gavitt wrote. The attack combines a V8 compiler bug, an animated-WebP decoder bug, and a memory-safety bug in Crashpad. The first vulnerability is in Maglev, V8's mid-tier optimizing compiler, and it’s due to a reused, mutable boxed number during deoptimization. This gives attackers read and write access throughout V8's pointer-compression cage. The second stage, the animated-WebP bug, is a V8 sandbox escape. “But rather than attacking the sandbox itself we exploited a property that the V8 sandbox deliberately does not enforce and that Blink incorrectly assumed it could trust,” Dolan-Gavitt explained. “Finally, the exploit used an overflow in Crashpad to cross the final outer process boundary and achieve unsandboxed code execution on the host.” While Google patched all three security issues, and Chrome installs updates on its own, a fix only takes effect once the user relaunches the browser. If you use Chrome, make sure you are running version 152.0.7977.82 or later. The time and money spent to achieve a full chain Chrome exploit illustrate - yet again - that “the bar is significantly lower” for attackers armed with LLMs, Dolan-Gavitt wrote. “Defend accordingly.”®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5299685&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5299685&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks</title>
-<link>https://www.theregister.com/security/2026/10/14/ivanti-patches-connect-secure-zero-day-after-researchers-confirm-in-the-wild-attacks/5303095</link>
-<guid isPermaLink="false">43ccd64701973f4e67d33a351ad86a8fb40bf5f162e28c92ccdc5cbe2e79d47c</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 17:15:00 +0000</pubDate>
-<description>Ivanti customers are being urged to update Connect Secure and check for compromise after attackers exploited a newly disclosed zero-day vulnerability. On Tuesday, Ivanti released updates for Connect Secure (ICS) to fix CVE-2026-104935, an authentication bypass flaw discovered by Volexity. Rated 8.6 on the CVSS scale, it allows remote, unauthenticated attackers to execute arbitrary commands. "We are aware of exploitation in the wild affecting a limited number of customers at the time of disclosure," the vendor said in its advisory. There are limited indicators of compromise available at present, it said, advising customers to refer to Volexity's report on the findings for more information, and to run the Ivanti Integrity Checker Tool regularly. Ivanti lists affected releases in the following branches: 25.1.1.1 and earlier 25.1.2.2 and earlier 22.8R2.4 and earlier The vendor said it previously identified "a portion of this vulnerability" and patched it in July's 25.1.3.0 update, and had been working on backporting the same fix since then, however, attackers began exploiting it before that work was complete. Volexity said the attackers behind the recent intrusions were previously unknown to its researchers, but are now tracked as UTA0576. Criminal motive rather than espionage is suspected by Volexity. Based on observed post-exploitation activity, attackers appeared to be most interested in using their newfound access for credential theft, data exfiltration, log tampering, and network reconnaissance. Notably, the attackers did not deploy any malware nor execute web shells, using only the commands available to them on the ICS appliance. "Because the operation was detected and disrupted, the threat actor's ultimate objectives could not be determined," said Volexity. "However, Volexity assesses with high confidence that UTA0576's actions signaled preparation for lateral movement and a broader compromise of the victim network." The researchers also suspect that the attackers were using large language models to support their endeavors. Volexity pointed to the attackers' repeated use of the exploit channel to run commands, rather than deploying web shells, and their use of "highly specific scripts using hardcoded credentials." Ivanti disclosed one CVE, but Volexity described an attack chain involving three vulnerabilities. Tuesday's updates address the authentication bypass and remote code execution stages. The third vulnerability, which allows privilege escalation, is separate from the flaws encompassed by CVE-2026-104935. Volexity said Ivanti is aware of the additional bug and plans to publish a fix "in the coming weeks." The disclosure of the zero-day this week makes it the third year running that Ivanti has had to deal with attackers exploiting undisclosed flaws in Connect Secure. The previous ICS zero-days were disclosed in January 2025, a year after the January 2024 vulnerabilities led to exploits affecting thousands of ICS appliances. In the interim</description>
-<dc:creator></dc:creator>
-<content:encoded>Ivanti customers are being urged to update Connect Secure and check for compromise after attackers exploited a newly disclosed zero-day vulnerability. On Tuesday, Ivanti released updates for Connect Secure (ICS) to fix CVE-2026-104935, an authentication bypass flaw discovered by Volexity. Rated 8.6 on the CVSS scale, it allows remote, unauthenticated attackers to execute arbitrary commands. "We are aware of exploitation in the wild affecting a limited number of customers at the time of disclosure," the vendor said in its advisory. There are limited indicators of compromise available at present, it said, advising customers to refer to Volexity's report on the findings for more information, and to run the Ivanti Integrity Checker Tool regularly. Ivanti lists affected releases in the following branches: 25.1.1.1 and earlier 25.1.2.2 and earlier 22.8R2.4 and earlier The vendor said it previously identified "a portion of this vulnerability" and patched it in July's 25.1.3.0 update, and had been working on backporting the same fix since then, however, attackers began exploiting it before that work was complete. Volexity said the attackers behind the recent intrusions were previously unknown to its researchers, but are now tracked as UTA0576. Criminal motive rather than espionage is suspected by Volexity. Based on observed post-exploitation activity, attackers appeared to be most interested in using their newfound access for credential theft, data exfiltration, log tampering, and network reconnaissance. Notably, the attackers did not deploy any malware nor execute web shells, using only the commands available to them on the ICS appliance. "Because the operation was detected and disrupted, the threat actor's ultimate objectives could not be determined," said Volexity. "However, Volexity assesses with high confidence that UTA0576's actions signaled preparation for lateral movement and a broader compromise of the victim network." The researchers also suspect that the attackers were using large language models to support their endeavors. Volexity pointed to the attackers' repeated use of the exploit channel to run commands, rather than deploying web shells, and their use of "highly specific scripts using hardcoded credentials." Ivanti disclosed one CVE, but Volexity described an attack chain involving three vulnerabilities. Tuesday's updates address the authentication bypass and remote code execution stages. The third vulnerability, which allows privilege escalation, is separate from the flaws encompassed by CVE-2026-104935. Volexity said Ivanti is aware of the additional bug and plans to publish a fix "in the coming weeks." The disclosure of the zero-day this week makes it the third year running that Ivanti has had to deal with attackers exploiting undisclosed flaws in Connect Secure. The previous ICS zero-days were disclosed in January 2025, a year after the January 2024 vulnerabilities led to exploits affecting thousands of ICS appliances. In the interim, we've also seen suspected Chinese espionage groups exploiting bugs in Endpoint Manager Mobile (EPMM), and critical flaws in Sentry. Ivanti's run of January zero-days continued earlier this year, although those flaws affected EPMM rather than Connect Secure. ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=232983&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=232983&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Ready player one? Why the games arcade is having a rebirth</title>
