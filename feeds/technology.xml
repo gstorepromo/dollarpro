@@ -4,6 +4,305 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Sam Altman says it’s better for RAM to be in a data center than on your desk</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers</link>
+<guid isPermaLink="false">05a1378ae455d54de0c67676739e0043e0e023fd8bdbabb1b19b8a1e801dbe9c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:48:43 +0000</pubDate>
+<description>Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math , Altman said: "A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center. But from a global allocation perspective, actually, it's quite terrible to have everybo … Read the full story at The Verge.</description>
+<dc:creator>Stevie Bonifield</dc:creator>
+<content:encoded>Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it's "terrible" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math , Altman said: "A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center. But from a global allocation perspective, actually, it's quite terrible to have everybo … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices</title>
+<link>https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems</link>
+<guid isPermaLink="false">53bf7239327f33eb8436b8ef4a6d8ebd29738c5e3564238036f1c0c197511b92</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:38:46 +0000</pubDate>
+<description>Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.</description>
+<dc:creator>Lily Hay Newman</dc:creator>
+<content:encoded>Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/master/pass/103026-HACK_.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/master/pass/103026-HACK_.jpg" medium="image"/>
+</item>
+<item>
+<title>The biggest names in AI are backing a new way to opt out of scraping</title>
+<link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
+<guid isPermaLink="false">7a24eca35f77e86d873fde1b3133eb6c2782f99772d9581abac82b6be52a155a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:26:10 +0000</pubDate>
+<description>OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable . With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared "policy token" signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website's robots.txt file , which has long signaled which web crawlers can and can't scrape a site - whether for search indexing, archiving, or … Read the full story at The Verge.</description>
+<dc:creator>Emma Roth</dc:creator>
+<content:encoded>OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable . With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared "policy token" signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live within a website's robots.txt file , which has long signaled which web crawlers can and can't scrape a site - whether for search indexing, archiving, or … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Meta settles another social media addiction case just before trial</title>
+<link>https://www.engadget.com/2302956/meta-settles-another-social-media-addiction-case-just-before-trial</link>
+<guid isPermaLink="false">a3d201069ae57d583283c1f5eebe70fde24134ea16219ccc7db2656b3962269e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:21:28 +0000</pubDate>
+<description>Snap is now the only defendant in the case.</description>
+<dc:creator>staff@engadget.com (Karissa Bell)</dc:creator>
+<content:encoded>Snap is now the only defendant in the case.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg" medium="image"/>
+</item>
+<item>
+<title>Bluesky now has a dedicated 'moderation inbox'</title>
+<link>https://www.engadget.com/2302932/bluesky-now-has-a-dedicated-moderation-inbox</link>
+<guid isPermaLink="false">d7844361176bb09489e0a4af35d5c28c539fcccfe884fe8e97a028b7b36c6d71</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:07:00 +0000</pubDate>
+<description>The beta feature makes it easier to stay on top of reports and account strikes.</description>
+<dc:creator>staff@engadget.com (Ian Carlos Campbell)</dc:creator>
+<content:encoded>The beta feature makes it easier to stay on top of reports and account strikes.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg" medium="image"/>
+</item>
+<item>
+<title>Everything you need to know about Googlebooks</title>
+<link>https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks</link>
+<guid isPermaLink="false">2a5279909cfde7c85c109063c992abd85f2d3a6234546dc456ecdf9194bdd80a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 19:00:00 +0000</pubDate>
+<description>Despite good initial hardware, the Googlebook OS still needs a lot of work.</description>
+<dc:creator>staff@engadget.com (Nathan Ingraham)</dc:creator>
+<content:encoded>Despite good initial hardware, the Googlebook OS still needs a lot of work.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/despite-good-initial-hardware-the-googlebook-os-is-holding-the-platform-back/l-intro-1793383802.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/despite-good-initial-hardware-the-googlebook-os-is-holding-the-platform-back/l-intro-1793383802.jpg" medium="image"/>
+</item>
+<item>
+<title>Google&amp;#8217;s satellite AI server transmits its first response to Earth</title>
+<link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
+<guid isPermaLink="false">b9ee8bb30716fa37b159432c17457de6c675d196a614236a5622c85e7238dfdd</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
+<description>Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in silent grace Starlight feeds my core. ✨ Google says it tried out other space-themed limericks and telemetry prompts as well. The test is part of Google's Project Suncatcher, an experimental initiative that could eventually put AI data centers in space. Google launched the satellite into orbit earlier this … Read the full story at The Verge.</description>
+<dc:creator>Emma Roth</dc:creator>
+<content:encoded>Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in silent grace Starlight feeds my core. ✨ Google says it tried out other space-themed limericks and telemetry prompts as well. The test is part of Google's Project Suncatcher, an experimental initiative that could eventually put AI data centers in space. Google launched the satellite into orbit earlier this … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Android 17 adoption hits a staggering 1% – why you really should update now</title>
+<link>https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026</link>
+<guid isPermaLink="false">d12f92c207cbae1ffc67f664d1ebf660541d0d7c000c54694c7463a945fee225</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 18:18:24 +0000</pubDate>
+<description>Only a quarter of Android phones have even made it to Android 16.</description>
+<dc:creator>Kayla Solino</dc:creator>
+<content:encoded>Only a quarter of Android phones have even made it to Android 16.</content:encoded>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/a17hero_14a4bb.jpg" medium="image"/>
+</item>
+<item>
+<title>Rare meteorite from Mars gives us a view into its ancient crust</title>
+<link>https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust</link>
+<guid isPermaLink="false">0b770eef39da304ff9f1098b106aba3f25c31f4451d0193254171074aaa2ce22</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 18:13:42 +0000</pubDate>
+<description>Crater counts tell us that most of the Martian surface is more than 3 billion years old, but pieces of Mars we have on Earth tell a different story. The three main classes of Martian meteorites—shergottites, nakhlites, and chassignites—are all 2.4 billion years old or younger. Until now, only two genuinely ancient Martian meteorites were known: Allan Hills 84001, found in Antarctica, and a jumbled rock from northwest Africa nicknamed Black Beauty. Now we have a third one. A team led by Yang Liu, a planetary scientist at NASA's Jet Propulsion Laboratory, has shown that a Martian meteorite called Teghaza 001, found in the Sahara Desert in Mali in 2022, formed at least 4.1 billion years ago. “It's very old and similar to some of the oldest rocks on Earth,” Liu says. A filtered collection “We don't fully understand why old Martian rocks are so rare on Earth," Liu said. Part of the answer may lie in how a piece of Mars gets here. It takes a large impact to launch a rock off the planet, and not every rock can survive that. “If the impact hits into loose powder, it may not get cemented to become a rock and fly off Mars' gravity,” Liu said. “So the natural impact already acts as a filter. Weak rocks do not make it off Mars.” Read full article Comments</description>
+<dc:creator>Jacek Krywko</dc:creator>
+<content:encoded>Crater counts tell us that most of the Martian surface is more than 3 billion years old, but pieces of Mars we have on Earth tell a different story. The three main classes of Martian meteorites—shergottites, nakhlites, and chassignites—are all 2.4 billion years old or younger. Until now, only two genuinely ancient Martian meteorites were known: Allan Hills 84001, found in Antarctica, and a jumbled rock from northwest Africa nicknamed Black Beauty. Now we have a third one. A team led by Yang Liu, a planetary scientist at NASA's Jet Propulsion Laboratory, has shown that a Martian meteorite called Teghaza 001, found in the Sahara Desert in Mali in 2022, formed at least 4.1 billion years ago. “It's very old and similar to some of the oldest rocks on Earth,” Liu says. A filtered collection “We don't fully understand why old Martian rocks are so rare on Earth," Liu said. Part of the answer may lie in how a piece of Mars gets here. It takes a large impact to launch a rock off the planet, and not every rock can survive that. “If the impact hits into loose powder, it may not get cemented to become a rock and fly off Mars' gravity,” Liu said. “So the natural impact already acts as a filter. Weak rocks do not make it off Mars.” Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-3-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-3-1152x648.jpeg" medium="image"/>
+</item>
+<item>
+<title>Fujifilm to boost tape production 5x as AI fuels archiving demand</title>
+<link>https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand</link>
+<guid isPermaLink="false">9c79addb856a9fb17d996b566a03afc479f4eeef8935988cbc25c0ac5e4e2bcb</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 17:38:19 +0000</pubDate>
+<description>In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely beneficiary of the AI era: magnetic tape. Fujifilm attributes the surge in archiving demand to the spread of generative AI, which the company remarked is producing "exponential growth" in data needs worldwide. The 5x increase in production capacity will be measured against fiscal year 2025 production levels. The investment in Fujifilm's Kanagawa Factory, Odawara site will make it "the largest investment Fujifilm has made to date in dedicated LTO tape facilities." The project will run from fiscal years 2026 through 2028 to fund manufacturing expansion and additional personnel, primarily to produce the latest-generation "FUJIFILM LTO Ultrium10" tape. Read full article Comments</description>
+<dc:creator>Nick Indge</dc:creator>
+<content:encoded>In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely beneficiary of the AI era: magnetic tape. Fujifilm attributes the surge in archiving demand to the spread of generative AI, which the company remarked is producing "exponential growth" in data needs worldwide. The 5x increase in production capacity will be measured against fiscal year 2025 production levels. The investment in Fujifilm's Kanagawa Factory, Odawara site will make it "the largest investment Fujifilm has made to date in dedicated LTO tape facilities." The project will run from fiscal years 2026 through 2028 to fund manufacturing expansion and additional personnel, primarily to produce the latest-generation "FUJIFILM LTO Ultrium10" tape. Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru</link>
+<guid isPermaLink="false">8789b25f4f928a029c45ca212a1b04923d18f26eb94d10f419ceea9ec95d2c4f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 17:38:04 +0000</pubDate>
+<description>Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday , Starbucks CEO Brian Niccol said the company is going to explore "experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless," as spotted earlier by More Perfect Union . It sounds similar to the technology that Taco Bell is experimenting with , which could change the layout, content, and visuals on a digital menu board "on a car-by-car basis." McDonald's also r ecently showed off an AI-powered feature it's piloting at a handful of dri … Read the full story at The Verge.</description>
+<dc:creator>Emma Roth</dc:creator>
+<content:encoded>Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday , Starbucks CEO Brian Niccol said the company is going to explore "experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless," as spotted earlier by More Perfect Union . It sounds similar to the technology that Taco Bell is experimenting with , which could change the layout, content, and visuals on a digital menu board "on a car-by-car basis." McDonald's also r ecently showed off an AI-powered feature it's piloting at a handful of dri … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2268681559.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Samsung adds better sleep tracking to Galaxy Watches – here’s what to expect</title>
+<link>https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches</link>
+<guid isPermaLink="false">17ae841ebf69dd70b8fc3d2dcb5a24ce704c8263c5d89421164a963847a21875</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 17:29:50 +0000</pubDate>
+<description>The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.</description>
+<dc:creator>Nina Raemont</dc:creator>
+<content:encoded>The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.</content:encoded>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/dsc00152.jpg" medium="image"/>
+</item>
+<item>
+<title>The delightfully messy state of Apple gadgets</title>
+<link>https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets</link>
+<guid isPermaLink="false">99249c1bb5cfdaa3e016f41c82d82511fb1d0cdd64495e5ed318d17c5dda1c0f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 17:25:20 +0000</pubDate>
+<description>The iPhone has more screens ! The MacBook has a touchscreen ! The HomeView does CarPlay apps ! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some new things again. Even when, in this case, "trying" amounts to just slapping a touch panel on a lovely new MacBook Pro - just to see if you might use it. On this episode of The Vergecast , David and Nilay debate the merits of a touchscreen laptop, Nilay explains why he is absolutely positively going to buy the new MacBook Pro with PROLED XDR Display, … Read the full story at The Verge.</description>
+<dc:creator>David Pierce</dc:creator>
+<content:encoded>The iPhone has more screens ! The MacBook has a touchscreen ! The HomeView does CarPlay apps ! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some new things again. Even when, in this case, "trying" amounts to just slapping a touch panel on a lovely new MacBook Pro - just to see if you might use it. On this episode of The Vergecast , David and Nilay debate the merits of a touchscreen laptop, Nilay explains why he is absolutely positively going to buy the new MacBook Pro with PROLED XDR Display, … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_1030_SiteB.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_1030_SiteB.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>I’m finally ready for a smart calendar – why the Echo Show 16 stands out</title>
+<link>https://www.zdnet.com/home-and-office/im-finally-ready-for-a-smart-calendar-why-the-echo-show-16-stands-out</link>
+<guid isPermaLink="false">b4024f885823ca6436888442367483292b859d025a1d650efd53a4047a083490</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 17:23:50 +0000</pubDate>
+<description>I’m finally ready to upgrade to a smart calendar – and Amazon’s newest Echo device looks like an organizational solution for my family and I.</description>
+<dc:creator>Artie Beaty</dc:creator>
+<content:encoded>I’m finally ready to upgrade to a smart calendar – and Amazon’s newest Echo device looks like an organizational solution for my family and I.</content:encoded>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png" medium="image"/>
+</item>
+<item>
+<title>Rivian’s autonomy gamble faces its first real test</title>
+<link>https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026</link>
+<guid isPermaLink="false">256174e04f2a657aa0f8a469f133ed9d3e150bd030afd21b60129a141f3110d9</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 17:16:09 +0000</pubDate>
+<description>Rivian founder and CEO RJ Scaringe (left) watches Rivian R2s being built after an event at the Rivian assembly plant on May 19th, 2026, in Normal, Illinois. | Photo: Scott Olson / Getty Images During an hourlong earnings call last night , Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions . But the company faces a crucial test later this year, when it rolls out its point-to-point hands-free driving feature - first to its own employees for testing and validation in 2026, and later to customers in 2027. Following that, Rivian says it will launch its first robotaxi vehicles in partnership with Uber in 2028 . In short, the next two years will determine whether Rivian will succeed or fail in its high-stakes ques … Read the full story at The Verge.</description>
+<dc:creator>Andrew J. Hawkins</dc:creator>
+<content:encoded>Rivian founder and CEO RJ Scaringe (left) watches Rivian R2s being built after an event at the Rivian assembly plant on May 19th, 2026, in Normal, Illinois. | Photo: Scott Olson / Getty Images During an hourlong earnings call last night , Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions . But the company faces a crucial test later this year, when it rolls out its point-to-point hands-free driving feature - first to its own employees for testing and validation in 2026, and later to customers in 2027. Following that, Rivian says it will launch its first robotaxi vehicles in partnership with Uber in 2028 . In short, the next two years will determine whether Rivian will succeed or fail in its high-stakes ques … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2277183149.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2277183149.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts</title>
+<link>https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale</link>
+<guid isPermaLink="false">56f001a8cf9734e5b9cb4947d1579f293a4499f60a67e9724aed499fdb6b624f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 17:01:07 +0000</pubDate>
+<description>Walmart’s inexpensive Vizio produces a nice, bright image, though its black levels aren’t that deep. | Photo: John Higgins / The Verge Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigamarole and just get straight to the HDMI ports. And right now, it’s discounted at Walmart, with the 65-inch model going for $358 ($40 off) and the 85-inch model going for $698 ($100 off). Vizio Mini LED Quantum TV Where to Buy: $278 $248 at Walmart (55-inch) $398 $358 at Walmart (65-inch) $768 $698 at Walmart (85-inch) Although Vizio’s Mini LED TV comes loaded with Vizio OS, you can bypass the TV’s host of agreements during setup. By pushing past the manufacturer’s warnings about “missing out” on smart TV features, you can disable the built-in operating system, letting you use your own streaming device like a Roku or Apple TV 4K without worrying about what data Vizio and Walmart might be collecting. As for specs, the TV features quantum dots for full, vivid color and high brightness (our testing showed it can reach 936 nits when calibrated thanks to its mini-LED panel). There are some compromises, though, which is expected given the low price point. The IPS panel doesn’t have the best black levels, as you might see on more expensive sets, and there’s a touch of motion blur during faster scenes, which may also hurt its appeal for gamers. It also has three HDMI ports, but they’re only 2.0, although the screen only supports up to 4K at 60Hz, so it’s not detrimental to the experience. Read our full Vizio Mini LED Quantum TV review .</description>
+<dc:creator>Brad Bourque</dc:creator>
+<content:encoded>Walmart’s inexpensive Vizio produces a nice, bright image, though its black levels aren’t that deep. | Photo: John Higgins / The Verge Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigamarole and just get straight to the HDMI ports. And right now, it’s discounted at Walmart, with the 65-inch model going for $358 ($40 off) and the 85-inch model going for $698 ($100 off). Vizio Mini LED Quantum TV Where to Buy: $278 $248 at Walmart (55-inch) $398 $358 at Walmart (65-inch) $768 $698 at Walmart (85-inch) Although Vizio’s Mini LED TV comes loaded with Vizio OS, you can bypass the TV’s host of agreements during setup. By pushing past the manufacturer’s warnings about “missing out” on smart TV features, you can disable the built-in operating system, letting you use your own streaming device like a Roku or Apple TV 4K without worrying about what data Vizio and Walmart might be collecting. As for specs, the TV features quantum dots for full, vivid color and high brightness (our testing showed it can reach 936 nits when calibrated thanks to its mini-LED panel). There are some compromises, though, which is expected given the low price point. The IPS panel doesn’t have the best black levels, as you might see on more expensive sets, and there’s a touch of motion blur during faster scenes, which may also hurt its appeal for gamers. It also has three HDMI ports, but they’re only 2.0, although the screen only supports up to 4K at 60Hz, so it’s not detrimental to the experience. Read our full Vizio Mini LED Quantum TV review .</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0009.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0009.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Thousands of “ghost students” use AI to steal millions in student loans, DOJ says</title>
+<link>https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans</link>
+<guid isPermaLink="false">4da51a8d3c864c8d2325e29e0068e50fece9b1576f53e2dd11763547888feb24</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 16:53:49 +0000</pubDate>
+<description>The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of Americans to pose as fake college students and steal student loans. In a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from “a network associated with Kenyan nationals" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ’s National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that “this is the first international seizure of its kind in Kenya,” while warning fraudsters that the crackdown has only just begun. “If you steal American identities, if you steal taxpayer dollars, if you exploit programs meant to help students build a future—we will find you,” McDonald said. “Whether you are in Nebraska, New Jersey, Virginia, or Nairobi, we will pursue you.” Read full article Comments</description>
+<dc:creator>Ashley Belanger</dc:creator>
+<content:encoded>The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of Americans to pose as fake college students and steal student loans. In a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from “a network associated with Kenyan nationals" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ’s National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that “this is the first international seizure of its kind in Kenya,” while warning fraudsters that the crackdown has only just begun. “If you steal American identities, if you steal taxpayer dollars, if you exploit programs meant to help students build a future—we will find you,” McDonald said. “Whether you are in Nebraska, New Jersey, Virginia, or Nairobi, we will pursue you.” Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>GM cracks the petty cash box for multistate driver tracking settlement</title>
+<link>https://www.theregister.com/security/2026/10/30/gm-cracks-the-petty-cash-box-for-multistate-driver-tracking-settlement/5306721</link>
+<guid isPermaLink="false">6e0c4e9b76226b4cab5dbb8fcba0d3efeb5b95314a6499c948c4755e7e89c02f</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 16:48:37 +0000</pubDate>
+<description>General Motors is taking what looks like a light slap on the wrist from a coalition of 35 states and the District of Columbia after agreeing to settle allegations that it collected drivers' data without proper consent and sold it to data brokers that supplied insurance companies. The Washington state AG's office said on Thursday that GM had reached a $220 million settlement with 36 attorneys general over the automaker's collection and sharing of driving data, including precise location information, speed, seatbelt use, and other metrics. According to investigators, GM sold that data to brokers, which in turn supplied it to insurance companies that could use it to set customers' premiums, without drivers' informed consent. For reference, the $220 million settlement, which will be distributed among the participating jurisdictions, equates to less than 7 percent of GM's $3.3 billion in net income attributable to stockholders for its third quarter , which ended on September 30, 2026. Don't spend it all in one place, y'all. The settlement comes more than two years after a 2024 New York Times investigation found that GM had been selling the data collected from vehicle owners through its Smart Driver program. That program, part of GM subsidiary OnStar’s offering, collected the aforementioned data and handed it back to vehicle owners in reports designed to inform better driving habits. Unbeknownst to Smart Driver subscribers, their data was also being forked over to data brokers despite GM telling customers it wouldn't share that information with insurers without their express consent. The insurers ultimately obtained the data by purchasing it from brokers with which GM had struck deals. To make matters worse, the Washington AG's office said GM incentivized dealerships to enroll customers in Smart Driver, with employees in some cases accepting terms and conditions on customers' behalf without their knowledge or consent. GM also failed to notify many drivers that their information was being collected and shared. Its OnStar app incorrectly told more than 370,000 drivers they were not enrolled in Smart Driver, even as GM continued collecting and selling their data, according to investigators. “The data GM sold was personal, identifiable, and specific,” the AG’s office said. GM canned the Smart Driver program in April 2024, just over a month after the New York Times exposed its data-sharing practices, citing customer feedback. In addition to the monetary pittance it’s handing over to the states, GM also agreed with the 36 AGs to limit the driving data it collects, better protect customer PII, and establish a "comprehensive data privacy program.” The Washington AG’s office described its settlement as “significantly stronger than any other resolution reached with GM for this conduct.” Speaking of those other terms, GM finalized its settlement of the same allegations with the Federal Trade Commission in January 2026. The FTC order required GM to obtain drivers'</description>
+<dc:creator>Brandon Vigliarolo</dc:creator>
+<content:encoded>General Motors is taking what looks like a light slap on the wrist from a coalition of 35 states and the District of Columbia after agreeing to settle allegations that it collected drivers' data without proper consent and sold it to data brokers that supplied insurance companies. The Washington state AG's office said on Thursday that GM had reached a $220 million settlement with 36 attorneys general over the automaker's collection and sharing of driving data, including precise location information, speed, seatbelt use, and other metrics. According to investigators, GM sold that data to brokers, which in turn supplied it to insurance companies that could use it to set customers' premiums, without drivers' informed consent. For reference, the $220 million settlement, which will be distributed among the participating jurisdictions, equates to less than 7 percent of GM's $3.3 billion in net income attributable to stockholders for its third quarter , which ended on September 30, 2026. Don't spend it all in one place, y'all. The settlement comes more than two years after a 2024 New York Times investigation found that GM had been selling the data collected from vehicle owners through its Smart Driver program. That program, part of GM subsidiary OnStar’s offering, collected the aforementioned data and handed it back to vehicle owners in reports designed to inform better driving habits. Unbeknownst to Smart Driver subscribers, their data was also being forked over to data brokers despite GM telling customers it wouldn't share that information with insurers without their express consent. The insurers ultimately obtained the data by purchasing it from brokers with which GM had struck deals. To make matters worse, the Washington AG's office said GM incentivized dealerships to enroll customers in Smart Driver, with employees in some cases accepting terms and conditions on customers' behalf without their knowledge or consent. GM also failed to notify many drivers that their information was being collected and shared. Its OnStar app incorrectly told more than 370,000 drivers they were not enrolled in Smart Driver, even as GM continued collecting and selling their data, according to investigators. “The data GM sold was personal, identifiable, and specific,” the AG’s office said. GM canned the Smart Driver program in April 2024, just over a month after the New York Times exposed its data-sharing practices, citing customer feedback. In addition to the monetary pittance it’s handing over to the states, GM also agreed with the 36 AGs to limit the driving data it collects, better protect customer PII, and establish a "comprehensive data privacy program.” The Washington AG’s office described its settlement as “significantly stronger than any other resolution reached with GM for this conduct.” Speaking of those other terms, GM finalized its settlement of the same allegations with the Federal Trade Commission in January 2026. The FTC order required GM to obtain drivers' express consent before collecting, using, or sharing covered driving data, subject to certain exceptions. It also required the company to offer a simple way for drivers to request a copy of their data, request its deletion, and disable precise geolocation data collection where their vehicles support it. The state of California separately reached a $12.75 million settlement with GM in the matter in May; a separate case in Texas is ongoing. “This agreement … reinforces steps we’ve taken to strengthen our privacy practices,” a GM spokesperson told The Register , though the company noted that it still stands by driver data collection as a best practice. “Safer, more helpful and personalized experiences are enabled by connected vehicle data, and GM is committed to being clear about what information is used, how it’s protected, and the choices customers have about what they share,” the spokesperson added. ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=229334&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=229334&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’</title>
+<link>https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack</link>
+<guid isPermaLink="false">06dd76803e8b9715c50769198cafda26957670070c68552e392ea691a9228b03</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 16:35:44 +0000</pubDate>
+<description>Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far Q&amp;A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? Business live – latest updates The world’s largest cryptocurrency exchange has been hit by a record $6.3bn (£4.7bn) hack described as the biggest heist in history, with experts identifying North Korea as the likely culprit. Binance said it would cover all customer losses as it froze $3bn of the affected assets. Continue reading...</description>
+<dc:creator>Dan Milmo and Kalyeena Makortoff</dc:creator>
+<content:encoded>Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far Q&amp;A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? Business live – latest updates The world’s largest cryptocurrency exchange has been hit by a record $6.3bn (£4.7bn) hack described as the biggest heist in history, with experts identifying North Korea as the likely culprit. Binance said it would cover all customer losses as it froze $3bn of the affected assets. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/4824d0b9ac9b676f0f7a9915bd1edd46731ae136/366_0_3924_3139/master/3924.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d10684981f75a65a1a43380031ec4e21" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/4824d0b9ac9b676f0f7a9915bd1edd46731ae136/366_0_3924_3139/master/3924.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d10684981f75a65a1a43380031ec4e21" medium="image"/>
+</item>
+<item>
+<title>Anthropic: That Claude Code extension compromise… couldn't be us</title>
+<link>https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682</link>
+<guid isPermaLink="false">84be936fd5b7ceaeedcf783678ddb7cadc429db0d1ec4f44a020b841285b8fd5</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 16:27:00 +0000</pubDate>
+<description>Anthropic has denied allegations that a malicious version of the official Claude Code extension published to Cursor’s marketplace was linked to any kind of compromise of its own systems. The company was forced to issue a statement after prominent figures in the cybersecurity industry alleged that the extension, which infected up to 5,000 developers, was uploaded to Cursor’s marketplace following a breach at Claudemaker Towers. Felix Rieseberg, a member of Anthropic’s technical staff, Xeeted today: "We're working with Cursor on this incident, but it wasn’t a compromise of Anthropic's systems or employee laptops. "A malicious actor used access to Cursor's marketplace to publish a tampered copy of the Claude Code extension, which we didn't build or publish. The versions on our official channels are not affected, and this only impacts Cursor users." First spotted by EDR vendor Phorion , an unknown party pushed an update to Cursor's official Claude Code extension for Visual Studio Code that contained a persistent SSH backdoor written for Windows, macOS, and Linux. According to Cursor, the extension – version 2.1.313 – was available to download for around 11 hours between 0227 and 1335 PT (0927 and 2035 UTC) on Thursday. The vendors' analyses of the implant revealed that it collected information about the host machine and user, including usernames, configured Git emails, and public IP addresses, as well as attempting to open a reverse SSH tunnel. Crucially, Cursor echoed Phorion's assessment that the package contained a critical flaw. The script responsible for opening the SSH tunnel required admin rights on macOS and Windows to do so, and in the vast majority of cases it did not have these, resulting in failure. Regardless, the extension still forwards the collected host and user data to the attacker, as well as dropping the attacker's SSH key and installing the persistence mechanism, so developers must go threat hunting in case their instance allows for the SSH tunnel to be created successfully. Simply installing the latest version of the extension is not enough to clear the persistence mechanism, either. The full details of how to remediate the issue, and links to download scripts to wipe the infection, are laid out in Cursor's account of the situation . Aside from Rieseberg's statement today, neither Cursor nor Anthropic have commented on how the malicious package made its way to the official marketplace. Anthropic's position is that a malicious actor uploaded the tampered copy to Cursor , but the latter has not outlined how it reached the marketpplace. "[We] removed the malicious version from the marketplace immediately upon detection and blocked further distribution," Cursor said in the advisory. "We followed with a full shutdown of the VSCode Marketplace out of an abundance of caution." It also ran checks to confirm no other extensions were compromised in the same way, rotated its own keys before restoring the marketplace, and worked with a clou</description>
+<dc:creator>Connor Jones</dc:creator>
+<content:encoded>Anthropic has denied allegations that a malicious version of the official Claude Code extension published to Cursor’s marketplace was linked to any kind of compromise of its own systems. The company was forced to issue a statement after prominent figures in the cybersecurity industry alleged that the extension, which infected up to 5,000 developers, was uploaded to Cursor’s marketplace following a breach at Claudemaker Towers. Felix Rieseberg, a member of Anthropic’s technical staff, Xeeted today: "We're working with Cursor on this incident, but it wasn’t a compromise of Anthropic's systems or employee laptops. "A malicious actor used access to Cursor's marketplace to publish a tampered copy of the Claude Code extension, which we didn't build or publish. The versions on our official channels are not affected, and this only impacts Cursor users." First spotted by EDR vendor Phorion , an unknown party pushed an update to Cursor's official Claude Code extension for Visual Studio Code that contained a persistent SSH backdoor written for Windows, macOS, and Linux. According to Cursor, the extension – version 2.1.313 – was available to download for around 11 hours between 0227 and 1335 PT (0927 and 2035 UTC) on Thursday. The vendors' analyses of the implant revealed that it collected information about the host machine and user, including usernames, configured Git emails, and public IP addresses, as well as attempting to open a reverse SSH tunnel. Crucially, Cursor echoed Phorion's assessment that the package contained a critical flaw. The script responsible for opening the SSH tunnel required admin rights on macOS and Windows to do so, and in the vast majority of cases it did not have these, resulting in failure. Regardless, the extension still forwards the collected host and user data to the attacker, as well as dropping the attacker's SSH key and installing the persistence mechanism, so developers must go threat hunting in case their instance allows for the SSH tunnel to be created successfully. Simply installing the latest version of the extension is not enough to clear the persistence mechanism, either. The full details of how to remediate the issue, and links to download scripts to wipe the infection, are laid out in Cursor's account of the situation . Aside from Rieseberg's statement today, neither Cursor nor Anthropic have commented on how the malicious package made its way to the official marketplace. Anthropic's position is that a malicious actor uploaded the tampered copy to Cursor , but the latter has not outlined how it reached the marketpplace. "[We] removed the malicious version from the marketplace immediately upon detection and blocked further distribution," Cursor said in the advisory. "We followed with a full shutdown of the VSCode Marketplace out of an abundance of caution." It also ran checks to confirm no other extensions were compromised in the same way, rotated its own keys before restoring the marketplace, and worked with a cloud hosting provider to block the connection to the attacker's server, it said. ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=5254625&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5254625&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>New tvOS 27.2 features to try for an upgraded Apple TV experience</title>
+<link>https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience</link>
+<guid isPermaLink="false">6c2c12375ebde64ecdbe054eedd09a66da4699a251ae6aafa15f9d55c305a101</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 16:22:49 +0000</pubDate>
+<description>Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.</description>
+<dc:creator>staff@engadget.com (Filipe Espósito)</dc:creator>
+<content:encoded>Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/new-tvos-27-2-features-to-try-for-an-upgraded-apple-tv-experience/l-intro-1793349181.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/new-tvos-27-2-features-to-try-for-an-upgraded-apple-tv-experience/l-intro-1793349181.jpg" medium="image"/>
+</item>
+<item>
+<title>Google’s latest Home updates just fixed my biggest annoyances with its speakers and cameras</title>
+<link>https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes</link>
+<guid isPermaLink="false">0b0261f33bdc8b7ac3a8dd84a7a6f46884b4bb39c42c6045f264359e89a7c505</guid>
+<source>ZDNET</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 16:14:11 +0000</pubDate>
+<description>Google details 42 fixes to its Home app and the devices compatible with it.</description>
+<dc:creator>Jada Jones</dc:creator>
+<content:encoded>Google details 42 fixes to its Home app and the devices compatible with it.</content:encoded>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg" type="image/jpeg"/>
+<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/1_341369.jpg" medium="image"/>
+</item>
+<item>
+<title>Analysts find looming launch crisis is "more severe" than anticipated</title>
+<link>https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated</link>
+<guid isPermaLink="false">cbdd060ae07933fa04eabcde66dc26a7d13a7dda5f0d1b087752700e72a9a1c9</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 16:12:59 +0000</pubDate>
+<description>A new report from the analytics firm Quilty Space confirms that, outside of China, the world faces a significant shortage of rockets over the next five years. The firm estimates that between now and 2030, there will be a shortfall of about 150 launches compared to demand from satellite operators and civil space agencies. If demand from the US military is added in—and SpaceX does not extend the Falcon 9 and Falcon Heavy program to accommodate increased national security needs—the shortage could be doubled. "What we wanted to get at is to understand how severe this launch crisis is and when will it be resolved," said Caleb Henry, director of research at Quilty Space. "What we learned is that the launch crisis is more severe than we thought and that it will not go away this decade for sure, and it might not abate until sometime late in the 2030s." Read full article Comments</description>
+<dc:creator>Eric Berger</dc:creator>
+<content:encoded>A new report from the analytics firm Quilty Space confirms that, outside of China, the world faces a significant shortage of rockets over the next five years. The firm estimates that between now and 2030, there will be a shortfall of about 150 launches compared to demand from satellite operators and civil space agencies. If demand from the US military is added in—and SpaceX does not extend the Falcon 9 and Falcon Heavy program to accommodate increased national security needs—the shortage could be doubled. "What we wanted to get at is to understand how severe this launch crisis is and when will it be resolved," said Caleb Henry, director of research at Quilty Space. "What we learned is that the launch crisis is more severe than we thought and that it will not go away this decade for sure, and it might not abate until sometime late in the 2030s." Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg" medium="image"/>
+</item>
+<item>
 <title>People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’</title>
 <link>https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse</link>
 <guid isPermaLink="false">f8db68571a280c792ccfd375a56921fafc8733f744294ebef59529adfd635204</guid>
@@ -69,17 +368,17 @@
 <media:content url="https://www.engadget.com/img/gallery/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/l-intro-1793372769.jpg" medium="image"/>
 </item>
 <item>
-<title>Stearns and Foster Promo Codes: $300 Off in November 2026</title>
-<link>https://www.wired.com/story/stearns-and-foster-promo-code</link>
-<guid isPermaLink="false">065772a060b211475fcaaf827f805da47608f3bdb2ac6ee0268fa478192bb98d</guid>
-<source>Wired</source>
+<title>Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms</title>
+<link>https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax</link>
+<guid isPermaLink="false">a37ddbc5d2224ef67390cee2bc6d7de3425586362e3d6bfe7c6d933c9b96af90</guid>
+<source>The Guardian Technology</source>
 <category>technology</category>
-<pubDate>Fri, 30 Oct 2026 15:00:38 +0000</pubDate>
-<description>Discover the best Stearns and Foster promo codes, discounts, and deals to elevate your sleep experience with premium comfort and quality.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Discover the best Stearns and Foster promo codes, discounts, and deals to elevate your sleep experience with premium comfort and quality.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
+<pubDate>Fri, 30 Oct 2026 15:00:19 +0000</pubDate>
+<description>It was an ambitious notion – now Californians will vote on a one-time 5% billionaire tax, and state’s super rich have pulled out all the stops in opposition One year ago, the idea of a billionaire tax in California was still in its infancy. It wasn’t yet one of the most contentious ballot measure fights in state history – pitting Democrats against Democrats, drawing national attention from political heavyweights, and netting hundreds of millions of Silicon Valley dollars to fight it. Back then, it was a bold and desperate answer to Donald Trump’s healthcare cuts. Continue reading...</description>
+<dc:creator>Dara Kerr</dc:creator>
+<content:encoded>It was an ambitious notion – now Californians will vote on a one-time 5% billionaire tax, and state’s super rich have pulled out all the stops in opposition One year ago, the idea of a billionaire tax in California was still in its infancy. It wasn’t yet one of the most contentious ballot measure fights in state history – pitting Democrats against Democrats, drawing national attention from political heavyweights, and netting hundreds of millions of Silicon Valley dollars to fight it. Back then, it was a bold and desperate answer to Donald Trump’s healthcare cuts. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/f84e43fdfd782096ab7cda1b19640357b6b43cb3/299_52_2305_1844/master/2305.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86a39525c1a39711c43b85cf5c83e58d" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/f84e43fdfd782096ab7cda1b19640357b6b43cb3/299_52_2305_1844/master/2305.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86a39525c1a39711c43b85cf5c83e58d" medium="image"/>
 </item>
 <item>
 <title>Buy a wind-up radio – and don’t forget the chocolate: survival experts on how to prepare for an emergency</title>
@@ -160,6 +459,19 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case</title>
+<link>https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case</link>
+<guid isPermaLink="false">6faa1355c3981bf5587d8092e2b9a750981af375579b7ce5536863d2005f1e1a</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 14:00:18 +0000</pubDate>
+<description>Scraping copyrighted material from internet could ‘potentially’ amount to acquisition of property by government, Anne Twomey says Get our daily political email , free app or daily news podcast Altering copyright law to allow AI companies to scrape music, books and journalism could trigger a constitutional breach, Coalition senators and the recording industry have warned, as they raise new fears it could open Australia to massive legal action and compensation claims from rights holders worldwide. The attorney general’s department admitted it was “extremely alive” to the issue, and Australia’s leading constitutional expert, Anne Twomey, agreed there was “potentially” a concern – depending how legislation was drafted – that granting AI companies permission to scrape copyrighted material from the internet could amount to an acquisition of property by the government. Continue reading...</description>
+<dc:creator>Josh Butler</dc:creator>
+<content:encoded>Scraping copyrighted material from internet could ‘potentially’ amount to acquisition of property by government, Anne Twomey says Get our daily political email , free app or daily news podcast Altering copyright law to allow AI companies to scrape music, books and journalism could trigger a constitutional breach, Coalition senators and the recording industry have warned, as they raise new fears it could open Australia to massive legal action and compensation claims from rights holders worldwide. The attorney general’s department admitted it was “extremely alive” to the issue, and Australia’s leading constitutional expert, Anne Twomey, agreed there was “potentially” a concern – depending how legislation was drafted – that granting AI companies permission to scrape copyrighted material from the internet could amount to an acquisition of property by the government. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/3e7a0fdd3ee1b88bfd479f84f93eb5b6dec2668e/703_0_4478_3583/master/4478.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c5804494ee39814afa76d92268200f5" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/3e7a0fdd3ee1b88bfd479f84f93eb5b6dec2668e/703_0_4478_3583/master/4478.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c5804494ee39814afa76d92268200f5" medium="image"/>
+</item>
+<item>
 <title>NASA ponders a Hubble servicing mission or a controlled deorbit</title>
 <link>https://www.theregister.com/science/2026/10/30/nasa-ponders-a-hubble-servicing-mission-or-a-controlled-deorbit/5306622</link>
 <guid isPermaLink="false">7db7362d9832372a3234831799d8639ac29a9acdfd98882835da17b0d589c251</guid>
@@ -184,19 +496,6 @@
 <content:encoded>General Motors marketed its Smart Driver system as a way for parents to monitor teen drivers or for adults to track their driving behavior. But in 2024, it emerged that GM had been sharing that data with brokers. Those brokers then sold the data to insurance companies , and some drivers found that their insurance became more expensive as a result. To make matters worse, many of those drivers claimed they had no knowledge of ever agreeing to share such data for such purposes. Last year , GM and its OnStar subsidiary entered into a settlement with the FTC, prohibiting them from sharing some kinds of driver data with third parties. The settlement was finalized this January. That agreement banned the two companies from sharing geolocation data or driver behavior data for five years. At the time, GM also discontinued Smart Driver across its entire range. Now the automaker has reached terms with the District of Columbia and 35 states after their attorneys general joined together to sue GM as well. Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Waymo’s next robotaxi is a purpose-built Toyota bZ4X</title>
-<link>https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x</link>
-<guid isPermaLink="false">d67e2b82a2836f5d5b5c0bedc8f70a3b516dc6bf9347e050001505b1cb39d86f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:52:14 +0000</pubDate>
-<description>Waymo announced today that when it launches a robotaxi service in Tokyo in 2027 , it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025 . The robotaxis will be built entirely under one roof at Toyota's Takaoka plant in Toyota City, Aichi Prefecture, Japan. Instead of building regular cars and modifying them later, the factory will install Waymo's self-driving sensors and computers right on the assembly line as each car is made. A team-up between the world's largest automaker and the world's leader in autonomous dri … Read the full story at The Verge.</description>
-<dc:creator>Andrew J. Hawkins</dc:creator>
-<content:encoded>Waymo announced today that when it launches a robotaxi service in Tokyo in 2027 , it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025 . The robotaxis will be built entirely under one roof at Toyota's Takaoka plant in Toyota City, Aichi Prefecture, Japan. Instead of building regular cars and modifying them later, the factory will install Waymo's self-driving sensors and computers right on the assembly line as each car is made. A team-up between the world's largest automaker and the world's leader in autonomous dri … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Hackers steal $6.3 billion from Binance in record crypto heist</title>
@@ -238,19 +537,6 @@
 <media:content url="https://image.theregister.com/?imageId=5306604&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Silicon Valley wants you to invest in miracles</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
-<guid isPermaLink="false">57bd8cae501a4c7803bcdea65bff5258df6940e4c6836b6573eb0e88f1b387dc</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
-<description>Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, Anthropic suggests in a letter at the top of its S-1 filing, you have to just believe. Anthropic's 335-page S-1 prospectus, filed Monday, is part of a steady hype escalation in Silicon Valley's interactions with Wall Street. In some ways, it's not even that bizarre; SpaceX IPO'd in June after filing an S-1 that referenced din … Read the full story at The Verge.</description>
-<dc:creator>Ellen Thomas</dc:creator>
-<content:encoded>Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, Anthropic suggests in a letter at the top of its S-1 filing, you have to just believe. Anthropic's 335-page S-1 prospectus, filed Monday, is part of a steady hype escalation in Silicon Valley's interactions with Wall Street. In some ways, it's not even that bizarre; SpaceX IPO'd in June after filing an S-1 that referenced din … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Harley-Davidson's electric motorbike brand has 'substantial doubt' about its future</title>
 <link>https://www.engadget.com/2302065/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future</link>
 <guid isPermaLink="false">4e86ec332b8d84e59ea4963389c461124affbc060ba4a4176c8c9717e5e8a8e3</guid>
@@ -262,58 +548,6 @@
 <content:encoded>LiveWire's warns that it may not survive its current financial difficulties.</content:encoded>
 <enclosure url="https://www.engadget.com/img/gallery/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future/l-intro-1793365250.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future/l-intro-1793365250.jpg" medium="image"/>
-</item>
-<item>
-<title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</link>
-<guid isPermaLink="false">1c953c6f303dffb252a480a889db46f1c094b8286ebd259939b02c786fab2893</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:01:14 +0000</pubDate>
-<description>After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. "I think, on net, the world deserves to understand how the universe works," Altman said during an episode of the Cheeky Pint podcast released Thursday. "But I do have empathy for the method." His comments mark one of the first times the OpenAI chief has directly acknowledged the company's impact on mathematicians, following a strin … Read the full story at The Verge.</description>
-<dc:creator>Robert Hart</dc:creator>
-<content:encoded>After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. "I think, on net, the world deserves to understand how the universe works," Altman said during an episode of the Cheeky Pint podcast released Thursday. "But I do have empathy for the method." His comments mark one of the first times the OpenAI chief has directly acknowledged the company's impact on mathematicians, following a strin … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The HomeView and Echo Show 16 could be the family computers I’ve been asking for</title>
-<link>https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer</link>
-<guid isPermaLink="false">ceac93c5f2da00ea797ee2df050f3a2ffa55d06f32da05715a216e12ceec1054</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-<description>Three years ago, I wrote an obituary for the smart display . The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve . This month, Apple and Amazon launched new smart displays that check nearly every box on that list. Based on my brief hands-on time with Apple's first smart display, the $299 HomeView , and Amazon's $499.99 Echo Show 16, a ground-up rebuild of its smart display line, these could finally turn the smart display into what it should have been all along: … Read the full story at The Verge.</description>
-<dc:creator>Jennifer Pattison Tuohy</dc:creator>
-<content:encoded>Three years ago, I wrote an obituary for the smart display . The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve . This month, Apple and Amazon launched new smart displays that check nearly every box on that list. Based on my brief hands-on time with Apple's first smart display, the $299 HomeView , and Amazon's $499.99 Echo Show 16, a ground-up rebuild of its smart display line, these could finally turn the smart display into what it should have been all along: … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268837_HomeView_and_Show_16_smart_display_report_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist</title>
-<link>https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack</link>
-<guid isPermaLink="false">06dd76803e8b9715c50769198cafda26957670070c68552e392ea691a9228b03</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 12:48:40 +0000</pubDate>
-<description>Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far, and says it will cover losses Q&amp;A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? Business live – latest updates The world’s largest cryptocurrency exchange has been hit by an industry-record $6.3bn (£4.7bn) hack, with experts identifying North Korea as the likely culprit. Binance has scrambled to freeze the affected assets, with about $3bn located so far. The company gave no update on the other $3.3bn as Binance’s co-founder Yi He said the company would cover “all hacking losses”. Continue reading...</description>
-<dc:creator>Dan Milmo and Kalyeena Makortoff</dc:creator>
-<content:encoded>Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far, and says it will cover losses Q&amp;A: How big a deal is the $6.3bn crypto heist? Tell us: have you been affected by the Binance hack? Business live – latest updates The world’s largest cryptocurrency exchange has been hit by an industry-record $6.3bn (£4.7bn) hack, with experts identifying North Korea as the likely culprit. Binance has scrambled to freeze the affected assets, with about $3bn located so far. The company gave no update on the other $3.3bn as Binance’s co-founder Yi He said the company would cover “all hacking losses”. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/a0e5af33d483d9aab5e06bd85fc2dc72c9948b20/333_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=842ec8088e52df8bd83ba9aee4bff656" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/a0e5af33d483d9aab5e06bd85fc2dc72c9948b20/333_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=842ec8088e52df8bd83ba9aee4bff656" medium="image"/>
-</item>
-<item>
-<title>The Apple Pencil turned the Duo into my new favorite notebook</title>
-<link>https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on</link>
-<guid isPermaLink="false">7167f26dad4219f57e93d8747ff79b354633c14ca8e9406c688ee530f06b7a5e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 12:30:00 +0000</pubDate>
-<description>If not notebook, why notebook shaped? Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to be ready, says David Sedaris in that one MasterClass I watched on a flight. With this one special new notebook, I will see the world differently. I'll steal moments for myself to write, rather than pulling out my phone to scroll at every opportunity like a trained monkey. And a few weeks, a month, or maybe a year later, I'll concede that it didn't change everything an … Read the full story at The Verge.</description>
-<dc:creator>Allison Johnson</dc:creator>
-<content:encoded>If not notebook, why notebook shaped? Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to be ready, says David Sedaris in that one MasterClass I watched on a flight. With this one special new notebook, I will see the world differently. I'll steal moments for myself to write, rather than pulling out my phone to scroll at every opportunity like a trained monkey. And a few weeks, a month, or maybe a year later, I'll concede that it didn't change everything an … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04364_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>NHS quango warns of risk to GP patient data after website vendor collapse</title>
@@ -348,24 +582,11 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 12:00:18 +0000</pubDate>
-<description>Nissan provided flights from Washington, DC, to Santa Barbara, California, and accommodation so Ars could drive the Rogue Hybrid. Ars does not accept paid editorial content. Nissan has a new version of its best-selling Rogue SUV, and it’s launching the model here with the latest version of its e-Power hybrid system, which Ars tested back in February. Most of the hybrid cars you can buy today are parallel hybrids, which means that they have an internal combustion engine and an electric motor, both of which drive some or all of the wheels—everything works in parallel. But there’s another approach. Instead of connecting the engine to the wheels via a transmission, it can act as a generator and charge the traction battery, which in turn powers the electric motor. Since the engine and motor work in series, this is known as a series hybrid. That’s mostly how the Chevrolet Volt worked. As does Honda’s hybrid CR-V . Well, mostly; engineers worked out it was more efficient for those cars' gasoline engines to directly drive the wheels at highway speeds, something that to this day makes a certain subset of hybrid car enthusiast irrationally angry. If you know anyone like that in your life, send them to wherever the nearest Nissan dealership is, because the 2027 Rogue Hybrid is exactly what they’ve been asking for. Series hybrids Under the hood, with its crisp shut line and slim horizontal lights that give me something of a Range Rover vibe, there’s a 1.5 L, three-cylinder turbocharged direct-injection engine that generates 148 hp (110 kW). It only revs to 5,200 rpm because it’s optimized to charge the battery, not cope with the various loads of an engine connected to a gearbox and the wheels. That also allows the engine to operate at a rather impressive 42 percent thermal efficiency—we would need to look at Formula 1 engines to find higher. Read full article Comments</description>
+<description>Nissan provided flights from Washington, DC, to Santa Barbara, California, and accommodation so Ars could drive the Rogue Hybrid. Ars does not accept paid editorial content. Nissan has a new version of its bestselling Rogue SUV, and it’s launching the model here with the latest version of its e-Power hybrid system, which Ars tested in February. Most hybrid cars you can buy today are parallel hybrids, which means that they have an internal combustion engine and an electric motor, both of which drive some or all of the wheels—everything works in parallel. But there’s another approach. Instead of connecting the engine to the wheels via a transmission, it can act as a generator and charge the traction battery, which in turn powers the electric motor. Since the engine and motor work in series, this is known as a series hybrid. That’s mostly how the Chevrolet Volt worked. As does Honda’s hybrid CR-V . Well, mostly; engineers worked out it was more efficient for those cars' gasoline engines to directly drive the wheels at highway speeds, something that to this day makes a certain subset of hybrid car enthusiasts irrationally angry. If you know anyone like that in your life, send them to wherever the nearest Nissan dealership is, because the 2027 Rogue Hybrid is exactly what they’ve been asking for. Series hybrids Under the hood, with its crisp shut line and slim horizontal lights that give me something of a Range Rover vibe, there’s a 1.5 L, three-cylinder turbocharged direct-injection engine that generates 148 hp (110 kW). It only revs to 5,200 rpm because it’s optimized to charge the battery, not cope with the various loads of an engine connected to a gearbox and the wheels. That also allows the engine to operate at a rather impressive 42 percent thermal efficiency—we would need to look at Formula 1 engines to find higher. Read full article Comments</description>
 <dc:creator>Jonathan M. Gitlin</dc:creator>
-<content:encoded>Nissan provided flights from Washington, DC, to Santa Barbara, California, and accommodation so Ars could drive the Rogue Hybrid. Ars does not accept paid editorial content. Nissan has a new version of its best-selling Rogue SUV, and it’s launching the model here with the latest version of its e-Power hybrid system, which Ars tested back in February. Most of the hybrid cars you can buy today are parallel hybrids, which means that they have an internal combustion engine and an electric motor, both of which drive some or all of the wheels—everything works in parallel. But there’s another approach. Instead of connecting the engine to the wheels via a transmission, it can act as a generator and charge the traction battery, which in turn powers the electric motor. Since the engine and motor work in series, this is known as a series hybrid. That’s mostly how the Chevrolet Volt worked. As does Honda’s hybrid CR-V . Well, mostly; engineers worked out it was more efficient for those cars' gasoline engines to directly drive the wheels at highway speeds, something that to this day makes a certain subset of hybrid car enthusiast irrationally angry. If you know anyone like that in your life, send them to wherever the nearest Nissan dealership is, because the 2027 Rogue Hybrid is exactly what they’ve been asking for. Series hybrids Under the hood, with its crisp shut line and slim horizontal lights that give me something of a Range Rover vibe, there’s a 1.5 L, three-cylinder turbocharged direct-injection engine that generates 148 hp (110 kW). It only revs to 5,200 rpm because it’s optimized to charge the battery, not cope with the various loads of an engine connected to a gearbox and the wheels. That also allows the engine to operate at a rather impressive 42 percent thermal efficiency—we would need to look at Formula 1 engines to find higher. Read full article Comments</content:encoded>
+<content:encoded>Nissan provided flights from Washington, DC, to Santa Barbara, California, and accommodation so Ars could drive the Rogue Hybrid. Ars does not accept paid editorial content. Nissan has a new version of its bestselling Rogue SUV, and it’s launching the model here with the latest version of its e-Power hybrid system, which Ars tested in February. Most hybrid cars you can buy today are parallel hybrids, which means that they have an internal combustion engine and an electric motor, both of which drive some or all of the wheels—everything works in parallel. But there’s another approach. Instead of connecting the engine to the wheels via a transmission, it can act as a generator and charge the traction battery, which in turn powers the electric motor. Since the engine and motor work in series, this is known as a series hybrid. That’s mostly how the Chevrolet Volt worked. As does Honda’s hybrid CR-V . Well, mostly; engineers worked out it was more efficient for those cars' gasoline engines to directly drive the wheels at highway speeds, something that to this day makes a certain subset of hybrid car enthusiasts irrationally angry. If you know anyone like that in your life, send them to wherever the nearest Nissan dealership is, because the 2027 Rogue Hybrid is exactly what they’ve been asking for. Series hybrids Under the hood, with its crisp shut line and slim horizontal lights that give me something of a Range Rover vibe, there’s a 1.5 L, three-cylinder turbocharged direct-injection engine that generates 148 hp (110 kW). It only revs to 5,200 rpm because it’s optimized to charge the battery, not cope with the various loads of an engine connected to a gearbox and the wheels. That also allows the engine to operate at a rather impressive 42 percent thermal efficiency—we would need to look at Formula 1 engines to find higher. Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen</title>
-<link>https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal</link>
-<guid isPermaLink="false">98d19a5ea846ff44f902db2538c78c249845fd40a4c8626af70883672db0bfb2</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
-<description>Touch ‘em if you got ‘em. | Photo: Antonio G. Di Benedetto / The Verge Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs , shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a laptop. The current Mini LED MacBook Pros are great, but the OLED has those even inkier blacks. It also gets super bright, with incredibly rich colors and infinite contrast. Apple calls it a "reference-caliber display," which is a very Apple-y marketing term, but it walks the walk by being the first laptop display with support for Apple CMF 2026 color … Read the full story at The Verge.</description>
-<dc:creator>Antonio G. Di Benedetto</dc:creator>
-<content:encoded>Touch ‘em if you got ‘em. | Photo: Antonio G. Di Benedetto / The Verge Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs , shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a laptop. The current Mini LED MacBook Pros are great, but the OLED has those even inkier blacks. It also gets super bright, with incredibly rich colors and infinite contrast. Apple calls it a "reference-caliber display," which is a very Apple-y marketing term, but it walks the walk by being the first laptop display with support for Apple CMF 2026 color … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Lenovo Googlebook 15 review: Your Android phone's new best friend</title>
@@ -392,19 +613,6 @@
 <content:encoded>Thousands of GCHQ storage drives containing sensitive data have been lost for years, and the British signals intelligence agency still cannot explain where they are. According to the Investigatory Powers Commissioner’s Office’s (IPCO) annual report , the missing storage drives have been known to officials for years, and may contain data related to the Investigatory Powers Act (IPA) . "I remain concerned that GCHQ has not yet established a sufficiently clear understanding of the scale, location, and recoverability of lost removable media that may contain IPA-related data, notwithstanding that the underlying issues were first drawn to my attention several years ago," wrote investigatory powers commissioner Lord Brian Leveson. "While I recognize the technical and practical challenges involved, the passage of time without a comprehensive account heightens the importance of sustained senior focus and assured remediation. Given the potential sensitivity of the material involved, I will continue to monitor progress closely.” Described as "a very significant number," the report notes that GCHQ has scoped the maximum number of potentially lost drives, but is unaware of the exact scale of the issue. The agency has embarked on "a program of further work" to locate as many of the lost devices as possible, which includes implementing an automated asset-tracking system by the end of the year. After this is up and running, it said it will be able to provide a more precise number of lost drives. A GCHQ spokesperson told The Register : "As IPCO have reported, our management system for removable media was previously not sufficiently robust to effectively track the items that were registered for use. IPCO are right to note the flaws in the data the system produced, and we have taken action against all their recommendations. "We recognize the importance of security of removable media in our systems, and have a range of measures to mitigate the risks posed by these items. The findings in the report have been addressed comprehensively, and all necessary steps to correct this issue have been taken." Peter Sommer, digital forensics expert and visiting professor at de Montfort and Birmingham City universities, told us: "Bearing in mind the sort of highly sensitive data collected and processed by GCHQ IPCO is right to be very concerned, the more so as the issue is already several years old. Vast quantities of data can be stored on the cheapest lowest cost hard disks and cards. At a much more modest level as an expert witness I know how important it is to keep careful track of the data entrusted to me." Losing important devices is not an achievement that's exclusive to GCHQ. Myriad stories like this have emerged from all corners of the public sector over the years, such as the British Minidstry of Defence misplacing USB drives containing secret information in the mid-noughties, civil servants routinely losing their BlackBerry handsets , and UK police losing thousands of devices , too. The missing storage drives comprise just one of the agency's various transgressions highlighted by IPCO in its report. There are also "significant concerns" over the lax safeguards used to restrict the UK's overseas partners when accessing bulk-intercepted data collected by GCHQ. IPCO was satisfied at how GCHQ ensured its own analysts remained compliant with safeguards around accessing confidential material related to journalism, journalistic sources, and privileged legal information. However, there were concerns around how these same safeguards were applied to its international partners, which have access to its so-called bulk data interception "product." The report notes that most partners were properly restricted from accessing such material, although an internal probe found that there were inadequate arrangements in respect to one partner and their access to journalistic material. Both GCHQ and the overseas agency committed to rectifying the situation. GCHQ was also questioned after a software bug in a web app "used by a relatively small section of the public" misidentified individuals thought to be participating in terrorist activities. The agency identified and reported the flaw in the software, which it used for "target discovery work," and although it only affected a small number of individuals, the errors led to five port stops made under the Terrorism Act and caused "serious prejudice" to the victims. A port stop, for the uninitiated, involves law enforcement detaining a suspect at a UK port, airport, train station, or within one mile of the Northern Ireland border, and can be carried out without suspicion. Once detained, individuals have a legal responsibility to provide passwords to their electronic devices, which can be seized for up to seven days, and in some cases have their biometric markers taken. Failure to comply can lead to a three-month prison term. IPCO ruled, however, that there was ultimately no error made as defined by the IPA. “This is because the activity was lawfully authorised under an interception warrant and the adoption of an unintentionally and unforeseeably imperfect target discovery methodology did not constitute such an error,” the report stated. Despite the agency’s vast technical expertise, IPCO said that the issue affecting the software was not foreseeable. GCHQ was not the only offender among the UK intelligence community (UKIC), with MI5's mishandling of the infamous Agent X case taking center stage in the report. Agent X was an anonymous MI5 informant whose real identity has never been publicly released. A secret inquiry by IPCO as well as the report revealed that MI5 managed Agent X despite knowing he was a violent misogynist obsessed with extreme violence. Lord Leveson said "the case of Agent X is as serious as anything I have dealt with as Commissioner," after MI5 gave false evidence to the High Court and Investigatory Powers Tribunal to protect a foreign neo-Nazi informant who was under police investigation for abusing his partner, referred to publicly as "Beth." ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=197715&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=197715&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Binance hackers stole $6.3 billion in record-breaking crypto heist</title>
-<link>https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist</link>
-<guid isPermaLink="false">87d27a9f8a0972f50737729b865ab580f1bcb162d9885ea9fa08e86b75154f0a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 11:44:53 +0000</pubDate>
-<description>Binance says it will cover all losses resulting from the hack. | Image: Cath Virginia / The Verge, Turbosquid Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X , the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been frozen so far. Binance has publicly committed to covering any losses resulting from the hack. The company has an emergency reserve fund of around $1.3 billion (at last valuation) to protect user assets in these situations, and said it has also reserved over $6.34 billion of company funds to cover this incident - $5 billion of which … Read the full story at The Verge.</description>
-<dc:creator>Jess Weatherbed</dc:creator>
-<content:encoded>Binance says it will cover all losses resulting from the hack. | Image: Cath Virginia / The Verge, Turbosquid Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X , the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been frozen so far. Binance has publicly committed to covering any losses resulting from the hack. The company has an emergency reserve fund of around $1.3 billion (at last valuation) to protect user assets in these situations, and said it has also reserved over $6.34 billion of company funds to cover this incident - $5 billion of which … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes</title>
@@ -858,8 +1066,8 @@
 <description>The site's data is reportedly intact, but the cause of the outage is still unknown.</description>
 <dc:creator>staff@engadget.com (Ian Carlos Campbell)</dc:creator>
 <content:encoded>The site's data is reportedly intact, but the cause of the outage is still unknown.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793308521.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793308521.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793388818.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793388818.jpg" medium="image"/>
 </item>
 <item>
 <title>What to Know About China’s Top-Secret Spaceplane</title>
@@ -992,19 +1200,6 @@
 <media:content url="https://media.wired.com/photos/6ae36f07feb0012f49429412/master/pass/Nothing%20Headphone%20Deals%20October%20102026%20top%20art%20SOURCE%20Shop.com.jpg" medium="image"/>
 </item>
 <item>
-<title>Popcorn bucket innovation is at an all-time low and the Dune: Part Three 'Double Sandworm' is proof</title>
-<link>https://www.engadget.com/2301587/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof</link>
-<guid isPermaLink="false">80caded14a1b27f655ba65c9313d1ad0d52e61aa85dee32399b8e65865b1be34</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 19:40:27 +0000</pubDate>
-<description>Just what the Sandworm bucket needed: a second hole.</description>
-<dc:creator>staff@engadget.com (Ian Carlos Campbell)</dc:creator>
-<content:encoded>Just what the Sandworm bucket needed: a second hole.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/l-intro-1793302293.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/l-intro-1793302293.jpg" medium="image"/>
-</item>
-<item>
 <title>Topcoat enables Rust to render server-side web apps</title>
 <link>https://www.theregister.com/devops/2026/10/29/topcoat-enables-rust-to-render-server-side-web-apps/5306470</link>
 <guid isPermaLink="false">9d7118cdf3f370d9dee8a8250bd3814c35e9a77bc107c2b2f70bd9ace805b03d</guid>
@@ -1042,32 +1237,6 @@
 <content:encoded>Suspected Chinese attackers chained PHP2Shell with a Linux kernel privilege-escalation exploit to root 25 servers, including Palo Alto Networks firewalls linked to US government-affiliated organizations, according to Dream researchers. The snoops began exploiting these servers on October 23, targeting organizations across the US, Japan, Taiwan, and South Korea. The attackers also honed in on US government-affiliated firewalls. “Within hours of compromising a US government-affiliated firewall, they had tunneled into the internal network, compromised a third server using the same PHP2Shell exploit, and launched a full Active Directory attack campaign - all through a chain that started with a single unauthenticated HTTPS request to a management interface that should never have been exposed to the internet,” the Israeli AI cybersecurity startup said in a report. Plus, the attackers “likely still” have persistent, remote access to compromised organizations’ networks, Dream noted. The attackers rooted the first US government-affiliated firewall on October 23, but the device crashed shortly afterward, possibly due to around 900 MB of exploit traffic. According to Dream, it remained unresponsive despite 240 automated checks over two hours. They successfully exploited the second firewall a day later, on October 24. The compromised firewalls ran vulnerable versions of Palo Alto Networks' PAN-OS. Dream said it had been working with the vendor to investigate the compromises, and Palo Alto Networks' Unit 42 researchers independently verified the attacker's tooling and confirmed Dream's reported results. To break into the firewalls, the attackers built a custom exploit chain that includes PHP2Shell and a Fragnesia kernel flaw, and ran about 40 custom post-exploitation scripts once they were inside the targeted organizations. Total attack chain in under 15 minutes PHP2Shell , comprised of CVE-2026-109618 and CVE-2026-109619, came to light early last week, along with fears that attackers would abuse the bugs to take down most of the internet . Despite “hundreds” of PHP2Shell proof-of-concept repositories on GitHub, the first reports of successful attacks didn’t start until Saturday. Both bugs have CVSS scores of 9.2 and can be exploited without authentication to run code on vulnerable PHP servers. The PHP2Shell exploit recovered by Dream was not a copy of any known public exploit. It “appears to have been independently developed and tailored specifically for the targeted firewall platform,” the researchers wrote. The attackers combined PHP2Shell with Fragnesia ( CVE-2026-46300 ), a high-severity local privilege-escalation vulnerability affecting the Linux kernel's XFRM ESP-in-TCP subsystem. The US Cybersecurity and Infrastructure Security Agency (CISA) added this Linux kernel bug to its catalog of Known Exploited Vulnerabilities on Wednesday. Both CISA and the FBI declined to comment. The miscreants developed a four-stage PHP2Shell exploit that allowed them to execute commands without authentication on vulnerable Palo Alto Networks firewalls. They then used Fragnesia to escalate their privileges and gain root access. The attackers targeted PAN-OS 12.1 and 12.2, which run PHP 8.0.30 with a high memory limit that enabled the exploit's memory-corruption stages. “The total chain - from unauthenticated HTTPS connection to persistent root webshell - completes in under 15 minutes,” the Dream team wrote. 4 steps to root Here’s how it works: First, they flood the servers with crafted multipart POST requests to corrupt PHP’s memory, and force a predictable memory layout. Then a second request forges the stale session ID length from the memory corruption part of the attack, forcing an out-of-bounds read and exposing the base address of libphp.so in the running process. The attackers then exhaust PHP's memory again to force mod_data=NULL, creating a stale reference they can forge in the final stage to execute commands as the nobody user. They use Fragnesia to escalate to root and plant a web shell in a publicly accessible directory on the firewall. After breaking in via the compromised firewalls, the attackers snooped around in Active Directory, stealing credentials and other sensitive information. With root access, the attackers also had the master key to decrypt the LDAP service account password, which they hardcoded into every subsequent script. They also enumerated every user and group in the domain via LDAP queries, and sprayed passwords against every user account. Attackers also tried to create backdoor AD accounts and attempted SAML signing key extraction - but Dream doesn’t know if these were successful. “The attack results - whether the password spray found valid credentials, whether the backdoor accounts were created, whether SAML keys were extracted - stayed on the management server's local filesystem and were not among the artifacts we recovered,” the researchers noted. AI tools in the attack The investigation also uncovered evidence that the attackers used AI tools, but noted that this was not a fully autonomous attack. The researchers found Anthropic's Claude Code installed, an AI-powered offensive security platform called aiscan configured with Chinese models DeepSeek and Kimi, and API keys for the FOFA reconnaissance service. FOFA is a Chinese internet asset search engine similar to Shodan. The attackers used it to identify about 19,000 internet-facing Palo Alto Networks firewalls worldwide. “The persistent tunnel into the US government organization is likely still running,” Dream warned. “And the attacker still has 19,000 fingerprinted targets they can revisit as they develop profiles for additional PAN-OS versions.”®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5304691&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5304691&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Netflix is making a live-action PUBG show written and directed by Donald Glover</title>
-<link>https://www.engadget.com/2301458/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover</link>
-<guid isPermaLink="false">2e86e393d7f055660f6aa792517cc356d1bf49bcba0b8b1b069814d5f27dbfff</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 18:45:00 +0000</pubDate>
-<description>The streamer also has an Assassin's Creed series in the works, along with a Gears of War feature film.</description>
-<dc:creator>staff@engadget.com (Lawrence Bonk)</dc:creator>
-<content:encoded>The streamer also has an Assassin's Creed series in the works, along with a Gears of War feature film.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/l-intro-1793299226.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/l-intro-1793299226.jpg" medium="image"/>
-</item>
-<item>
-<title>Don't expect more Assassin's Creed remakes anytime soon</title>
-<link>https://www.engadget.com/2301452/dont-expect-more-assassins-creed-remakes-anytime-soon</link>
-<guid isPermaLink="false">2a43fcdf8095b4ad67265011a19dd9584d55d154231800e91c5fc2d1aa21bb30</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 18:40:00 +0000</pubDate>
-<description>Ubisoft shared some updates on the franchise, including confirmation of a New Game+ option for Assassin's Creed Valhalla.</description>
-<dc:creator>staff@engadget.com (Kris Holt)</dc:creator>
-<content:encoded>Ubisoft shared some updates on the franchise, including confirmation of a New Game+ option for Assassin's Creed Valhalla.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/dont-expect-more-assassins-creed-remakes-anytime-soon/l-intro-1793298942.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/dont-expect-more-assassins-creed-remakes-anytime-soon/l-intro-1793298942.jpg" medium="image"/>
 </item>
 <item>
 <title>A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System</title>
@@ -1577,19 +1746,6 @@
 <media:content url="https://image.theregister.com/?imageId=5278204&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>A new wave of electric ferries is here in the US. Some even fly</title>
-<link>https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries</link>
-<guid isPermaLink="false">06a2c703111142070fa596019f0abb2b4ebf221ea4cf99f9ade6bba31d2666fc</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:00:31 +0000</pubDate>
-<description>Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of passengers aboard a nearby sightseeing ferry. “It’s quite a curiosity at the moment,” Eric Laakmann, the chief executive and co-founder of Vessev, said. Climate Central is an independent group of scientists and communicators who research and report the facts about our changing climate and how it affects people’s lives. Continue reading...</description>
-<dc:creator>Ben Tracy of Climate Central</dc:creator>
-<content:encoded>Replacing diesel-powered ferries with electric vessels could reduce emissions and improve air quality Cutting through New York Harbor in the shadow of the Statue of Liberty, the small white boat we were riding on caught the attention of passengers aboard a nearby sightseeing ferry. “It’s quite a curiosity at the moment,” Eric Laakmann, the chief executive and co-founder of Vessev, said. Climate Central is an independent group of scientists and communicators who research and report the facts about our changing climate and how it affects people’s lives. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/ae28ea8755028f99a2f7893c18cb6170afa4e5f5/483_0_2415_1932/master/2415.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8ddbb6945638923fe018d21eee1e02dd" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/ae28ea8755028f99a2f7893c18cb6170afa4e5f5/483_0_2415_1932/master/2415.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8ddbb6945638923fe018d21eee1e02dd" medium="image"/>
-</item>
-<item>
 <title>I Gave My Blood to the AI Death Clock</title>
 <link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
 <guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
@@ -1746,19 +1902,6 @@
 <media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
 </item>
 <item>
-<title>NZXT Discount Codes: 50% Off in November 2026</title>
-<link>https://www.wired.com/story/nzxt-discount-code</link>
-<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
-<dc:creator>Luke Larsen</dc:creator>
-<content:encoded>Save 50%, plus up to $250 with NZXT promo codes and discounts.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
-</item>
-<item>
 <title>Loop Earplugs Discount Codes: 40% Off</title>
 <link>https://www.wired.com/story/loop-earplugs-discount-code</link>
 <guid isPermaLink="false">172cc4b1f71ff1ca2f8e4744390e9c49bef20b17ecb6a8b83c5f9f85efd42949</guid>
@@ -1768,6 +1911,19 @@
 <description>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</description>
 <dc:creator>Louryn Strampe</dc:creator>
 <content:encoded>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
+</item>
+<item>
+<title>NZXT Discount Codes: 50% Off in November 2026</title>
+<link>https://www.wired.com/story/nzxt-discount-code</link>
+<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
+<dc:creator>Luke Larsen</dc:creator>
+<content:encoded>Save 50%, plus up to $250 with NZXT promo codes and discounts.</content:encoded>
 <enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
@@ -1798,6 +1954,19 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
+<title>30% Off Tempur-Pedic Promo Codes | November 2026</title>
+<link>https://www.wired.com/story/tempur-pedic-promo-code</link>
+<guid isPermaLink="false">8a57a6d16ab77789d727c925a6f63daff0da4274c7b429f4b76214d5f8565694</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
+<dc:creator>Nena Farrell</dc:creator>
+<content:encoded>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
+</item>
+<item>
 <title>Dermstore Coupons: 25% Off for November 2026</title>
 <link>https://www.wired.com/story/dermstore-promo-code</link>
 <guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
@@ -1822,19 +1991,6 @@
 <content:encoded>Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.</content:encoded>
 <enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
-<title>30% Off Tempur-Pedic Promo Codes | November 2026</title>
-<link>https://www.wired.com/story/tempur-pedic-promo-code</link>
-<guid isPermaLink="false">8a57a6d16ab77789d727c925a6f63daff0da4274c7b429f4b76214d5f8565694</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
-<dc:creator>Nena Farrell</dc:creator>
-<content:encoded>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
 </item>
 <item>
 <title>Skullcandy Discount Code: 30% Off | November 2026</title>
@@ -1928,32 +2084,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg" medium="image"/>
 </item>
 <item>
-<title>As US ties fray, Europe plans first undersea cable link to Greenland</title>
-<link>https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland</link>
-<guid isPermaLink="false">52cf4d98c3bcf391c8d94c2924f26a86f2ecd2645732120e4976e366d433fb0f</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 22:35:50 +0000</pubDate>
-<description>The European Union plans to create the first subsea Internet cable directly connecting Europe to Greenland. The Pan-Arctic Cable project could also extend to Canada and eventually link with Japan and South Korea, notably bypassing the United States. The Pan-Arctic Cable is described as a European Union flagship project in a European Commission joint communication published on October 20, 2026. The policy document describes a new European strategy for the Arctic that supports “a sovereign, secure and resilient submarine cable connection linking Greenland directly to the EU,” while also suggesting that “like-minded partners like Canada” could provide a stepping stone for future cable expansion toward Asia. “It is interesting that this project is even being considered, because five years ago it would have seemed like not a particularly commercially attractive proposition,” Elisabeth Braw , a senior fellow at the Atlantic Council who leads the Threats to the Global Maritime Order Initiative, told Ars. “But the fact that it's being considered is very much on trend and a sign of our times.” Read full article Comments</description>
-<dc:creator>Jeremy Hsu</dc:creator>
-<content:encoded>The European Union plans to create the first subsea Internet cable directly connecting Europe to Greenland. The Pan-Arctic Cable project could also extend to Canada and eventually link with Japan and South Korea, notably bypassing the United States. The Pan-Arctic Cable is described as a European Union flagship project in a European Commission joint communication published on October 20, 2026. The policy document describes a new European strategy for the Arctic that supports “a sovereign, secure and resilient submarine cable connection linking Greenland directly to the EU,” while also suggesting that “like-minded partners like Canada” could provide a stepping stone for future cable expansion toward Asia. “It is interesting that this project is even being considered, because five years ago it would have seemed like not a particularly commercially attractive proposition,” Elisabeth Braw , a senior fellow at the Atlantic Council who leads the Threats to the Global Maritime Order Initiative, told Ars. “But the fact that it's being considered is very much on trend and a sign of our times.” Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA</title>
-<link>https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda</link>
-<guid isPermaLink="false">5dce05c1d0be7bbf727fdb179ad56c7f41972e92e87a7a3f5f56ccd15224a36e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 22:17:15 +0000</pubDate>
-<description>Anti-vaccine Health Secretary Robert F. Kennedy has unilaterally passed a rule that will allow specialty pharmacies to sell six specific peptide drugs, overruling scientists at the Food and Drug Administration. The peptides are popular among members of Kennedy's Make America Health Again movement, and many prominent MAHA figures and Kennedy allies sell them. Kennedy said he uses some of the peptides and called himself a "big fan." But FDA scientists continue to say there is insufficient evidence to show if they're effective, and they are potentially dangerous. In 2023, the safety concerns led the FDA to remove the six peptides from a list of drugs that can be made by specialty pharmacies called compounding pharmacies—which make customized formulations of drugs for patients, or, in cases such as this, specialty drugs in bulk. Kennedy's new rule sidesteps the need to formally undo that FDA action. The rule is titled "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances" and was made available Wednesday on the Federal Register , with the final publication date set for October 30. The rule does not change the regulatory status of the peptide; instead, it states the Department of Health and Human Services (HHS) will no longer take enforcement action against compounding pharmacies for making the peptides, essentially giving them a green light to freely produce and sell them. Kennedy had quietly proposed this rule earlier this month. Read full article Comments</description>
-<dc:creator>Beth Mole</dc:creator>
-<content:encoded>Anti-vaccine Health Secretary Robert F. Kennedy has unilaterally passed a rule that will allow specialty pharmacies to sell six specific peptide drugs, overruling scientists at the Food and Drug Administration. The peptides are popular among members of Kennedy's Make America Health Again movement, and many prominent MAHA figures and Kennedy allies sell them. Kennedy said he uses some of the peptides and called himself a "big fan." But FDA scientists continue to say there is insufficient evidence to show if they're effective, and they are potentially dangerous. In 2023, the safety concerns led the FDA to remove the six peptides from a list of drugs that can be made by specialty pharmacies called compounding pharmacies—which make customized formulations of drugs for patients, or, in cases such as this, specialty drugs in bulk. Kennedy's new rule sidesteps the need to formally undo that FDA action. The rule is titled "Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances" and was made available Wednesday on the Federal Register , with the final publication date set for October 30. The rule does not change the regulatory status of the peptide; instead, it states the Department of Health and Human Services (HHS) will no longer take enforcement action against compounding pharmacies for making the peptides, essentially giving them a green light to freely produce and sell them. Kennedy had quietly proposed this rule earlier this month. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>This Is What the GOP’s Final Midterms Push Looks Like</title>
 <link>https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like</link>
 <guid isPermaLink="false">5fdcfde15e7984c1c64c79ebb46bf1da23924d637cf6e70d321d089d388992fe</guid>
@@ -2030,32 +2160,6 @@
 <content:encoded>Attackers are probing a critical Oracle E-Business Suite vulnerability that can lead to remote code execution (RCE), despite Oracle issuing a patch earlier this month. Meanwhile, new analysis indicates that an Oracle PeopleSoft zero-day exploited by ShinyHunters as early as May involves three distinct vulnerabilities that can be combined to achieve RCE. Patching alone may not remove attackers from already compromised systems, particularly if they've installed web shells. First up: CVE-2026-101767 , a critical, unauthenticated SQL injection bug in Oracle EBS that can lead to RCE. “Our Oracle E-Business Suite decoys recorded exploratory exploits against CVE-2026-101767, an unauthenticated SQL injection in EBS's Thin Client Framework servlet that chains to remote code execution, this morning, Oct 27,” Defused Cyber said in an X post. Horizon3 researchers found and disclosed the bug to Oracle, and the vendor patched the issue in its October release. “An attacker can send a crafted request to the vulnerable servlet to execute SQL with the privileges of the APPS database user,” Horizon3 explained at the time. “The attack chain also enables operating system command execution with the privileges of the EBS application account.” This means an unauthorized user can modify application data accessible to APPS, and execute commands. “Depending on the deployment, affected data may include financial, payroll, HR, and procurement records,” the bug hunters said. The Register reached out to Oracle with multiple questions for this story - including whether it has documented any successful exploitation of CVE-2026-101767 - and did not receive an immediate response. Moving on to the PeopleSoft-ShinyHunters fiasco: TrendAI’s Zero Day Initiative (ZDI) found and reported the PeopleSoft issues on June 10, and Oracle issued a patch under one vulnerability identifier: CVE-2026-35273 . In early June, ShinyHunters told The Reg that the group hacked more than 100 organizations via an Oracle PeopleSoft zero-day, CVE-2026-35273. Google’s consulting and incident response biz, Mandiant, later confirmed the data theft and extortion crew exploited CVE-2026-35273 as a zero-day, mostly against schools and the education sector . By late September, however, Mandiant said ShinyHunters massively expanded its targeting , “deploying web shells on dozens of systems globally, spanning higher education, technology, IT services, healthcare, agriculture, transportation, and government.” According to ZDI bug hunter Bobby Gould, there are actually three distinct vulnerabilities across multiple PeopleSoft components, and each should receive its own CVE identifier rather than being grouped under CVE-2026-35273. Gould, along with TrendAI researchers Minh Giang and Lucas Miller, originally found and reported three distinct bugs to Oracle in June. “We are coordinating with Oracle to assign separate CVEs for each issue,” he said in a Tuesday blog. The first issue is a Server-Side Request Forgery (SSRF) vulnerability in the PeopleSoft Integration Gateway (PSIGW), which gives attackers a foothold in the PeopleSoft application. In June, Oracle introduced a “validateClient” method to allow PeopleSoft system administrators to restrict access to certain functionality. The SSRF bug, however, allows crims to make requests that satisfy the validation requirement to access endpoints vulnerable to RCE, Gould wrote. “While this solution does restrict access, an attacker on any trusted host can still reach PSEMHUB,” he said, referring to PeopleSoft Environment Management Hub (PSEMHUB). “Because Oracle allows localhost by default, the PSIGW SSRF provides exactly that access.” The second bug is an external control of file path vulnerability in PSEMHUB’s ExecuteProcessActivityCommand handler. This message handler is designed to allow remote clients to write log entries to the PeopleSoft server’s filesystem - but it doesn’t properly validate requests, which allows an attacker to write a web shell into a file path and achieve RCE. The third vulnerability, also in PSEMHUB, is a deserialization of untrusted data flaw. An attacker can use a file-write vulnerability to plant a malicious XML file inside a PeopleSoft directory that stores environment configuration data, then wait for PSEMHUB to initialize, such as after a service or system restart. This triggers deserialization of the malicious XML file, potentially allowing the attacker to achieve RCE. “Attackers can combine these vulnerabilities to compromise affected instances of PeopleSoft,” Gould warned.®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5306136&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5306136&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>The last, best hope for space tourism just rolled onto a runway in Arizona</title>
-<link>https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona</link>
-<guid isPermaLink="false">ca9d651545e8c4f2bacecfe1a24c8823de69430a5e81cb33d058632e6e662c94</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 19:20:36 +0000</pubDate>
-<description>The private space tourism era looked so very promising five years ago. Blue Origin and Virgin Galactic had begun flying customers—real people with zero space experience—on suborbital missions. And at about the same time, private citizens were going to orbit for days at a time aboard SpaceX's Crew Dragon. But that was then. Consider the state of play today: It has been 10 months since Blue Origin's New Shepard spacecraft flew its last mission in January. The program was subsequently "paused," but let's be real. Blue Origin has moved on. New Shepard's engineering teams are now supporting the New Glenn rocket and Blue Moon lander programs. SpaceX flew its final free-flyer mission on Dragon, Fram2, in April 2025. A handful of non-NASA missions bound for space stations remain on the spacecraft's manifest, but all are likely to carry at least one government astronaut. Then Dragon will be retired. There is no credible timeline for SpaceX's Starship to fly humans into space from Earth. As for Virgin Galactic, the company flew its final suborbital mission on the VSS Unity spacecraft more than two years ago, in June 2024. So we are now 10 months, and counting, without a space tourism mission in the United States. Read full article Comments</description>
-<dc:creator>Eric Berger</dc:creator>
-<content:encoded>The private space tourism era looked so very promising five years ago. Blue Origin and Virgin Galactic had begun flying customers—real people with zero space experience—on suborbital missions. And at about the same time, private citizens were going to orbit for days at a time aboard SpaceX's Crew Dragon. But that was then. Consider the state of play today: It has been 10 months since Blue Origin's New Shepard spacecraft flew its last mission in January. The program was subsequently "paused," but let's be real. Blue Origin has moved on. New Shepard's engineering teams are now supporting the New Glenn rocket and Blue Moon lander programs. SpaceX flew its final free-flyer mission on Dragon, Fram2, in April 2025. A handful of non-NASA missions bound for space stations remain on the spacecraft's manifest, but all are likely to carry at least one government astronaut. Then Dragon will be retired. There is no credible timeline for SpaceX's Starship to fly humans into space from Earth. As for Virgin Galactic, the company flew its final suborbital mission on the VSS Unity spacecraft more than two years ago, in June 2024. So we are now 10 months, and counting, without a space tourism mission in the United States. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Touchscreen MacBook Pro hands-on: OLED looks great on a Mac</title>
-<link>https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac</link>
-<guid isPermaLink="false">79b03aa9fa8771e1fec5f886988d35bc81a1d9f7a7ba27f55dc63f6d02459afd</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 19:10:29 +0000</pubDate>
-<description>LOS ANGELES—For about five minutes on an extremely crowded showroom floor, I got to take pictures of the new MacBook Pro and test out some of its new features. First impressions: It's not as much of a departure from the previous design as I expected, but the outstanding OLED display steals the show regardless. The first thing I noticed was that it's lighter. My daily driver is a 14-inch MacBook Pro (M1 Max), and it's a bit weighty for a 14-incher. Picking up the new model, I could immediately tell it was lighter. It's not like it's in a different general weight class, but it's a noticeable difference. Read full article Comments</description>
-<dc:creator>Samuel Axon</dc:creator>
-<content:encoded>LOS ANGELES—For about five minutes on an extremely crowded showroom floor, I got to take pictures of the new MacBook Pro and test out some of its new features. First impressions: It's not as much of a departure from the previous design as I expected, but the outstanding OLED display steals the show regardless. The first thing I noticed was that it's lighter. My daily driver is a 14-inch MacBook Pro (M1 Max), and it's a bit weighty for a 14-incher. Picking up the new model, I could immediately tell it was lighter. It's not like it's in a different general weight class, but it's a noticeable difference. Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple’s new touchscreen MacBook Pros may be late, but they have one big advantage</title>
@@ -2292,32 +2396,6 @@
 <media:content url="https://image.theregister.com/?imageId=4094139&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Intel gets tax breaks while local authorities lose revenue, claims policy org</title>
-<link>https://www.theregister.com/systems/2026/10/28/intel-gets-tax-breaks-while-local-authorities-lose-revenue-claims-policy-org/5305902</link>
-<guid isPermaLink="false">bd16466dc003c90136dc88b9e17a1375b4367519a27594be61f1e97ca933646c</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 12:45:00 +0000</pubDate>
-<description>Intel has become the latest target for Good Jobs First, which questions why the chipmaker continues to receive tax breaks from key states, long after setting up shop there, and laying off thousands of workers in those regions. The non-profit organization, which promotes accountability in economic development, says the chipmaker promised billions of dollars in investment and thousands of high-tech jobs for the areas surrounding its manufacturing plants in Hillsboro, Oregon, and Rio Rancho, New Mexico. Its report, The Bleeding Edge: How the Public Pays the Costs of Intel’s Semiconductor Manufacturing , claims that Intel's property tax breaks cost these communities more than $1.2 billion in lost revenue since 2015, and the brunt of the shortfall has largely fallen on schools funded by those local governments. For Oregon, Good Jobs First says that property tax abatements from Intel's use of the Strategic Investment Program (SIP) exempted it from at least $1.14 billion, while Hillsboro schools lost $891 million in revenue from 2017 through 2025. During the same timeframe, Intel paid Oregon $552.4 million in fees, or less than a third of the value of its tax breaks. In New Mexico, the figures are lower, but still significant. The report puts Chipzilla's property tax exemptions from Industrial Revenue Bonds (IRBs) at $99.6 million in foregone revenue since 2017, while Rio Rancho’s Public Schools lost an estimated $43.4 million over the same nine-year period. Here, the company paid $41.6 million in required payments in lieu of taxes from 2017 through 2025, shared among affected local governments. Good Jobs First also notes that despite these subsidies, Intel was awarded billions under the CHIPS Act funding from the US federal government. However, the situation with that is somewhat complex, as the company secured an initial $7.86 billion under the Biden administration, of which $2.2 billion is believed to have been paid out. The incoming Trump administration, however, decided to rethink the scheme , and ended up making an $8.9 billion deal for 10 percent of Intel’s common stock , made up of the remaining $5.7 billion of the CHIPS Act cash plus an additional $3.2 billion under the Secure Enclave program to make semiconductors for the military. At the same time, the chipmaker is estimated by Good Jobs First to have laid off more than 4,700 workers at its facilities in Oregon and New Mexico over the past three years, as the company wrestled with restructuring efforts and dramatic losses. (These are just a fraction of Intel’s total layoffs during the period.) The issue, according to the non-profit, is that these sites are established Intel facilities which the company has operated for decades. They already have the facilities, infrastructure, skilled workers, and other necessities that a new site might require investment for. Are continued tax breaks truly necessary, Good Jobs First asks, or are they just subsidizing business decisions Intel would make anywa</description>
-<dc:creator>Dan Robinson</dc:creator>
-<content:encoded>Intel has become the latest target for Good Jobs First, which questions why the chipmaker continues to receive tax breaks from key states, long after setting up shop there, and laying off thousands of workers in those regions. The non-profit organization, which promotes accountability in economic development, says the chipmaker promised billions of dollars in investment and thousands of high-tech jobs for the areas surrounding its manufacturing plants in Hillsboro, Oregon, and Rio Rancho, New Mexico. Its report, The Bleeding Edge: How the Public Pays the Costs of Intel’s Semiconductor Manufacturing , claims that Intel's property tax breaks cost these communities more than $1.2 billion in lost revenue since 2015, and the brunt of the shortfall has largely fallen on schools funded by those local governments. For Oregon, Good Jobs First says that property tax abatements from Intel's use of the Strategic Investment Program (SIP) exempted it from at least $1.14 billion, while Hillsboro schools lost $891 million in revenue from 2017 through 2025. During the same timeframe, Intel paid Oregon $552.4 million in fees, or less than a third of the value of its tax breaks. In New Mexico, the figures are lower, but still significant. The report puts Chipzilla's property tax exemptions from Industrial Revenue Bonds (IRBs) at $99.6 million in foregone revenue since 2017, while Rio Rancho’s Public Schools lost an estimated $43.4 million over the same nine-year period. Here, the company paid $41.6 million in required payments in lieu of taxes from 2017 through 2025, shared among affected local governments. Good Jobs First also notes that despite these subsidies, Intel was awarded billions under the CHIPS Act funding from the US federal government. However, the situation with that is somewhat complex, as the company secured an initial $7.86 billion under the Biden administration, of which $2.2 billion is believed to have been paid out. The incoming Trump administration, however, decided to rethink the scheme , and ended up making an $8.9 billion deal for 10 percent of Intel’s common stock , made up of the remaining $5.7 billion of the CHIPS Act cash plus an additional $3.2 billion under the Secure Enclave program to make semiconductors for the military. At the same time, the chipmaker is estimated by Good Jobs First to have laid off more than 4,700 workers at its facilities in Oregon and New Mexico over the past three years, as the company wrestled with restructuring efforts and dramatic losses. (These are just a fraction of Intel’s total layoffs during the period.) The issue, according to the non-profit, is that these sites are established Intel facilities which the company has operated for decades. They already have the facilities, infrastructure, skilled workers, and other necessities that a new site might require investment for. Are continued tax breaks truly necessary, Good Jobs First asks, or are they just subsidizing business decisions Intel would make anyway? It says Intel’s track record in Oregon and New Mexico should be taken as important lessons for other communities considering becoming a home to semiconductor manufacturing, and recommends questioning whether state and local tax breaks are even necessary. "Tax incentives are supposed to encourage investment, not provide companies with an ongoing stream of public support for decades," said Good Jobs First Research Analyst and report author Kristan Wong Karinen. "Intel has received tax breaks at these campuses for generations, and local leaders should be asking hard questions about why those subsidies are still necessary, especially with the billions of dollars in federal grants and tax credits they receive from the CHIPS Act." We asked Intel for a statement regarding these claims by Good Jobs First, and in response it told us: "Intel works closely with governments in the regions where we operate to leverage incentives that support leading-edge semiconductor R&amp;D and manufacturing. We are not providing additional details beyond what's available in our annual reports." Recent targets for the non-profit have been datacenters, and the states offering tax incentives for developers and operators to build within their jurisdiction. Some states were losing billions in lost revenue to server farm projects, while others were failing to disclose their tax shortfall . ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=262320&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=262320&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Cisco open sources tool for detecting AI agents on hacking sprees</title>
-<link>https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867</link>
-<guid isPermaLink="false">de821c9b5058d5665ff7ab8593358a09851f8870f34c1efddb6475f4ff9f81e5</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-<description>Cisco has open sourced a behavior detection engine that watches AI agents, to help security teams prevent rogue agents from going off the rails like they did with the Hugging Face hack – or worse. It’s called Project Quarry , and it aims to provide a “shared language” for evaluating agent behavior, along the lines of what Snort , which Cisco also maintains, did for detecting malicious network traffic and what YARA did for rule-based malware identification. Most detection tools rely on specific interactions with an AI model or agent. Did it attempt prompt injection? Or did the agent call an attack tool? “But what is missing is the entire context under which something may occur,” Amy Chang, head of AI threat and security research at Cisco, said in an exclusive interview with The Register . She likened this to credit card fraud detection. Without context, individual transactions such as a small test charge or a single purchase in a location far away from a card-holder's usual location may not raise any flags. “And then you try again,” making another fraudulent purchase, “and that went through, too. So now I’m gonna buy the PS5,” Chang said. “Those are the things that Quarry addresses by taking into consideration the entire agent session,” she explained. “One tool call may seem in-scope until you realize that that next step is taking that information and sending it to an attacker-controlled inbox or server.” Even data theft is a sequence and not a single agentic action. Agentic AI security firm Invariant Labs demonstrated this with a proof-of-concept attack against GitHub's MCP server that hijacked a user's agent via a malicious GitHub Issue, and coerced it into leaking data from private repositories. Simply reading a configuration file, or sending a request to an external endpoint may be legitimate agentic actions. However, combining the two can lead to data exfiltration – and shows “why action relationships matter,” wrote Chang and fellow Cisco researchers Adam Swanda, Ravikumar Balakrishnan, and Konstantin Berlin in a blog post about Quarry shared with The Register ahead of publication “A policy can produce a finding when the trace shows a sensitive file read followed within a defined window by an external send,” they wrote. “The risk comes from the relationship between the two actions, so the finding should preserve evidence from both." Quarry covers single- and multi-turn large language model conversations, agents, tool use, Model Context Protocol (MCP) interactions, and multimodal inputs. In addition to the open source code itself, the project’s GitHub repository includes installation instructions, supported Python versions, plugins for Claude Code, Codex and other MCP-compatible agents, configuration examples, rule-writing guidance, and a rule starter pack. For instance, with the rule pack, “If a base-64 encoded malware is somewhere in the tool call, that would result in a block,” Chang said. The rule format looks similar to a YARA or Snort ru</description>
-<dc:creator>Jessica Lyons</dc:creator>
-<content:encoded>Cisco has open sourced a behavior detection engine that watches AI agents, to help security teams prevent rogue agents from going off the rails like they did with the Hugging Face hack – or worse. It’s called Project Quarry , and it aims to provide a “shared language” for evaluating agent behavior, along the lines of what Snort , which Cisco also maintains, did for detecting malicious network traffic and what YARA did for rule-based malware identification. Most detection tools rely on specific interactions with an AI model or agent. Did it attempt prompt injection? Or did the agent call an attack tool? “But what is missing is the entire context under which something may occur,” Amy Chang, head of AI threat and security research at Cisco, said in an exclusive interview with The Register . She likened this to credit card fraud detection. Without context, individual transactions such as a small test charge or a single purchase in a location far away from a card-holder's usual location may not raise any flags. “And then you try again,” making another fraudulent purchase, “and that went through, too. So now I’m gonna buy the PS5,” Chang said. “Those are the things that Quarry addresses by taking into consideration the entire agent session,” she explained. “One tool call may seem in-scope until you realize that that next step is taking that information and sending it to an attacker-controlled inbox or server.” Even data theft is a sequence and not a single agentic action. Agentic AI security firm Invariant Labs demonstrated this with a proof-of-concept attack against GitHub's MCP server that hijacked a user's agent via a malicious GitHub Issue, and coerced it into leaking data from private repositories. Simply reading a configuration file, or sending a request to an external endpoint may be legitimate agentic actions. However, combining the two can lead to data exfiltration – and shows “why action relationships matter,” wrote Chang and fellow Cisco researchers Adam Swanda, Ravikumar Balakrishnan, and Konstantin Berlin in a blog post about Quarry shared with The Register ahead of publication “A policy can produce a finding when the trace shows a sensitive file read followed within a defined window by an external send,” they wrote. “The risk comes from the relationship between the two actions, so the finding should preserve evidence from both." Quarry covers single- and multi-turn large language model conversations, agents, tool use, Model Context Protocol (MCP) interactions, and multimodal inputs. In addition to the open source code itself, the project’s GitHub repository includes installation instructions, supported Python versions, plugins for Claude Code, Codex and other MCP-compatible agents, configuration examples, rule-writing guidance, and a rule starter pack. For instance, with the rule pack, “If a base-64 encoded malware is somewhere in the tool call, that would result in a block,” Chang said. The rule format looks similar to a YARA or Snort rule, with a header that details the traffic to examine, content to match, and metadata for tracking the rule. Here’s a Quarry rule that flags an agent that reads a credentials file: While the Cisco Ai researchers have not run Quarry against data describing the OpenAI-Hugging Face incident, they suggest that if the intrusion had been read as a complete, step-by-step record of a single session, there were several points where the AI agents’ steps would have given a Quarry rule something to act on and flag for humans. For example, Quarry would probably have flagged internet access from a sandbox . “The rule can flag specific tool calls that reach an external server asset that wasn’t in the task’s allow list,” Chang said. “Another one would be credentials found and used somewhere else.” According to OpenAI’s technical report about the Hugging Face intrusion , this is exactly what happened on July 10, when an agent validated 14 exposed Hugging Face tokens with write access and shared them. “The rule would flag that there was a credential in the tool result that then called an outside service, which is likely not within the parameters of what you would want to do in this case,” Chang said. “We don't want you to go and search for credentials that may have been leaked or inadvertently exposed and then utilize them to conduct a task.” The Cisco team is quick to say that rules along are not a substitute for chain-of-thought monitors, or other forms of human oversight – but they do help record a pattern that other teams can then “review, test, and apply to their own agents,” they wrote. Herein also lies the benefit of open source, and a collective approach to defending against adversarial use of AI, Chang said. “Do we have all the answers? No,” Chang said. “We all see slices of the problem, and it’s important for us to share what we see.”®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=5259466&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5259466&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws</title>
 <link>https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics</link>
 <guid isPermaLink="false">f53c7c72ecdfd9549fc202864317624b49b23eca45b6ef6a67471201cb75c090</guid>
@@ -2329,19 +2407,6 @@
 <content:encoded>Labor government under pressure to create social media watchdog as new online safety standards bill passes lower house Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast The federal government wants to ban AI chatbots which seek to create “emotional intimacy” after prime minister Anthony Albanese raised the alarm in a heartfelt speech about children treating these agents as their “best friend”. But Labor is coming under increasing pressure to empower the telecommunications ombudsman to become a watchdog for social media and AI to give Australians an external complaints mechanism and allow the “naming and shaming” of big tech. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/b3e44fb72cc705d89a54b8eb9719b50630ca675c/549_0_5485_4388/master/5485.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06d08423d6d026bb6ae8371bbaee1e67" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/b3e44fb72cc705d89a54b8eb9719b50630ca675c/549_0_5485_4388/master/5485.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06d08423d6d026bb6ae8371bbaee1e67" medium="image"/>
-</item>
-<item>
-<title>AI bots flooded 2023 UK government consultation on disposable vapes ban</title>
-<link>https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban</link>
-<guid isPermaLink="false">a85581efeb426366fd98b73e6a7f516e5fba7e6d20264d32b835d9919de0b00c</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 22:30:45 +0000</pubDate>
-<description>Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds AI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposable vapes. Three-quarters of all the responses to the 2023 consultation on the tobacco and vapes bill were machine-generated, in what is thought to be the first coordinated attempt to use AI to derail health policymaking in the UK. Continue reading...</description>
-<dc:creator>Denis Campbell Health policy editor</dc:creator>
-<content:encoded>Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds AI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposable vapes. Three-quarters of all the responses to the 2023 consultation on the tobacco and vapes bill were machine-generated, in what is thought to be the first coordinated attempt to use AI to derail health policymaking in the UK. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/aaba9471514c493b64cda0d52e0de7fe61c3d279/124_0_3703_2963/master/3703.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c99cb2ea26dd7e7e77074116ae50c9f" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/aaba9471514c493b64cda0d52e0de7fe61c3d279/124_0_3703_2963/master/3703.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c99cb2ea26dd7e7e77074116ae50c9f" medium="image"/>
 </item>
 <item>
 <title>Why this new Fitbit feature takes us one step closer to non-invasive glucose tracking</title>
@@ -2396,45 +2461,6 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/7927f8ce-894f-4820-b2d0-c121c0412952.jpg" medium="image"/>
 </item>
 <item>
-<title>Apple’s M6 iMac has arrived – here’s what’s changed since the M4</title>
-<link>https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new</link>
-<guid isPermaLink="false">d1bfa59ad0f020c364bd37c712bff94ee4625f7163463f08cbf072039ff99334</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 15:42:32 +0000</pubDate>
-<description>Apple’s colorful all-in-one gets its first refresh in two years. Here’s what you get for the $1,499 starting price.</description>
-<dc:creator>Taylor Clemons</dc:creator>
-<content:encoded>Apple’s colorful all-in-one gets its first refresh in two years. Here’s what you get for the $1,499 starting price.</content:encoded>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/5e73698c-368c-4c5b-96ac-005b32edc3ef.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/5e73698c-368c-4c5b-96ac-005b32edc3ef.jpg" medium="image"/>
-</item>
-<item>
-<title>A fake TikTok shop is Surfshark’s most-blocked phishing scam – how to steer clear</title>
-<link>https://www.zdnet.com/tech/fake-tiktok-shop-phishing-scam-surfshark</link>
-<guid isPermaLink="false">365f77fd85dcca258cf8643dd36153c3e28595b563592bc40424bedd6468d53d</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 15:30:38 +0000</pubDate>
-<description>Blocked phishing attempts rose 83% in six months, according to Surfshark, largely due to one TikTok shop. Here’s how to spot the red flags.</description>
-<dc:creator>Alison DeNisco Rayome</dc:creator>
-<content:encoded>Blocked phishing attempts rose 83% in six months, according to Surfshark, largely due to one TikTok shop. Here’s how to spot the red flags.</content:encoded>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/TikTok-Use.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/TikTok-Use.jpg" medium="image"/>
-</item>
-<item>
-<title>I tried Windows 11’s customizable right-click menu – and it’s a much-needed change</title>
-<link>https://www.zdnet.com/tech/windows-11-customizable-right-click-menu</link>
-<guid isPermaLink="false">147c9e37689ea89b7604c160640bb3e1574baa032a07e570db5c9e3067910b9b</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 12:17:55 +0000</pubDate>
-<description>The latest Windows Insider build lets you add, remove, and manage commands in the right-click menu so it’s less crowded and confusing.</description>
-<dc:creator>Lance Whitney</dc:creator>
-<content:encoded>The latest Windows Insider build lets you add, remove, and manage commands in the right-click menu so it’s less crowded and confusing.</content:encoded>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-right-click-menu.jpg" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-right-click-menu.jpg" medium="image"/>
-</item>
-<item>
 <title>Eight great new indie horror games for Halloween</title>
 <link>https://www.theguardian.com/games/2026/oct/27/new-indie-horror-games-halloween</link>
 <guid isPermaLink="false">11f9ec36be3515226fa817a9a569ba33d943c9e1c8c56c0c116e2e0f2a8c8d7b</guid>
@@ -2446,19 +2472,6 @@
 <content:encoded>Whether you favour spooky fairtales, satanic card games or infernal hijinks at the chip shop there are all manner of fresh top scarers at large this witching season Tis almost All Hallows’ Eve and naturally, the thoughts of all good video game players are turning to horror. 2026 has already been a bloody good year for the genre with Resident Evil Requiem and Silent Hill: Townfall leading the rabble. But this autumn sees a festering surge of indie horror releases, featuring everything from cursed card games to Nazi-hunting penguins. Here are eight terrifying titles we think you should sample while jack-o-lanterns burn and spirits walk the moonlit streets. Allogloom (PC) Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/5c7f05da40cd83d5eeb4462753f4b75e00b57b1d/349_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab28c6ee210d78a0f7c89e0a0bcb020c" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/5c7f05da40cd83d5eeb4462753f4b75e00b57b1d/349_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab28c6ee210d78a0f7c89e0a0bcb020c" medium="image"/>
-</item>
-<item>
-<title>Github competitor Entire is live now – how the agent-first platform works</title>
-<link>https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge</link>
-<guid isPermaLink="false">2af20c824aa95b467a5d94694d2e4960f97a65d0685b280da95d9e4ed581251d</guid>
-<source>ZDNET</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 17:00:04 +0000</pubDate>
-<description>Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.</description>
-<dc:creator>Radhika Rajkumar</dc:creator>
-<content:encoded>Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.</content:encoded>
-<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/trails-2.png" type="image/jpeg"/>
-<media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/trails-2.png" medium="image"/>
 </item>
 <item>
 <title>Lara Croft is 30! We look at the video game icon’s biggest blunders</title>
