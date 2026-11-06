@@ -4,56 +4,641 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Cristiano Ronaldo brings his international football career to an end</title>
-<link>https://www.france24.com/en/tv-shows/sports/20261106-cristiano-ronaldo-brings-his-international-football-career-to-an-end</link>
-<guid isPermaLink="false">4422e5c2c73310cc01762ce0e10f954b5c9fc3f25922b230b468e82d80e804e3</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 07:32:03 +0000</pubDate>
-<description>Cristiano Ronaldo announced his retirement from international football on Thursday, ending his 23-year career with Portugal. At 41, the Al-Nassr forward leaves the national team with 234 caps and 146 goals, both world records. As captain, he helped Portugal win Euro 2016 and two Nations League titles in 2019 and 2025. The decision comes after several weeks of tension with head coach Jorge Jesus, following Ronaldo's departure from the Portugal squad in September.</description>
-<dc:creator>L'Equipe TV</dc:creator>
-<content:encoded>Cristiano Ronaldo announced his retirement from international football on Thursday, ending his 23-year career with Portugal. At 41, the Al-Nassr forward leaves the national team with 234 caps and 146 goals, both world records. As captain, he helped Portugal win Euro 2016 and two Nations League titles in 2019 and 2025. The decision comes after several weeks of tension with head coach Jorge Jesus, following Ronaldo's departure from the Portugal squad in September.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/ca7fc22a-d992-11f1-b582-695cb59fade5/w:1024/p:16x9/cr7-2.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/ca7fc22a-d992-11f1-b582-695cb59fade5/w:1024/p:16x9/cr7-2.jpg" medium="image"/>
-</item>
-<item>
-<title>South Africa's ANC party on track to face 'nightmare' losses in municipal elections</title>
-<link>https://www.france24.com/en/africa/20261106-south-africa-anc-party-on-track-to-face-nightmare-losses-in-municipal-elections</link>
-<guid isPermaLink="false">c38994a90651f29f271ce2bec467892030d54cbe03009efff7da03cd6797c307</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 07:15:07 +0000</pubDate>
-<description>South Africa's African National Congress party could face its worst-ever election result on Friday, with early counting suggesting it received only 32% ‌of the vote in the country’s municipal elections. Over two-thirds of votes have been counted so far, and the final results are expected later in the day.</description>
-<dc:creator>FRANCE 24</dc:creator>
-<content:encoded>South Africa's African National Congress party could face its worst-ever election result on Friday, with early counting suggesting it received only 32% ‌of the vote in the country’s municipal elections. Over two-thirds of votes have been counted so far, and the final results are expected later in the day.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/a382733a-d9af-11f1-84eb-a575454bc579/w:1024/p:16x9/2026-11-04T070627Z-1389454796-RC2TGOAHW32G-RTRMADP-3-SAFRICA-ELECTION.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/a382733a-d9af-11f1-84eb-a575454bc579/w:1024/p:16x9/2026-11-04T070627Z-1389454796-RC2TGOAHW32G-RTRMADP-3-SAFRICA-ELECTION.jpg" medium="image"/>
-</item>
-<item>
-<title>'Leaders all over the world understand that Trump is only there for two more years &amp; then he's gone'</title>
-<link>https://www.france24.com/en/tv-shows/spotlight/20261106-leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone</link>
-<guid isPermaLink="false">d5c636ece410129acbd46d388f90d0d9cec3ba8c110f0d3801eb8838ae3a6eaa</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 07:08:47 +0000</pubDate>
-<description>In American politics, even presidential power has its limits. And now, the laws of political gravity may finally be catching up with Donald Trump's hyper-aggressive exercise of executive authority. Following what political scientist Ian Bremmer describes as the most consequential electoral reversal for a governing party in more than half a century, the president and founder of Eurasia Group and GZERO Media argues that the United States has entered a new political phase: the beginning of the end of Trump's ability to dominate the political agenda, at home and on the world stage.</description>
-<dc:creator>François PICARD</dc:creator>
-<content:encoded>In American politics, even presidential power has its limits. And now, the laws of political gravity may finally be catching up with Donald Trump's hyper-aggressive exercise of executive authority. Following what political scientist Ian Bremmer describes as the most consequential electoral reversal for a governing party in more than half a century, the president and founder of Eurasia Group and GZERO Media argues that the United States has entered a new political phase: the beginning of the end of Trump's ability to dominate the political agenda, at home and on the world stage.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/e5e866a6-d970-11f1-8121-695cb59fade5/w:1024/p:16x9/EN-20261105-182123-182823-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/e5e866a6-d970-11f1-8121-695cb59fade5/w:1024/p:16x9/EN-20261105-182123-182823-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>4 Colorado officers shot, 1 fatally, after gunfight with suspect: Police</title>
-<link>https://abcnews.com/US/4-colorado-officers-shot-1-fatally-after-gunfight/story?id=137902018</link>
-<guid isPermaLink="false">c8752bd1841a8f2bc924439f0f77dc23bde3ad144e7b4d4ee4c52e5e4a637121</guid>
+<title>US attorney tasked with leading probe into Trump's foes resigns from DOJ</title>
+<link>https://abcnews.com/US/us-attorney-tasked-leading-grand-conspiracy-probe-trumps/story?id=137912307</link>
+<guid isPermaLink="false">b4865b7a362e5462ad22d4f1f4f56a329de359039b8a6fb44da66989b9082d7d</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Fri, 06 Nov 2026 06:14:15 +0000</pubDate>
-<description>The suspect was also killed in the gunfire, a police official said.</description>
+<pubDate>Fri, 06 Nov 2026 15:44:00 +0000</pubDate>
+<description>Jason Reding Quinones, the U.S. attorney tasked with leading a sweeping and controversial conspiracy probe targeting President Trump’s foes, has resigned from the DOJ.</description>
 <dc:creator></dc:creator>
-<content:encoded>The suspect was also killed in the gunfire, a police official said.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/kmgh_1793943347547_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/kmgh_1793943347547_hpMain_16x9_1600.jpg" medium="image"/>
+<content:encoded>Jason Reding Quinones, the U.S. attorney tasked with leading a sweeping and controversial conspiracy probe targeting President Trump’s foes, has resigned from the DOJ.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/Quinones-2-ap-gmh-261106_1793977663366_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/Quinones-2-ap-gmh-261106_1793977663366_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Turkey to push for 'electrification' drive at COP31 as climate threats mount</title>
+<link>https://www.france24.com/en/environment/20261106-turkey-to-push-for-electrification-drive-at-cop31-as-climate-threats-mount</link>
+<guid isPermaLink="false">fd955b605f01337982701aaa9d673625567ca7f0bc104ac64567644bfd125344</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 15:36:34 +0000</pubDate>
+<description>COP31 host Turkey is set to push for a "electrification" drive to help meet global elergy demand as the UN climate conference kicks off in Antalya on Monday. The annual summit takes place this year under the shadow of a cost-of-living crisis fuelled by the war in the Middle East.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>COP31 host Turkey is set to push for a "electrification" drive to help meet global elergy demand as the UN climate conference kicks off in Antalya on Monday. The annual summit takes place this year under the shadow of a cost-of-living crisis fuelled by the war in the Middle East.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/79a8343e-d9f3-11f1-ba9d-a575454bc579/w:1024/p:16x9/000-D6HQ8CQ.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/79a8343e-d9f3-11f1-ba9d-a575454bc579/w:1024/p:16x9/000-D6HQ8CQ.jpg" medium="image"/>
+</item>
+<item>
+<title>Trump moves to make Oval Office a national monument to prevent future major changes</title>
+<link>https://abcnews.com/Politics/trump-moves-make-oval-office-national-monument-aiming/story?id=137894328</link>
+<guid isPermaLink="false">7e173a59b32eacaa6c83606441a539de1b4213e3e14201f01c255c691c08ad33</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 15:25:25 +0000</pubDate>
+<description>Trump indicated the proclamation would have to be ratified by Congress.</description>
+<dc:creator></dc:creator>
+<content:encoded>Trump indicated the proclamation would have to be ratified by Congress.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Politics/trump-1-gty-er-261105_1793920043837_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/trump-1-gty-er-261105_1793920043837_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>European air traffic is targeted by new threats after a week of hoaxes</title>
+<link>https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes</link>
+<guid isPermaLink="false">6276075465bf1693b108e0ffcd194e2c0ca81c154d3db04529e798a4206f9b91</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 15:21:31 +0000</pubDate>
+<description>Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, following a string of hoaxes that have caused flight diversions this week. Two broadcasters also received security threats. (Image credit: Andreea Alexandru)</description>
+<dc:creator>The Associated Press</dc:creator>
+<content:encoded>Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, following a string of hoaxes that have caused flight diversions this week. Two broadcasters also received security threats. (Image credit: Andreea Alexandru)</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F64%2Fb282b384425e903e486372448a31%2Fap26310409371268.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F64%2Fb282b384425e903e486372448a31%2Fap26310409371268.jpg" medium="image"/>
+</item>
+<item>
+<title>Killer who bragged after fatally stabbing student jailed</title>
+<link>https://news.sky.com/story/killer-who-bragged-after-fatally-stabbing-student-jailed-13608704</link>
+<guid isPermaLink="false">ecaf0436dda6249032103997216ad0849b25ef66858758064315afa66603fbc4</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 15:18:00 +0000</pubDate>
+<description>A man who bragged after fatally stabbing an accounting student in southwest London has been jailed.</description>
+<dc:creator></dc:creator>
+<content:encoded>A man who bragged after fatally stabbing an accounting student in southwest London has been jailed.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-dino-donaldson-police_7398798.jpg?20261106080957" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-dino-donaldson-police_7398798.jpg?20261106080957" medium="image"/>
+</item>
+<item>
+<title>China keeps a close eye on US midterm shake-up</title>
+<link>https://www.france24.com/en/tv-shows/access-asia/20261106-china-keeps-a-close-eye-on-us-midterm-shake-up</link>
+<guid isPermaLink="false">c2e2aac53d76b903b9d56047867881be25fbedcbacbd476ae2abc83acea34548</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 15:03:23 +0000</pubDate>
+<description>The US midterm elections have resulted in the Democratic Party taking control of both chambers of the US Congress, leaving Donald Trump as a lame duck president for the remainder of his term. Professor Steve Tsang of the SOAS China Institute tells FRANCE 24 that, while a weakened Trump could strengthen Beijing's negotiating position, the Chinese leadership is aware that Congress has relatively little sway over foreign policy and is keen to maintain warm personal ties between the two presidents.</description>
+<dc:creator>Yuka ROYER</dc:creator>
+<content:encoded>The US midterm elections have resulted in the Democratic Party taking control of both chambers of the US Congress, leaving Donald Trump as a lame duck president for the remainder of his term. Professor Steve Tsang of the SOAS China Institute tells FRANCE 24 that, while a weakened Trump could strengthen Beijing's negotiating position, the Chinese leadership is aware that Congress has relatively little sway over foreign policy and is keen to maintain warm personal ties between the two presidents.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/3dca1b8c-b999-11f1-8b8a-11fa9f8a3b4f/w:1024/p:16x9/Semaine-Trump-Xi.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/3dca1b8c-b999-11f1-8b8a-11fa9f8a3b4f/w:1024/p:16x9/Semaine-Trump-Xi.jpg" medium="image"/>
+</item>
+<item>
+<title>Election 2026 live results: Raman promises smooth transition of power to LA mayor</title>
+<link>https://abcnews.com/Politics/live-updates/midterm-elections-live-updates?id=137782085</link>
+<guid isPermaLink="false">5ef8e278710b838550acd8983c641718423a25411923f3444581fac9fd0f71b7</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 15:02:33 +0000</pubDate>
+<description>Raman is poised to become the 44th mayor of the nation’s second-largest city.</description>
+<dc:creator></dc:creator>
+<content:encoded>Raman is poised to become the 44th mayor of the nation’s second-largest city.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/Raman-1-epa-gmh-261103_1793730757837_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/Raman-1-epa-gmh-261103_1793730757837_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Jobs report shows hiring accelerated in October</title>
+<link>https://abcnews.com/Business/jobs-report-provide-latest-snapshot-hiring-days-after/story?id=137874249</link>
+<guid isPermaLink="false">a7fab0e69c73a15b0a75b588bf36c11007302cd984428f293e58f9c1791db220</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 15:00:40 +0000</pubDate>
+<description>The jobs report is the first major economic data release since the midterms.</description>
+<dc:creator></dc:creator>
+<content:encoded>The jobs report is the first major economic data release since the midterms.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Business/construction-4-ap-gmh-261105_1793910287862_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Business/construction-4-ap-gmh-261105_1793910287862_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Pope Leo embarks on Latin America trip with a first stop in Uruguay</title>
+<link>https://www.france24.com/en/video/20261106-pope-leo-embarks-on-latin-america-trip-with-a-first-stop-in-uruguay</link>
+<guid isPermaLink="false">75be37554894761bfe8806d824946e3e7f88c922b81c46767fcc127f0cd604ea</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 14:58:24 +0000</pubDate>
+<description>Pope Leo XIV is kicking off a three-nation tour of Latin America on Friday, November 6, with a visit to Uruguay, the region’s least Catholic and most secular country, three weeks after undergoing lung cancer surgery that had put the entire trip into question. After Uruguay, he will then go to Argentina and Peru. FRANCE 24's Hanna Roberts has more.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>Pope Leo XIV is kicking off a three-nation tour of Latin America on Friday, November 6, with a visit to Uruguay, the region’s least Catholic and most secular country, three weeks after undergoing lung cancer surgery that had put the entire trip into question. After Uruguay, he will then go to Argentina and Peru. FRANCE 24's Hanna Roberts has more.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/c1dde444-d9ec-11f1-875a-1beafce15fea/w:1024/p:16x9/capture-15e9c5b9.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/c1dde444-d9ec-11f1-875a-1beafce15fea/w:1024/p:16x9/capture-15e9c5b9.jpg" medium="image"/>
+</item>
+<item>
+<title>California governor to grant clemency to all 548 death row inmates in state</title>
+<link>https://www.france24.com/en/video/20261106-california-governor-to-grant-clemency-to-all-548-death-row-inmates-in-state</link>
+<guid isPermaLink="false">c636daf2eedd8d3ff65cf1cff66fa92abcef5cd0903ac2d64b78d565d038345b</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 14:54:44 +0000</pubDate>
+<description>California's governor Gavy Newsom announced Thursday that he will commute all death sentences in the state to life without the possibility of parole. He said that "capital punishment is morally wrong." The state Supreme Court will have the final say in hundreds of those cases.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>California's governor Gavy Newsom announced Thursday that he will commute all death sentences in the state to life without the possibility of parole. He said that "capital punishment is morally wrong." The state Supreme Court will have the final say in hundreds of those cases.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/06d29b9a-d9ec-11f1-b5f2-d18c5759e759/w:1024/p:16x9/capture-77fd1be3.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/06d29b9a-d9ec-11f1-b5f2-d18c5759e759/w:1024/p:16x9/capture-77fd1be3.jpg" medium="image"/>
+</item>
+<item>
+<title>The leader of a Kenyan doomsday cult is sentenced to 200 years in prison</title>
+<link>https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder</link>
+<guid isPermaLink="false">b2885443585d44aa030fda8bddf24bf0abaae87e3a647fab9bbc2ed91f37c4b0</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 14:53:46 +0000</pubDate>
+<description>Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus. (Image credit: Brian Inganga)</description>
+<dc:creator>The Associated Press</dc:creator>
+<content:encoded>Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus. (Image credit: Brian Inganga)</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2F73%2Fcbf29c684a399b365458c0f6cfb1%2Fap26310304210727.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdb%2F73%2Fcbf29c684a399b365458c0f6cfb1%2Fap26310304210727.jpg" medium="image"/>
+</item>
+<item>
+<title>Thomas Markle arrested by FBI in Florida - report</title>
+<link>https://news.sky.com/story/thomas-markle-snr-arrested-by-fbi-in-florida-report-13608900</link>
+<guid isPermaLink="false">3b81c75a5c3177c83bd52b439ad39ed51fd0ca0eafb0b3ffd9116f6ff10bf35e</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 14:46:00 +0000</pubDate>
+<description>The Duchess of Sussex's father, Thomas Markle Snr, has been arrested by the FBI in Florida on charges related to child sexual abuse material, sources have told The Associated Press.</description>
+<dc:creator></dc:creator>
+<content:encoded>The Duchess of Sussex's father, Thomas Markle Snr, has been arrested by the FBI in Florida on charges related to child sexual abuse material, sources have told The Associated Press.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-thomas-markle-grab_7384468.jpg?20261024162425" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-thomas-markle-grab_7384468.jpg?20261024162425" medium="image"/>
+</item>
+<item>
+<title>Russell Brand's barrister reports himself to watchdog over behaviour after verdict</title>
+<link>https://news.sky.com/story/brands-barrister-reports-himself-over-altercation-with-journalist-after-verdict-13608896</link>
+<guid isPermaLink="false">5076893c320be8beb35d874a974a02da029d0cc3f01ff10db0d20aa83fd0d38b</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 14:39:00 +0000</pubDate>
+<description>Russell Brand's barrister has reported himself to the Bar Standards Board after an altercation with a journalist following the verdict.</description>
+<dc:creator></dc:creator>
+<content:encoded>Russell Brand's barrister has reported himself to the Bar Standards Board after an altercation with a journalist following the verdict.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-ian-winter-qc_7399154.jpg?20261106151012" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ian-winter-qc_7399154.jpg?20261106151012" medium="image"/>
+</item>
+<item>
+<title>Jay Rockefeller, former West Virginia governor and US senator, dies at 89</title>
+<link>https://abcnews.com/Politics/wireStory/jay-rockefeller-former-west-virginia-governor-us-senator-137911360</link>
+<guid isPermaLink="false">8fc6eca7b29b2793bccecf8f0f7ffa052bf87257dc2fef81c2474a93a7e4b1a3</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 14:36:37 +0000</pubDate>
+<description>Jay Rockefeller, the last member of his family’s political dynasty who served as West Virginia’s governor and later a longtime U.S. senator, has died</description>
+<dc:creator></dc:creator>
+<content:encoded>Jay Rockefeller, the last member of his family’s political dynasty who served as West Virginia’s governor and later a longtime U.S. senator, has died</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/wirestory_b5cb393af7826335b0b495b70e5b528e_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/wirestory_b5cb393af7826335b0b495b70e5b528e_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>The women who rode the blue wave</title>
+<link>https://www.france24.com/en/tv-shows/the-51/20261106-the-women-who-rode-the-blue-wave</link>
+<guid isPermaLink="false">ef914166f074ab06bcb8fcc21d53f8857e33a69bf8353710a12b1a0d9c8ece34</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 14:15:28 +0000</pubDate>
+<description>In this edition, we report on how the US midterms, which saw the Democrats make massive gains, also marked a series of historic firsts for women. Also the dark side to Bangkok's booming fertility industry, which attracts thousands of foreign patients seeking assistance from the Thai capital's state-of-the-art private clinics. Plus how an impoverished neighbourhood in El Salvador, once a no-go zone plagued by gang violence, is being transformed by women into a vibrant canvas for street art.</description>
+<dc:creator>Annette YOUNG</dc:creator>
+<content:encoded>In this edition, we report on how the US midterms, which saw the Democrats make massive gains, also marked a series of historic firsts for women. Also the dark side to Bangkok's booming fertility industry, which attracts thousands of foreign patients seeking assistance from the Thai capital's state-of-the-art private clinics. Plus how an impoverished neighbourhood in El Salvador, once a no-go zone plagued by gang violence, is being transformed by women into a vibrant canvas for street art.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/2f4db7a4-d9d7-11f1-b5a5-d18c5759e759/w:1024/p:16x9/51-PERCENT-2.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/2f4db7a4-d9d7-11f1-b5a5-d18c5759e759/w:1024/p:16x9/51-PERCENT-2.jpg" medium="image"/>
+</item>
+<item>
+<title>Ex-lawmaker gets 12.5 years in Macao's first national security case</title>
+<link>https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case</link>
+<guid isPermaLink="false">45cdeae664636167f06830ac42308b03188e61971ce8cd6c9d1a7b5cd37eb66a</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 13:56:43 +0000</pubDate>
+<description>Au's arrest last year was the first publicly known prosecution under Macao's national security law since it was enacted in 2009. (Image credit: Bertha Wang)</description>
+<dc:creator>The Associated Press</dc:creator>
+<content:encoded>Au's arrest last year was the first publicly known prosecution under Macao's national security law since it was enacted in 2009. (Image credit: Bertha Wang)</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6911x4607+0+0/resize/6911x4607!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2F8e%2F42f5136c40b8aaae31a8117554fb%2Fap26309516866031.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6911x4607+0+0/resize/6911x4607!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2F8e%2F42f5136c40b8aaae31a8117554fb%2Fap26309516866031.jpg" medium="image"/>
+</item>
+<item>
+<title>'Too early to draw conclusions' as bomb threat hoaxes target European countries</title>
+<link>https://www.france24.com/en/video/20261106-too-early-to-draw-conclusions-as-bomb-threat-hoaxes-target-european-countries</link>
+<guid isPermaLink="false">e552d93dd97d590a9bf24a85b4a4a5c9aed504bfb6520db5733eff5bb17b7296</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 13:48:11 +0000</pubDate>
+<description>Several Irish media outlets reported receiving bomb threats on Friday as a wave of hoax alerts that had so far mainly targeted airlines continued across Europe, with more than a dozen new flights affected. No explosives have been found in any of the incidents so far. European authorities are scrambling to identify the sources of the threats, as FRANCE 24's Brussels correspondent Dave Keating reports.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>Several Irish media outlets reported receiving bomb threats on Friday as a wave of hoax alerts that had so far mainly targeted airlines continued across Europe, with more than a dozen new flights affected. No explosives have been found in any of the incidents so far. European authorities are scrambling to identify the sources of the threats, as FRANCE 24's Brussels correspondent Dave Keating reports.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/edce07d8-d9e6-11f1-aa0f-d18c5759e759/w:1024/p:16x9/EN-20261106-140157-140614-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/edce07d8-d9e6-11f1-aa0f-d18c5759e759/w:1024/p:16x9/EN-20261106-140157-140614-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>Paraguay's Peña offers resignation amid banking scandal, protests</title>
+<link>https://www.france24.com/en/video/20261106-paraguay-s-pe%C3%B1a-offers-resignation-amid-banking-scandal-protests</link>
+<guid isPermaLink="false">1af15f93cd3f9891f81faff8b454be8f639143b98795e3bf31513daee77478ce</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 13:45:58 +0000</pubDate>
+<description>Paraguayan President Santiago Peña submitted his resignation on Thursday, but Congress put it on hold as impeachment proceedings against him move forward. Peña is facing impeachment over a banking scandal that has affected millions of people and sparked protests, with thousands taking to the streets in recent days.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>Paraguayan President Santiago Peña submitted his resignation on Thursday, but Congress put it on hold as impeachment proceedings against him move forward. Peña is facing impeachment over a banking scandal that has affected millions of people and sparked protests, with thousands taking to the streets in recent days.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/41af145a-d9e7-11f1-9a4d-bf1914cabd52/w:1024/p:16x9/EN-20261106-141452-141644-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/41af145a-d9e7-11f1-9a4d-bf1914cabd52/w:1024/p:16x9/EN-20261106-141452-141644-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>Met chief warns that 'policing will fail' without major reforms</title>
+<link>https://news.sky.com/story/met-police-chief-warns-policing-will-fail-without-major-reforms-13608862</link>
+<guid isPermaLink="false">5e8db4c8e6b046f970f59c14c3d811648bac29200fc03dbc574f97da728f299b</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 13:41:00 +0000</pubDate>
+<description>Metropolitan Police Commissioner Sir Mark Rowley has warned that “policing will fail” without major reforms, including reducing the number of regional forces.</description>
+<dc:creator></dc:creator>
+<content:encoded>Metropolitan Police Commissioner Sir Mark Rowley has warned that “policing will fail” without major reforms, including reducing the number of regional forces.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-mark-rowley-police_7399070.jpg?20261106135157" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-mark-rowley-police_7399070.jpg?20261106135157" medium="image"/>
+</item>
+<item>
+<title>Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US</title>
+<link>https://www.france24.com/en/americas/20261106-trump-stillborn-diesel-deal-why-russian-oil-tankers-are-not-heading-to-the-us</link>
+<guid isPermaLink="false">11df41a5280d97291f79c62276e4897ad118c2252d3317b4bf87a45f8d3c49d3</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 13:38:36 +0000</pubDate>
+<description>The first oil tankers scheduled to deliver Russian diesel to the US under a deal between President Donald Trump and his Russian counterpart Vladimir Putin have changed course and are no longer heading toward the US coast. It spells the end of an agreement announced with great fanfare before the midterms.</description>
+<dc:creator>Sébastian SEIBT</dc:creator>
+<content:encoded>The first oil tankers scheduled to deliver Russian diesel to the US under a deal between President Donald Trump and his Russian counterpart Vladimir Putin have changed course and are no longer heading toward the US coast. It spells the end of an agreement announced with great fanfare before the midterms.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/583fe45e-d93a-11f1-9d4e-bf1914cabd52/w:1024/p:16x9/image-tanker-diesel3.png" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/583fe45e-d93a-11f1-9d4e-bf1914cabd52/w:1024/p:16x9/image-tanker-diesel3.png" medium="image"/>
+</item>
+<item>
+<title>Is Israel opposition figure Gadi Eisenkot going to replace Benjamin Netanyahu?</title>
+<link>https://www.france24.com/en/video/20261106-is-israel-opposition-figure-gadi-eisenkot-going-to-replace-benjamin-netanyahu</link>
+<guid isPermaLink="false">06fb66f266f89f897c5f8bb0df4fc93decf6da739f44985b268b61cc9d6739ec</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 13:25:57 +0000</pubDate>
+<description>In Israel, Gadi Eisenkot emerged on Thursday, November 5, as the frontrunner to be tasked with forming a government. This comes after one of the two main parties representing ultra-Orthodox Jewish voters – a longtime ally of Prime Minister Benjamin Netanyahu's coalition – declined to recommend any candidate for the task. FRANCE 24's correspondent in Jerusalem Noga Tarnopolsky reports.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>In Israel, Gadi Eisenkot emerged on Thursday, November 5, as the frontrunner to be tasked with forming a government. This comes after one of the two main parties representing ultra-Orthodox Jewish voters – a longtime ally of Prime Minister Benjamin Netanyahu's coalition – declined to recommend any candidate for the task. FRANCE 24's correspondent in Jerusalem Noga Tarnopolsky reports.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/ebb71fde-d9cd-11f1-a086-a575454bc579/w:1024/p:16x9/capture-04af7880.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/ebb71fde-d9cd-11f1-a086-a575454bc579/w:1024/p:16x9/capture-04af7880.jpg" medium="image"/>
+</item>
+<item>
+<title>Double murderer given extra 22 years for historical sexual assaults</title>
+<link>https://news.sky.com/story/double-murderer-allan-grimson-given-extra-22-years-for-historical-sexual-assaults-13608858</link>
+<guid isPermaLink="false">a51e81e2ef2fb5e816141c428e9b9bf3ebf90bf6026b403a1caf46aba4e03ce7</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 13:17:00 +0000</pubDate>
+<description>BEST QUALITY AVAILABLE..Undated handout photo issued by Hampshire Police of Royal Navy petty officer Allan Grimson, who is serving life for the murder of two men, who has been sentenced for a further 22 years for sexually assaulting three young naval</description>
+<dc:creator></dc:creator>
+<content:encoded>BEST QUALITY AVAILABLE..Undated handout photo issued by Hampshire Police of Royal Navy petty officer Allan Grimson, who is serving life for the murder of two men, who has been sentenced for a further 22 years for sexually assaulting three young naval</content:encoded>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-navy-allan-grimson_7399176.jpg?20261106152959" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-navy-allan-grimson_7399176.jpg?20261106152959" medium="image"/>
+</item>
+<item>
+<title>US Defence Secretary Pete Hegseth's future in question after midterms setback</title>
+<link>https://www.france24.com/en/video/20261106-us-defence-secretary-pete-hegseth-s-future-in-question-after-midterms-setback</link>
+<guid isPermaLink="false">cccc4df57f2da00d68b3510b26d4dc8f45086fef67d1ad263a29fb1fcf4fa9ce</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 13:15:54 +0000</pubDate>
+<description>US Defence Secretary Pete Hegseth's future is in question after Tuesday's, November 3, midterms setback. On Thursday, November 5, he issued a video message vowing to fight efforts in Congress to impeach him and defending the ‌Iran war as “courageous and historic”. FRANCE 24's International Affairs Editor Philip Turle has more.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>US Defence Secretary Pete Hegseth's future is in question after Tuesday's, November 3, midterms setback. On Thursday, November 5, he issued a video message vowing to fight efforts in Congress to impeach him and defending the ‌Iran war as “courageous and historic”. FRANCE 24's International Affairs Editor Philip Turle has more.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/786ab9d8-d9d6-11f1-88c5-a575454bc579/w:1024/p:16x9/capture-bcc8d7a2.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/786ab9d8-d9d6-11f1-88c5-a575454bc579/w:1024/p:16x9/capture-bcc8d7a2.jpg" medium="image"/>
+</item>
+<item>
+<title>Tech giants lose $1 trillion in one day after Democrats victory in midterms</title>
+<link>https://www.france24.com/en/video/20261106-tech-giants-lose-1-trillion-in-one-day-after-democrats-victory-in-midterms</link>
+<guid isPermaLink="false">9538a05ef576a21485ae136aeac07c983b97f2191836a51502df25b99140e05e</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 13:15:27 +0000</pubDate>
+<description>Trillions of dollars have been wiped off the stock value of major tech firms in the US, Europe and Asia. Investors appear worried about the possibility of an AI slowdown and tougher regulation as Democrats won the midterms in the US. Some of the Democratic candidates had expressed their opposition to the data centres that are needed to power AI technology.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>Trillions of dollars have been wiped off the stock value of major tech firms in the US, Europe and Asia. Investors appear worried about the possibility of an AI slowdown and tougher regulation as Democrats won the midterms in the US. Some of the Democratic candidates had expressed their opposition to the data centres that are needed to power AI technology.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/6e1d77ee-d9dc-11f1-9d72-695cb59fade5/w:1024/p:16x9/capture-4f9220cf.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/6e1d77ee-d9dc-11f1-9d72-695cb59fade5/w:1024/p:16x9/capture-4f9220cf.jpg" medium="image"/>
+</item>
+<item>
+<title>Canada PM Mark Carney unveils budget to strengthen economy</title>
+<link>https://www.france24.com/en/video/20261106-canada-pm-mark-carney-unveils-budget-to-strengthen-economy</link>
+<guid isPermaLink="false">d4b06f9d7d414a72129de89da9a423357056ac7d00b9af0394a1a7a589fd5106</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 13:10:49 +0000</pubDate>
+<description>Canada's Prime Minister Mark Carney unveiled his first ever budget on November 5, which set out strong ambitions for greater economic independence from the US. The "Masters of our Destiny" budget also announced generous measures for parts of the economy affected by tariffs, setting aside 44 billion Canadian dollars for impacted businesses and workers.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>Canada's Prime Minister Mark Carney unveiled his first ever budget on November 5, which set out strong ambitions for greater economic independence from the US. The "Masters of our Destiny" budget also announced generous measures for parts of the economy affected by tariffs, setting aside 44 billion Canadian dollars for impacted businesses and workers.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/fa6b4696-b28a-11f1-a748-4daf57bffe27/w:1024/p:16x9/2026-09-17T111429Z-20141978-RC2ZKNAG3C67-RTRMADP-3-EU-CANADA.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/fa6b4696-b28a-11f1-a748-4daf57bffe27/w:1024/p:16x9/2026-09-17T111429Z-20141978-RC2ZKNAG3C67-RTRMADP-3-EU-CANADA.jpg" medium="image"/>
+</item>
+<item>
+<title>Will Democratic Party introduce a new 'New Deal'? Key narrative must be 'focused on economic issues'</title>
+<link>https://www.france24.com/en/will-democratic-party-introduce-a-new-new-deal-key-narrative-must-be-focused-on-economic-issues</link>
+<guid isPermaLink="false">1cf4d4e61b5b8867e9d00f69360121ab3ec3e59b63a5b35439cd4c895115b651</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 13:07:30 +0000</pubDate>
+<description>With Democrats poised to control both chambers of Congress, the party faces a defining challenge: how to constrain Donald Trump's presidency while carving out a path to the White House in 2028. For Ian Reifowitz, Distinguished Professor of History at SUNY Empire State University, the answer lies in drawing on the historical legacy of Franklin D. Roosevelt's New Deal coalition. Republicans, he argues, have progressively shifted electoral competition towards questions of identity, immigration and cultural conflict. Democrats, by contrast, must recover their traditional strength on economic security, affordability and everyday living standards. "These Democrats across the country ran on affordability." And that's how they must govern, explains Reifowitz.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>With Democrats poised to control both chambers of Congress, the party faces a defining challenge: how to constrain Donald Trump's presidency while carving out a path to the White House in 2028. For Ian Reifowitz, Distinguished Professor of History at SUNY Empire State University, the answer lies in drawing on the historical legacy of Franklin D. Roosevelt's New Deal coalition. Republicans, he argues, have progressively shifted electoral competition towards questions of identity, immigration and cultural conflict. Democrats, by contrast, must recover their traditional strength on economic security, affordability and everyday living standards. "These Democrats across the country ran on affordability." And that's how they must govern, explains Reifowitz.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/d72ef50a-d9dc-11f1-96ab-d18c5759e759/w:1024/p:16x9/EN-20261105-223101-224205-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/d72ef50a-d9dc-11f1-96ab-d18c5759e759/w:1024/p:16x9/EN-20261105-223101-224205-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>Kenyan doomsday cult leader jailed for 200 years over 191 murders</title>
+<link>https://news.sky.com/story/kenyan-doomsday-cult-leader-jailed-for-200-years-over-murder-of-191-people-13608808</link>
+<guid isPermaLink="false">ac91142b7cc80bafed559bc1dd6715549d4768a382be3205c8b7e8ce07d1fe63</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 12:50:00 +0000</pubDate>
+<description>Cult leader Paul Mackenzie has been sentenced to a total of 200 years in prison for the murder of 190 children and one adult in the Shakahola Forest, on the Kenyan coast, between January 2021 and September 2023.</description>
+<dc:creator></dc:creator>
+<content:encoded>Cult leader Paul Mackenzie has been sentenced to a total of 200 years in prison for the murder of 190 children and one adult in the Shakahola Forest, on the Kenyan coast, between January 2021 and September 2023.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-paul-mackenzie-good-news-international_7398786.jpg?20261106075250" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-paul-mackenzie-good-news-international_7398786.jpg?20261106075250" medium="image"/>
+</item>
+<item>
+<title>'Period of uncertainty: Trump is tormented, he's unstoppable, and he's desperate for immortality'</title>
+<link>https://www.france24.com/en/tv-shows/spotlight/20261106-period-of-uncertainty-trump-is-tormented-he-s-unstoppable-and-he-s-desperate-for-immortality</link>
+<guid isPermaLink="false">31bf49bae50f741ef456b16a1e7f1c5adac0b10b8007dc0c918be02422f522de</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 12:46:12 +0000</pubDate>
+<description>François Picard is pleased to welcome Craig Copetas, Greek-American author, international affairs columnist and editor at Türkiye Today and French Senator Hélène Conway-Mouret. “What you have is a tormented and unstable president who's desperate for immortality.” With this arresting assessment, Copetas captures what he considers the defining paradox of Donald Trump's presidency in the aftermath of the US midterm elections: a leader politically neutered at home but potentially emboldened on the international stage.</description>
+<dc:creator>François PICARD</dc:creator>
+<content:encoded>François Picard is pleased to welcome Craig Copetas, Greek-American author, international affairs columnist and editor at Türkiye Today and French Senator Hélène Conway-Mouret. “What you have is a tormented and unstable president who's desperate for immortality.” With this arresting assessment, Copetas captures what he considers the defining paradox of Donald Trump's presidency in the aftermath of the US midterm elections: a leader politically neutered at home but potentially emboldened on the international stage.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/94223fac-d9db-11f1-a364-bf1914cabd52/w:1024/p:16x9/EN-20261104-181731-183246-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/94223fac-d9db-11f1-a364-bf1914cabd52/w:1024/p:16x9/EN-20261104-181731-183246-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>The human cost of recycling: Kenyan waste pickers put their health at risk</title>
+<link>https://www.france24.com/en/tv-shows/reporters/20261106-the-human-cost-of-recycling-kenyan-waste-pickers-put-their-health-at-risk</link>
+<guid isPermaLink="false">8367ce2d13bd8345f033d44216b2e9a4e2cf49e30895cd9276f0d9edbb685d06</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 12:34:50 +0000</pubDate>
+<description>Two thousand tonnes of waste are dumped every day at the Dandora landfill site in the Kenyan capital Nairobi. An army of workers then rush in to recover recyclable materials, putting their own health at risk in the process. But however hard these unsung environmental heroes work, only 7 percent of the plastic can be recycled. Our correspondents report.</description>
+<dc:creator>Bastien RENOUIL</dc:creator>
+<content:encoded>Two thousand tonnes of waste are dumped every day at the Dandora landfill site in the Kenyan capital Nairobi. An army of workers then rush in to recover recyclable materials, putting their own health at risk in the process. But however hard these unsung environmental heroes work, only 7 percent of the plastic can be recycled. Our correspondents report.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/9ecbbe0c-d908-11f1-bda2-d18c5759e759/w:1024/p:16x9/Reporters-Kenya-FR-EN.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/9ecbbe0c-d908-11f1-bda2-d18c5759e759/w:1024/p:16x9/Reporters-Kenya-FR-EN.jpg" medium="image"/>
+</item>
+<item>
+<title>Two dead after bus carrying schoolchildren crashes in France, officials say</title>
+<link>https://news.sky.com/story/two-dead-after-bus-carrying-schoolchildren-crashes-in-france-officials-say-13608677</link>
+<guid isPermaLink="false">e3cbca361357d153945b56a8f505b30e6910f64bed2d53144f020419722b518b</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 12:10:00 +0000</pubDate>
+<description>A seven-year-old girl and an 18-year-old boy have been killed after a bus crashed in eastern France, French authorities said.</description>
+<dc:creator></dc:creator>
+<content:encoded>A seven-year-old girl and an 18-year-old boy have been killed after a bus crashed in eastern France, French authorities said.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-france-school-bus-lent_7398902.jpg?20261106102057" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-france-school-bus-lent_7398902.jpg?20261106102057" medium="image"/>
+</item>
+<item>
+<title>'He's got to go': Hakeem Jeffries calls for Hegseth's removal but stops short of impeachment</title>
+<link>https://www.npr.org/2026/11/06/nx-s1-6030799/democrats-ran-on-affordability-how-will-the-party-make-it-happen</link>
+<guid isPermaLink="false">b9d7f377e491bd55af09b9ab7b93a3e0f28ed2bada31e822b1eda11755c7dbcb</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 11:58:56 +0000</pubDate>
+<description>Speaking with Morning Edition , Hakeem Jeffries discussed ending the Iran war, holding Trump accountable and calls for new Democratic leadership, but offered few specifics on how Democrats would deliver. (Image credit: Kevin Dietsch)</description>
+<dc:creator>Leila Fadel</dc:creator>
+<content:encoded>Speaking with Morning Edition , Hakeem Jeffries discussed ending the Iran war, holding Trump accountable and calls for new Democratic leadership, but offered few specifics on how Democrats would deliver. (Image credit: Kevin Dietsch)</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/794x553+0+0/resize/794x553!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F6c%2F7289955b4f2a806ae70f6509114f%2Fgettyimages-2303508610.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/794x553+0+0/resize/794x553!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F6c%2F7289955b4f2a806ae70f6509114f%2Fgettyimages-2303508610.jpg" medium="image"/>
+</item>
+<item>
+<title>Past White House adviser Raj Panjabi has written a playbook for 'living room' crises</title>
+<link>https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook</link>
+<guid isPermaLink="false">b5f45ef9c8a5e2ebbd0d284e9b98d9618d3a116421b5625f198de80c2aa5a328</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 11:57:32 +0000</pubDate>
+<description>Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis — health, workplace, family conflicts — and "turn fear into action." (Image credit: Ben de la Cruz/NPR)</description>
+<dc:creator>Marc Silver</dc:creator>
+<content:encoded>Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis — health, workplace, family conflicts — and "turn fear into action." (Image credit: Ben de la Cruz/NPR)</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5983x3989+0+0/resize/5983x3989!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F07%2F6436c96041889b49739feb0a0d4d%2Fraj-panjabi.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5983x3989+0+0/resize/5983x3989!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F07%2F6436c96041889b49739feb0a0d4d%2Fraj-panjabi.jpg" medium="image"/>
+</item>
+<item>
+<title>Europe's crisis of discontent: Student and cost-of-living protests spread across EU</title>
+<link>https://www.france24.com/en/tv-shows/talking-europe/20261106-europe-s-crisis-of-discontent-student-and-cost-of-living-protests-spread-across-eu</link>
+<guid isPermaLink="false">be302a79e1aa1d87a93147160f78419493e431598f42885ca48eff0a27dd2672</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 11:48:49 +0000</pubDate>
+<description>A growing wave of discontent is sweeping across Europe. What began in France as student protests over deteriorating school conditions, teacher shortages and an education system under pressure has quickly grown into something much bigger: a groundswell of discontent over the rising cost of living, unaffordable housing and struggling public services.</description>
+<dc:creator>Jennifer BEN BRAHIM</dc:creator>
+<content:encoded>A growing wave of discontent is sweeping across Europe. What began in France as student protests over deteriorating school conditions, teacher shortages and an education system under pressure has quickly grown into something much bigger: a groundswell of discontent over the rising cost of living, unaffordable housing and struggling public services.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/28d69d38-d922-11f1-bb94-d18c5759e759/w:1024/p:16x9/PHOTO-DEBAT-EN-2.png" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/28d69d38-d922-11f1-bb94-d18c5759e759/w:1024/p:16x9/PHOTO-DEBAT-EN-2.png" medium="image"/>
+</item>
+<item>
+<title>Israel's Eisenkot claims 'progress' in coalition talks as opposition eases on ultra-Orthodox draft</title>
+<link>https://www.france24.com/en/middle-east/20261106-israel-s-eisenkot-claims-significant-progress-in-coalition-talks-as-opposition-eases-on-ultra-orthodox-draft</link>
+<guid isPermaLink="false">688a89e5ca21e70481704ca634fe9a5f2a7993662000713c98a9f0931937318d</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 11:43:55 +0000</pubDate>
+<description>Israeli opposition candidate Gadi Eisenkot said on Friday he was making "significant progress" in forming a government to oust Prime Minister Benjamin Netanyahu as one of his possible coalition partners walked back demands that ultra-Orthodox Jews complete military service and signalled a willingness to hold talks with the community.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>Israeli opposition candidate Gadi Eisenkot said on Friday he was making "significant progress" in forming a government to oust Prime Minister Benjamin Netanyahu as one of his possible coalition partners walked back demands that ultra-Orthodox Jews complete military service and signalled a willingness to hold talks with the community.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/9ff0f7b4-d9f0-11f1-85f8-695cb59fade5/w:1024/p:16x9/AP26300857503629.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/9ff0f7b4-d9f0-11f1-85f8-695cb59fade5/w:1024/p:16x9/AP26300857503629.jpg" medium="image"/>
+</item>
+<item>
+<title>French 2027 presidential elections: Why Melenchon is a Gen Z favourite</title>
+<link>https://www.france24.com/en/french-2027-presidential-elections-why-melenchon-is-a-gen-z-favourite</link>
+<guid isPermaLink="false">dc081f93fca051a3e925d56f433000e03d8b22e4ec83e1808777db59a25e30c5</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 11:43:31 +0000</pubDate>
+<description>Hard-left presidential candidate Jean-Luc Melenchon is beloved by French youth, but also one of the country’s most controversial politicians. His encouragement of the youth protests sweeping through France months ahead of the presidential election has only made him more divisive. So, why is Melenchon a Gen Z favourite? FRANCE 24's Gabrielle Nadler spoke to young supporters to find out.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>Hard-left presidential candidate Jean-Luc Melenchon is beloved by French youth, but also one of the country’s most controversial politicians. His encouragement of the youth protests sweeping through France months ahead of the presidential election has only made him more divisive. So, why is Melenchon a Gen Z favourite? FRANCE 24's Gabrielle Nadler spoke to young supporters to find out.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/29fed0fa-d9d5-11f1-accf-a575454bc579/w:1024/p:16x9/New-TITLE.png" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/29fed0fa-d9d5-11f1-accf-a575454bc579/w:1024/p:16x9/New-TITLE.png" medium="image"/>
+</item>
+<item>
+<title>WATCH: Multiple water rescues amid flood emergencies in the South</title>
+<link>https://abcnews.com/video/137895441</link>
+<guid isPermaLink="false">8b354bba4a3976d7ad410188fb010b93b70158691d9993b722f0837a05a91a47</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 11:43:08 +0000</pubDate>
+<description>A flood emergency is underway across multiple states in the South – triggering dozens of water rescues in Florida, Georgia and Tennessee in the middle of the night.</description>
+<dc:creator></dc:creator>
+<content:encoded>A flood emergency is underway across multiple states in the South – triggering dozens of water rescues in Florida, Georgia and Tennessee in the middle of the night.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/WNT/261105_wn_goldberg_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/WNT/261105_wn_goldberg_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Two men charged with murder after death of non-league footballer</title>
+<link>https://news.sky.com/story/two-men-charged-with-murder-after-death-of-non-league-footballer-13608676</link>
+<guid isPermaLink="false">0f19b4b18d1c90bc33c64929592ef1e70dbaa360e7f57824af533235b60c4fab</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 11:40:00 +0000</pubDate>
+<description>Two men have been charged with murder after the death of a non-league footballer.</description>
+<dc:creator></dc:creator>
+<content:encoded>Two men have been charged with murder after the death of a non-league footballer.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-ezekiel-williams-hendon_7397044.png?20261106124749" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ezekiel-williams-hendon_7397044.png?20261106124749" medium="image"/>
+</item>
+<item>
+<title>Premier League footballer sparks police operation after bow and arrow sighting</title>
+<link>https://news.sky.com/story/newcastles-amar-dedic-sparks-police-operation-after-bow-and-arrow-sighting-13608734</link>
+<guid isPermaLink="false">af8ddb22537648c2d1b00b4fbfc637948c14bd4054f6d68ef53e1a6705830f60</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 11:25:00 +0000</pubDate>
+<description>Newcastle United's Bosnian full-back Amar Dedic reportedly found himself at the centre of a major police response after he was spotted carrying a bow and arrows in the countryside.</description>
+<dc:creator></dc:creator>
+<content:encoded>Newcastle United's Bosnian full-back Amar Dedic reportedly found himself at the centre of a major police response after he was spotted carrying a bow and arrows in the countryside.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-amar-dedic-football_7398841.jpg?20261106091639" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-amar-dedic-football_7398841.jpg?20261106091639" medium="image"/>
+</item>
+<item>
+<title>WATCH: These identical twin sisters speak at the same time</title>
+<link>https://abcnews.com/video/137904581</link>
+<guid isPermaLink="false">158d5201559cdc8259d091eb7a694644ce8d2374af9cd3db676ff2910aa96037</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 11:09:26 +0000</pubDate>
+<description>Danny New talks to identical twin sisters in Australia who are turning heads for their unique speech patterns.</description>
+<dc:creator></dc:creator>
+<content:encoded>Danny New talks to identical twin sisters in Australia who are turning heads for their unique speech patterns.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/International/261106_gmafl_twins_speak_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/International/261106_gmafl_twins_speak_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Prison operator and health board admit criminal charges after death of inmate with COVID</title>
+<link>https://news.sky.com/story/prison-operator-sodexo-and-lothian-health-board-admit-criminal-charges-after-death-of-inmate-with-covid-13608794</link>
+<guid isPermaLink="false">fb64c23e865f5b1068e8926804b32a389243100dd358ab11e55f1adb507ba350</guid>
+<source>Sky News Home</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 10:49:00 +0000</pubDate>
+<description>A prison operator and an NHS health board have admitted criminal charges after the death of an imprisoned man who contracted COVID-19.</description>
+<dc:creator></dc:creator>
+<content:encoded>A prison operator and an NHS health board have admitted criminal charges after the death of an imprisoned man who contracted COVID-19.</content:encoded>
+<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-calum-inglis-covid_7398968.jpg?20261106113906" type="image/jpeg"/>
+<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-calum-inglis-covid_7398968.jpg?20261106113906" medium="image"/>
+</item>
+<item>
+<title>Midterms over, Democrats eye wide-open 2028 White House race</title>
+<link>https://www.france24.com/en/video/20261106-midterms-over-democrats-eye-wide-open-2028-white-house-race</link>
+<guid isPermaLink="false">eefb9ac1886b745624fc1b921bb0d3c468a492766766b03240c6a4769311c923</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 10:42:13 +0000</pubDate>
+<description>With the US midterms over, Democrats are turning to what could become one of their most crowded and unpredictable presidential primaries in decades, a 2028 contest ​likely to expose the party's divide over how to win back the White House. Despite their resounding victories on Tuesday, Democrats enter the 2028 campaign still divided over whether to tack to the center or move further left on issues ranging from healthcare and taxes to policing and foreign policy.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>With the US midterms over, Democrats are turning to what could become one of their most crowded and unpredictable presidential primaries in decades, a 2028 contest ​likely to expose the party's divide over how to win back the White House. Despite their resounding victories on Tuesday, Democrats enter the 2028 campaign still divided over whether to tack to the center or move further left on issues ranging from healthcare and taxes to policing and foreign policy.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/9833ed10-d9cd-11f1-9d98-1beafce15fea/w:1024/p:16x9/EN-20261106-111023-111206-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/9833ed10-d9cd-11f1-9d98-1beafce15fea/w:1024/p:16x9/EN-20261106-111023-111206-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>Israel president to announce Sunday who will form new government</title>
+<link>https://www.france24.com/en/video/20261106-israel-president-to-announce-sunday-who-will-form-new-government</link>
+<guid isPermaLink="false">374dc14e89f4bf440344dfd96308d9bdb9de3c1ab907cb2768d96e5232f3fec1</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 10:39:11 +0000</pubDate>
+<description>Israeli President Isaac Herzog said he will announce on Sunday, November 8, whom he will task with trying to form a new government, following post-election talks with all party leaders. 46 parliament members recommended Prime Minister Benjamin Netanyahu, while 67 backed his opponent Gadi Eisenkot. Seven lawmakers abstained.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>Israeli President Isaac Herzog said he will announce on Sunday, November 8, whom he will task with trying to form a new government, following post-election talks with all party leaders. 46 parliament members recommended Prime Minister Benjamin Netanyahu, while 67 backed his opponent Gadi Eisenkot. Seven lawmakers abstained.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/ead5c768-d9c9-11f1-b93b-bf1914cabd52/w:1024/p:16x9/capture-19a34eeb.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/ead5c768-d9c9-11f1-b93b-bf1914cabd52/w:1024/p:16x9/capture-19a34eeb.jpg" medium="image"/>
+</item>
+<item>
+<title>US Republicans face reckoning after major midterm election defeat</title>
+<link>https://www.france24.com/en/video/20261106-us-republicans-face-reckoning-after-major-midterm-election-defeat</link>
+<guid isPermaLink="false">a0614db58dcc677a0d0c3bd0032149441144f8750bd0b0faae72ab5cc584e9d5</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 10:37:55 +0000</pubDate>
+<description>Following the Democrats' sweeping victory in Tuesday's US midterm elections, Republicans are facing a moment of reckoning. With Donald Trump now a "lame-duck" president, the party must find a way forward after a historic electoral setback. The GOP faces major questions about how to win back voters and who will lead the party, with the next presidential election just two years away.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>Following the Democrats' sweeping victory in Tuesday's US midterm elections, Republicans are facing a moment of reckoning. With Donald Trump now a "lame-duck" president, the party must find a way forward after a historic electoral setback. The GOP faces major questions about how to win back voters and who will lead the party, with the next presidential election just two years away.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/ef78f86e-d9cc-11f1-9ae3-bf1914cabd52/w:1024/p:16x9/EN-20261106-110817-111007-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/ef78f86e-d9cc-11f1-9ae3-bf1914cabd52/w:1024/p:16x9/EN-20261106-110817-111007-CS.jpg" medium="image"/>
+</item>
+<item>
+<title>At least two killed, 23 injured in school bus accident in eastern France</title>
+<link>https://www.france24.com/en/france/20261106-at-least-two-killed-16-injured-in-school-bus-accident-in-eastern-france</link>
+<guid isPermaLink="false">2845f3f1a7cfa9c297fa82955d3557de689b96e7fd9f84ef64aba9c22531fa6b</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 10:37:42 +0000</pubDate>
+<description>A bus carrying school children crashed south of Bourg-en-Bresse in eastern France on Friday, killing at least two people and injuring 23 others. The vehicle was carrying 43 passengers in total.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>A bus carrying school children crashed south of Bourg-en-Bresse in eastern France on Friday, killing at least two people and injuring 23 others. The vehicle was carrying 43 passengers in total.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/9fa0ca48-d9cb-11f1-bfa1-695cb59fade5/w:1024/p:16x9/000-D6M83MF.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/9fa0ca48-d9cb-11f1-bfa1-695cb59fade5/w:1024/p:16x9/000-D6M83MF.jpg" medium="image"/>
+</item>
+<item>
+<title>Pollution, shortages, crime: Daily life in Pakistan's megacity Karachi</title>
+<link>https://www.france24.com/en/tv-shows/focus/20261106-pollution-shortages-crime-daily-life-in-pakistan-s-megacity-karachi</link>
+<guid isPermaLink="false">fe424575ae004138f33e110f4051f596a279fcc00be1191080c5a6e5e23984af</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 10:32:02 +0000</pubDate>
+<description>Fed up with hours of power cuts, the residents of Pakistan's economic hub Karachi took to the streets in recent days and blocked several major roads. The outburst of anger highlights the daily problems faced by a megacity of over 21 million people, which has once again been ranked among the world's least liveable cities.</description>
+<dc:creator>Sonia GHEZALI</dc:creator>
+<content:encoded>Fed up with hours of power cuts, the residents of Pakistan's economic hub Karachi took to the streets in recent days and blocked several major roads. The outburst of anger highlights the daily problems faced by a megacity of over 21 million people, which has once again been ranked among the world's least liveable cities.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/365618b2-d940-11f1-a61a-d18c5759e759/w:1024/p:16x9/EN-NW-OOV-ECRAN-FREEZE-PAKISTAN-KARACHI-BAIN-Lauren.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/365618b2-d940-11f1-a61a-d18c5759e759/w:1024/p:16x9/EN-NW-OOV-ECRAN-FREEZE-PAKISTAN-KARACHI-BAIN-Lauren.jpg" medium="image"/>
+</item>
+<item>
+<title>Death toll rises to 50 in Russian attack on aid distribution ‌point in Ukraine</title>
+<link>https://www.france24.com/en/europe/20261106-death-toll-rises-to-50-in-russian-attack-on-aid-distribution-point-in-ukraine</link>
+<guid isPermaLink="false">2f29347119888da44cda70fa65a8334a964011e944ee7d4496b7bc7b1136126e</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 10:15:12 +0000</pubDate>
+<description>The death toll from Russia's bombing of an aid ​distribution ‌point in ⁠Ukraine's southeastern Zaporizhzhia region on Monday ‌has risen to 50, Kyiv's Emergency Service said on Friday, making it ​one of the deadliest strikes ‌on civilians this year.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>The death toll from Russia's bombing of an aid ​distribution ‌point in ⁠Ukraine's southeastern Zaporizhzhia region on Monday ‌has risen to 50, Kyiv's Emergency Service said on Friday, making it ​one of the deadliest strikes ‌on civilians this year.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/46ae0b50-d9c9-11f1-b001-d18c5759e759/w:1024/p:16x9/2026-11-02T212716Z-2040630324-RC2QFOAUAPVF-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-REGION.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/46ae0b50-d9c9-11f1-b001-d18c5759e759/w:1024/p:16x9/2026-11-02T212716Z-2040630324-RC2QFOAUAPVF-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-REGION.jpg" medium="image"/>
+</item>
+<item>
+<title>Fill in the blank in the quiz: Vance says they lost the midterms because of ____</title>
+<link>https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center</link>
+<guid isPermaLink="false">b40fd28d6bff7cfc6263a6229cf7569c70497d8f0e3076c1e6e9de968cbd4ece</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
+<description>Plus: Heidi Klum's hand, hackers and the pope's visitor!</description>
+<dc:creator>Holly J. Morris</dc:creator>
+<content:encoded>Plus: Heidi Klum's hand, hackers and the pope's visitor!</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/5654x3182!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F10%2F902f24144914869607bb705c7e76%2Fgovernor-heidi-pope.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/5654x3182!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F10%2F902f24144914869607bb705c7e76%2Fgovernor-heidi-pope.jpg" medium="image"/>
+</item>
+<item>
+<title>Why public schools nationwide are facing a massive drop in student enrollment</title>
+<link>https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate</link>
+<guid isPermaLink="false">c72922be0cde801f6fc80721c244c717a524b8958b8c953c9cfd4285106551b6</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 10:00:00 +0000</pubDate>
+<description>School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse. (Image credit: Carlos Jaramillo for NPR)</description>
+<dc:creator>Brian Mann</dc:creator>
+<content:encoded>School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse. (Image credit: Carlos Jaramillo for NPR)</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3600+0+0/resize/4500x3600!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fee%2Fc54b9b0c43b6b4855ac9c4d97ce3%2Fdsc6224.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3600+0+0/resize/4500x3600!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fee%2Fc54b9b0c43b6b4855ac9c4d97ce3%2Fdsc6224.jpg" medium="image"/>
+</item>
+<item>
+<title>Left-leaning Washington, Colorado join conservative states in banning trans athletes</title>
+<link>https://abcnews.com/Politics/wireStory/left-leaning-washington-colorado-join-conservative-states-banning-137898149</link>
+<guid isPermaLink="false">3ab1b0843309051ffd3dc8f91ba4204aeed97ee801caccbd8089c1d489e5117d</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Fri, 06 Nov 2026 07:59:48 +0000</pubDate>
+<description>Voters in Washington and Colorado have approved measures to ban transgender athletes from participating in school sports</description>
+<dc:creator></dc:creator>
+<content:encoded>Voters in Washington and Colorado have approved measures to ban transgender athletes from participating in school sports</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Sports/wirestory_0a2a6d209ffb7ee552db4e5419b1e768_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Sports/wirestory_0a2a6d209ffb7ee552db4e5419b1e768_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Data centers took a beating in the midterm elections</title>
@@ -69,108 +654,17 @@
 <media:content url="https://s.abcnews.com/images/US/wirestory_63b33be8884d867d3ac831040d683a2c_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>A judge blocks construction of Trump's arch moments after it won federal approval</title>
-<link>https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction</link>
-<guid isPermaLink="false">ccb67d959929d050167cbf2ad83036f8313fb2b4430ab88f5afdce7e448560e2</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 05:05:43 +0000</pubDate>
-<description>The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocking work for 14 days. (Image credit: Tom Brenner)</description>
-<dc:creator>Rachel Treisman</dc:creator>
-<content:encoded>The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocking work for 14 days. (Image credit: Tom Brenner)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5722x3815+0+0/resize/5722x3815!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fad%2F519ddb20452ca88d55aff277fc30%2Fgettyimages-2303244303.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5722x3815+0+0/resize/5722x3815!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fad%2F519ddb20452ca88d55aff277fc30%2Fgettyimages-2303244303.jpg" medium="image"/>
-</item>
-<item>
-<title>Tech stocks plunge as US midterm results fuel fears of tighter AI rules</title>
-<link>https://www.france24.com/en/technology/20261106-tech-stocks-plunge-us-midterm-ai-rules</link>
-<guid isPermaLink="false">18679eaee3e8e46adbad4139da0ebeeefe7475f65d2ecb3686566b5f25949e42</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 05:02:06 +0000</pubDate>
-<description>Asian tech stocks fell sharply on Friday, with Seoul and Tokyo leading losses after a Wall Street sell-off driven by fears of tighter AI regulation following Democrats’ US midterm election victory. US voters widely oppose Data centres, and many winning candidates pledged to curb their development.</description>
-<dc:creator>FRANCE 24</dc:creator>
-<content:encoded>Asian tech stocks fell sharply on Friday, with Seoul and Tokyo leading losses after a Wall Street sell-off driven by fears of tighter AI regulation following Democrats’ US midterm election victory. US voters widely oppose Data centres, and many winning candidates pledged to curb their development.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/1be84736-d989-11f1-aed6-d18c5759e759/w:1024/p:16x9/0cb7dc483e38ff94c70690b196afde181d6bcadd.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/1be84736-d989-11f1-aed6-d18c5759e759/w:1024/p:16x9/0cb7dc483e38ff94c70690b196afde181d6bcadd.jpg" medium="image"/>
-</item>
-<item>
-<title>Federal panel gives final approval to Trump's arch</title>
-<link>https://abcnews.com/Politics/vietnam-vet-leading-opposition-trumps-arch-calls-frankly/story?id=137885182</link>
-<guid isPermaLink="false">6503fbb0c78e6690e07a87435cdfe84c2c7d77ca8b6091591c2a8a84b66e257f</guid>
+<title>WATCH: Authorities reveal motive in Citibank complex shooting</title>
+<link>https://abcnews.com/video/137895443</link>
+<guid isPermaLink="false">2f10bbde580d6f69e73a1d521b6b5fe52d947a687f9cd060e3464b765ee9b8e1</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Fri, 06 Nov 2026 04:41:12 +0000</pubDate>
-<description>Ahead of the vote to grant final approval, the Vietnam vet leading a lawsuit to stop the project called it "frankly blasphemous."</description>
+<pubDate>Fri, 06 Nov 2026 01:01:24 +0000</pubDate>
+<description>Chilling surveillance video shows a gunman exchanging gunfire with a security guard after ramming a gate at a Citibank complex near Tampa and killing a woman having lunch, authorities say.</description>
 <dc:creator></dc:creator>
-<content:encoded>Ahead of the vote to grant final approval, the Vietnam vet leading a lawsuit to stop the project called it "frankly blasphemous."</content:encoded>
-<enclosure url="https://s.abcnews.com/images/Politics/arch-5-ht-gmh-260917._1789661371270_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/arch-5-ht-gmh-260917._1789661371270_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Election 2026 live results: Karen Bass concedes LA mayoral race to Nithya Raman</title>
-<link>https://abcnews.com/Politics/live-updates/midterm-elections-live-updates?id=137782085</link>
-<guid isPermaLink="false">5ef8e278710b838550acd8983c641718423a25411923f3444581fac9fd0f71b7</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 01:57:11 +0000</pubDate>
-<description>Raman is poised to become the 44th mayor of the nation’s second-largest city.</description>
-<dc:creator></dc:creator>
-<content:encoded>Raman is poised to become the 44th mayor of the nation’s second-largest city.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/Raman-1-epa-gmh-261103_1793730757837_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/Raman-1-epa-gmh-261103_1793730757837_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Brand faces 'significant' prison term after rape and sexual assault conviction</title>
-<link>https://news.sky.com/story/russell-brand-faces-significant-prison-term-after-rape-and-sexual-assault-conviction-13608669</link>
-<guid isPermaLink="false">339ca4c7cc9d5894e1f654076b23c92a900c915c6e384088c20db41ff22ec315</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 01:47:00 +0000</pubDate>
-<description>Russell Brand has been told by a judge that he faces a "significant custodial term" after being found guilty of rape and sexual assault.</description>
-<dc:creator></dc:creator>
-<content:encoded>Russell Brand has been told by a judge that he faces a "significant custodial term" after being found guilty of rape and sexual assault.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-russell-brand-court_7395028.jpg?20261102154159" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-russell-brand-court_7395028.jpg?20261102154159" medium="image"/>
-</item>
-<item>
-<title>Rubio denies plans to resign, says working for Trump until end of term has 'always been my plan'</title>
-<link>https://www.france24.com/en/americas/20261106-marco-rubio-denies-resignation-2028-white-house</link>
-<guid isPermaLink="false">dd09aa7740821f619ee2a81fa2cc6306b59fb755ea7ca2d44db9c4f404d5dd10</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 00:24:59 +0000</pubDate>
-<description>US Secretary of State Marco Rubio dismissed reports on Thursday that he planned to leave the administration after Republican midterm losses, telling The New York Times he intended to serve through the end of President Donald Trump’s term. Rubio, a potential 2028 presidential candidate, declined to discuss his plans.</description>
-<dc:creator>FRANCE 24</dc:creator>
-<content:encoded>US Secretary of State Marco Rubio dismissed reports on Thursday that he planned to leave the administration after Republican midterm losses, telling The New York Times he intended to serve through the end of President Donald Trump’s term. Rubio, a potential 2028 presidential candidate, declined to discuss his plans.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/a33023e8-cf3a-11f1-a4eb-5b4a75578ebb/w:1024/p:16x9/02e49a537cd5fadcdce9728406b6b4b733a6bcb5.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/a33023e8-cf3a-11f1-a4eb-5b4a75578ebb/w:1024/p:16x9/02e49a537cd5fadcdce9728406b6b4b733a6bcb5.jpg" medium="image"/>
-</item>
-<item>
-<title>Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks</title>
-<link>https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections</link>
-<guid isPermaLink="false">cf6a238773ad656793437dfc1a4427cd03db3dbe0fb797b239d5ac54bb11802e</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Fri, 06 Nov 2026 00:16:53 +0000</pubDate>
-<description>Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers. (Image credit: Timothy A. Clary)</description>
-<dc:creator>Rafael Nam</dc:creator>
-<content:encoded>Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers. (Image credit: Timothy A. Clary)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3575x2378+0+0/resize/3575x2378!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F8a%2F246fd1f04d62b6c6e0b904447992%2Fgettyimages-2303241458.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3575x2378+0+0/resize/3575x2378!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F8a%2F246fd1f04d62b6c6e0b904447992%2Fgettyimages-2303241458.jpg" medium="image"/>
-</item>
-<item>
-<title>Melania Trump touts rare agreement she brokered between Russia and Ukraine</title>
-<link>https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine</link>
-<guid isPermaLink="false">fce12d9d44ef4b03e40c1b67ba7efeefc51967c50c3583f57cdfd7032b621a5c</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 23:52:48 +0000</pubDate>
-<description>The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine. (Image credit: Samuel Corum)</description>
-<dc:creator>Franco Ordoñez</dc:creator>
-<content:encoded>The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine. (Image credit: Samuel Corum)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4943x3295+0+0/resize/4943x3295!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2F47%2F2b0ce1bb4a2d829d15fd15e5bab2%2Fgettyimages-2303676947.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4943x3295+0+0/resize/4943x3295!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2F47%2F2b0ce1bb4a2d829d15fd15e5bab2%2Fgettyimages-2303676947.jpg" medium="image"/>
+<content:encoded>Chilling surveillance video shows a gunman exchanging gunfire with a security guard after ramming a gate at a Citibank complex near Tampa and killing a woman having lunch, authorities say.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/WNT/261105_wn_oquendo_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/WNT/261105_wn_oquendo_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Meet the man who's the new voice of Boston's Logan airport</title>
@@ -184,32 +678,6 @@
 <content:encoded>Christopher Donisi, an HVAC pipe fitter, will be the man behind the first voice travelers hear when they land in Beantown in the near future.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/US/261105_abcnl_1p_donesi_logan_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261105_abcnl_1p_donesi_logan_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>How North Carolina Democrats flipped several House seats in historically GOP districts</title>
-<link>https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts</link>
-<guid isPermaLink="false">3804be9bdc929bb3d8e54578139ea867e352167f34706e391ba44426a1d9fc85</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 23:34:36 +0000</pubDate>
-<description>All of these seats were in districts redrawn in 2023 to favor Republican candidates. (Image credit: A.M STEWART/AFP via Getty Images)</description>
-<dc:creator>Adam Wagner</dc:creator>
-<content:encoded>All of these seats were in districts redrawn in 2023 to favor Republican candidates. (Image credit: A.M STEWART/AFP via Getty Images)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2Fef%2Fa25ad9054b3d939aa5dd496f3862%2Fgettyimages-2303012466.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2Fef%2Fa25ad9054b3d939aa5dd496f3862%2Fgettyimages-2303012466.jpg" medium="image"/>
-</item>
-<item>
-<title>Three-quarters of world's displaced people face severe climate risks, UN says</title>
-<link>https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks</link>
-<guid isPermaLink="false">783288ff5f56ea8b797216c3e66861cd27c3446a963038e1654564a8cdf90ec1</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 23:34:08 +0000</pubDate>
-<description>Nearly 90 million forcibly displaced people, or three-quarters of the global total, live in countries highly exposed to climate hazards, the UN Refugee Agency said on Friday, urging action ahead of the COP31 climate summit in Turkey. It said droughts, floods and extreme heat were making lasting solutions harder to find.</description>
-<dc:creator>FRANCE 24</dc:creator>
-<content:encoded>Nearly 90 million forcibly displaced people, or three-quarters of the global total, live in countries highly exposed to climate hazards, the UN Refugee Agency said on Friday, urging action ahead of the COP31 climate summit in Turkey. It said droughts, floods and extreme heat were making lasting solutions harder to find.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/27e91f36-c775-11f1-a8f0-53993c5f1f18/w:1024/p:16x9/3a4f044a28d5dcc6404274b250beb08ab8067c5f.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/27e91f36-c775-11f1-a8f0-53993c5f1f18/w:1024/p:16x9/3a4f044a28d5dcc6404274b250beb08ab8067c5f.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: Jaguars face injury-ravaged Ravens in Thursday Night Football matchup</title>
@@ -238,6 +706,19 @@
 <media:content url="https://s.abcnews.com/images/Entertainment/261105_abcnl_searched_vibe_check_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
+<title>Who won the redistricting war? So far, it looks like Democrats</title>
+<link>https://abcnews.com/Politics/won-redistricting-war-democrats/story?id=137858678</link>
+<guid isPermaLink="false">f79600400111108699d7d55bf8530ecc37d687ff3a8d223e3928155d82ebf901</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 05 Nov 2026 21:40:28 +0000</pubDate>
+<description>Dems were able to keep seats that Republicans redrew to make them GOP-friendly.</description>
+<dc:creator></dc:creator>
+<content:encoded>Dems were able to keep seats that Republicans redrew to make them GOP-friendly.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Politics/map-ap-er-261104_1793834717260_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/map-ap-er-261104_1793834717260_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
 <title>Dow plunges 1,800 points, wiping out gains from midterm results rally</title>
 <link>https://abcnews.com/Business/dow-plunges-1200-points-shedding-midterm-results-stock/story?id=137880888</link>
 <guid isPermaLink="false">8bb6847c437096a4ba0f520019c37dbb14166dbf316fd2a9fd78794bce99dccd</guid>
@@ -249,19 +730,6 @@
 <content:encoded>The selloff came a day after the Dow soared more than 1,500 points.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/Business/nyse-1-rt-jef-261105_1793894156320_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Business/nyse-1-rt-jef-261105_1793894156320_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Nigeria court bars opposition candidate two months before election</title>
-<link>https://www.france24.com/en/nigeria-court-bars-opposition-candidate-two-months-before-election</link>
-<guid isPermaLink="false">30781d6462466890cb7c615e6e83274a486612238f8a928daba36d80af172429</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 21:22:18 +0000</pubDate>
-<description>In tonight's edition, a Nigerian court disqualifies a leading presidential candidate, adding fresh complications for the electoral process two months before the election. Also, tens of thousands have fled across the border into Kenya as deadly ethnic clashes in southern Ethiopia intensify. And having fled conflict and violence, members of the first Refugee Youth Olympic Team are chasing Olympic dreams at Dakar 2026.</description>
-<dc:creator>Clarisse FORTUNÉ</dc:creator>
-<content:encoded>In tonight's edition, a Nigerian court disqualifies a leading presidential candidate, adding fresh complications for the electoral process two months before the election. Also, tens of thousands have fled across the border into Kenya as deadly ethnic clashes in southern Ethiopia intensify. And having fled conflict and violence, members of the first Refugee Youth Olympic Team are chasing Olympic dreams at Dakar 2026.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/a47ac0fe-d95e-11f1-b71a-695cb59fade5/w:1024/p:16x9/DN00001654-VOD-00013405.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/a47ac0fe-d95e-11f1-b71a-695cb59fade5/w:1024/p:16x9/DN00001654-VOD-00013405.jpg" medium="image"/>
 </item>
 <item>
 <title>'Extinction-level event': How Republicans eyeing 2028 are taking midterm losses</title>
@@ -290,62 +758,10 @@
 <media:content url="https://s.abcnews.com/images/Politics/ice-flight-ap-jt-261105_1793905396213_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>French protests: 'It's only when public, private sector act together that you can make changes'</title>
-<link>https://www.france24.com/en/video/20261105-french-protests-it-s-only-when-public-private-sector-act-together-that-you-can-make-changes</link>
-<guid isPermaLink="false">6e39ed1d62972dde0c7dad7321e52bae5367758312b5d3bf77095095b12e7b56</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 20:39:49 +0000</pubDate>
-<description>“You can be as repressive as you want. The grievances are still here.” With this stark observation, Ariane Bogain, lecturer in French and politics at Northumbria University, captures the central dilemma confronting the French government: how can political authority be restored when the social and economic grievances driving public anger remain unresolved? Bogain and French politics editor Marc Perelman join Delano D'Souza to examine a protest movement that has evolved beyond its initial demands over purchasing power, fuel prices and education into a broader challenge to the French government. Perelman identifies a striking political paradox: Marine Le Pen and Jean-Luc Mélenchon, despite occupying opposing ideological positions, are “objective allies” in their shared electoral interest in weakening the political centre.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>“You can be as repressive as you want. The grievances are still here.” With this stark observation, Ariane Bogain, lecturer in French and politics at Northumbria University, captures the central dilemma confronting the French government: how can political authority be restored when the social and economic grievances driving public anger remain unresolved? Bogain and French politics editor Marc Perelman join Delano D'Souza to examine a protest movement that has evolved beyond its initial demands over purchasing power, fuel prices and education into a broader challenge to the French government. Perelman identifies a striking political paradox: Marine Le Pen and Jean-Luc Mélenchon, despite occupying opposing ideological positions, are “objective allies” in their shared electoral interest in weakening the political centre.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/f0afb24c-d952-11f1-a604-695cb59fade5/w:1024/p:16x9/EN-20261105-130308-131637-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/f0afb24c-d952-11f1-a604-695cb59fade5/w:1024/p:16x9/EN-20261105-130308-131637-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Gov. Newsom says he will commute all death sentences in state to life without parole</title>
-<link>https://abcnews.com/US/wireStory/california-gov-newsom-commute-death-sentences-state-life-137888476</link>
-<guid isPermaLink="false">fcaeb86d27db43c403933b31d7b352513afa62d67a40cfded1beba102222af80</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 20:00:29 +0000</pubDate>
-<description>California Gov. Gavin Newsom said he’ll change all death sentences in the state to life in prison without the possibility of parole</description>
-<dc:creator></dc:creator>
-<content:encoded>California Gov. Gavin Newsom said he’ll change all death sentences in the state to life in prison without the possibility of parole</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/wirestory_dd8a949162b3325edfaa381952ff2466_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/wirestory_dd8a949162b3325edfaa381952ff2466_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>'Inhumane punishment': Governor Gavin Newsom to commute all 548 California death sentences</title>
-<link>https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences</link>
-<guid isPermaLink="false">058895c955cd47dfb62c48f3ff2432157d52e729de9cb6a89c0b99dba7e1eeb1</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 19:59:48 +0000</pubDate>
-<description>California Governor Gavin Newsom on Thursday said he would commute all 548 death sentences in the state to life in prison without parole, marking a major step away from capital punishment as he prepares to leave office after eight years.</description>
-<dc:creator>FRANCE 24</dc:creator>
-<content:encoded>California Governor Gavin Newsom on Thursday said he would commute all 548 death sentences in the state to life in prison without parole, marking a major step away from capital punishment as he prepares to leave office after eight years.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/dd2a0d00-d950-11f1-ad62-d18c5759e759/w:1024/p:16x9/063-2302639014.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/dd2a0d00-d950-11f1-ad62-d18c5759e759/w:1024/p:16x9/063-2302639014.jpg" medium="image"/>
-</item>
-<item>
-<title>Voter frustration about the economy went beyond gas prices, Voter Poll shows</title>
-<link>https://abcnews.com/Business/voter-frustration-economy-gas-prices-voter-poll-shows/story?id=137857804</link>
-<guid isPermaLink="false">8109a22b58ce19f64bb72b1505bfd42cd547bfb677f32973c07d5c8e192fc739</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 19:46:17 +0000</pubDate>
-<description>Three-fours of voters described the economy as not good or poor, polls showed.</description>
-<dc:creator></dc:creator>
-<content:encoded>Three-fours of voters described the economy as not good or poor, polls showed.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/Business/grocery-store-ap-jt-261104_1793827845124_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Business/grocery-store-ap-jt-261104_1793827845124_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>Breakaway league LIV Golf to fold after filing for bankruptcy</title>
 <link>https://news.sky.com/story/breakaway-league-liv-golf-to-fold-after-lack-of-financial-support-13608566</link>
 <guid isPermaLink="false">84d1f1b8993af6f74f18676a2e4dce28a1843bf5029fbcd3fbd22e95f8698c69</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Thu, 05 Nov 2026 19:23:00 +0000</pubDate>
 <description>Breakaway men's league LIV Golf is to fold instead of launching a new version because of a lack of financial support.</description>
@@ -353,19 +769,6 @@
 <content:encoded>Breakaway men's league LIV Golf is to fold instead of launching a new version because of a lack of financial support.</content:encoded>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-golf-sergio-garcia_7398473.jpg?20261105200925" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-golf-sergio-garcia_7398473.jpg?20261105200925" medium="image"/>
-</item>
-<item>
-<title>3rd place Mississippi Senate candidate says he did not spoil tight race for Democrat</title>
-<link>https://abcnews.com/Politics/3rd-place-mississippi-senate-candidate-spoil-tight-race/story?id=137875509</link>
-<guid isPermaLink="false">0eb5a1f8da517fd98fb6e950999106d1755aab763d3fbbd70a87123305c7a534</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 19:02:47 +0000</pubDate>
-<description>The independent third place candidate in Mississippi's tight Senate race, Ty Pinkins, says he did not spoil the race.</description>
-<dc:creator></dc:creator>
-<content:encoded>The independent third place candidate in Mississippi's tight Senate race, Ty Pinkins, says he did not spoil the race.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/ty-pinkins-ap-jef-261105_1793890829404_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/ty-pinkins-ap-jef-261105_1793890829404_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Family of footballer who died after on-pitch collision pay tribute to him</title>
@@ -381,49 +784,10 @@
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-jesus-de-miguel-tenerife_7395647.jpg?20261104195713" medium="image"/>
 </item>
 <item>
-<title>Paraguay's president is impeached minutes after resigning following a bank collapse</title>
-<link>https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse</link>
-<guid isPermaLink="false">a2c6e770ad911ecd8e3a37bd588f599f14aeca722bf703b6b238c78685f92a34</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 18:30:16 +0000</pubDate>
-<description>Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings. (Image credit: Jorge Saenz)</description>
-<dc:creator>The Associated Press</dc:creator>
-<content:encoded>Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings. (Image credit: Jorge Saenz)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5850x3900+0+0/resize/5850x3900!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2Fc3%2F2acc7a024feb8dfff1833ba2e996%2Fap26308842915508.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5850x3900+0+0/resize/5850x3900!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2Fc3%2F2acc7a024feb8dfff1833ba2e996%2Fap26308842915508.jpg" medium="image"/>
-</item>
-<item>
-<title>DOJ again moves to dismiss Steve Bannon's contempt of Congress conviction</title>
-<link>https://abcnews.com/US/doj-moves-dismiss-steve-bannons-contempt-congress-conviction/story?id=137884012</link>
-<guid isPermaLink="false">87c2d2b71ff06df5104d377ace394c1bf45cd7db9f0395e18aef490ecebf94e4</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 18:24:02 +0000</pubDate>
-<description>The DOJ has filed another push to have a judge dismiss Trump ally Steve Bannon's conviction over his defiance of a subpoena from the House panel that investigated Jan. 6.</description>
-<dc:creator></dc:creator>
-<content:encoded>The DOJ has filed another push to have a judge dismiss Trump ally Steve Bannon's conviction over his defiance of a subpoena from the House panel that investigated Jan. 6.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/steve-bannon-ap-gmh-261105_1793900335672_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/steve-bannon-ap-gmh-261105_1793900335672_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Portugal: Cristiano Ronaldo announces his international retirement</title>
-<link>https://www.france24.com/en/video/20261105-portugal-cristiano-ronaldo-announces-his-international-retirement</link>
-<guid isPermaLink="false">859e2abfc037121ef5f97db256ee1ffae2b8ca652f62f6bb23d63ad52e7bdcb9</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 18:16:53 +0000</pubDate>
-<description>Portuguese football legend Cristiano Ronaldo announced on Thursday he was retiring from international football at the age of 41.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>Portuguese football legend Cristiano Ronaldo announced on Thursday he was retiring from international football at the age of 41.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/e8a83d16-d944-11f1-a0f7-d18c5759e759/w:1024/p:16x9/Ronaldo-2.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/e8a83d16-d944-11f1-a0f7-d18c5759e759/w:1024/p:16x9/Ronaldo-2.jpg" medium="image"/>
-</item>
-<item>
 <title>Meghan's brother a 'person of interest' in child abuse image claims</title>
 <link>https://news.sky.com/story/meghans-brother-a-person-of-interest-in-fathers-child-sex-abuse-image-claims-13608538</link>
 <guid isPermaLink="false">a4dc22be6c6402d1ac5c48e69b31b1f3ee3934e7c04bf3752e18b2ed4511f51f</guid>
-<source>Sky News Home</source>
+<source>Sky News World</source>
 <category>world</category>
 <pubDate>Thu, 05 Nov 2026 18:12:00 +0000</pubDate>
 <description>Meghan Markle's half brother has been named as a "person of interest" in an investigation into child sexual abuse image allegations against the Duchess of Sussex's father.</description>
@@ -431,32 +795,6 @@
 <content:encoded>Meghan Markle's half brother has been named as a "person of interest" in an investigation into child sexual abuse image allegations against the Duchess of Sussex's father.</content:encoded>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-meghan-markle-switzerland_7391122.jpg?20261029170453" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-meghan-markle-switzerland_7391122.jpg?20261029170453" medium="image"/>
-</item>
-<item>
-<title>Head of Justice Department office on Civil Rights resigns</title>
-<link>https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns</link>
-<guid isPermaLink="false">43046d5d937a31cb01ebf1a609c430462c2eedff1d78d9643e2a43891ffe6a08</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 18:01:57 +0000</pubDate>
-<description>The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge. (Image credit: Andrew Harnik)</description>
-<dc:creator>Ryan Lucas</dc:creator>
-<content:encoded>The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge. (Image credit: Andrew Harnik)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2Fe8%2F7e8cd614409cb6abcd7144897bad%2Fgettyimages-2237754412.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9b%2Fe8%2F7e8cd614409cb6abcd7144897bad%2Fgettyimages-2237754412.jpg" medium="image"/>
-</item>
-<item>
-<title>Myanmar: Civilians under fire from military junta</title>
-<link>https://www.france24.com/en/asia-pacific/20261105-myanmar-civilians-under-fire-from-military-junta</link>
-<guid isPermaLink="false">4174803e3ee2f816a08ee067a77f2ee380198551167a1d3ea1ef06b7df9b9380</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 17:58:28 +0000</pubDate>
-<description>More than five years after the military coup, the junta launched a new offensive in September to retake Rakhine State, intensifying airstrikes against civilians and employing double-tap strikes</description>
-<dc:creator>Marguerite MARAMICI</dc:creator>
-<content:encoded>More than five years after the military coup, the junta launched a new offensive in September to retake Rakhine State, intensifying airstrikes against civilians and employing double-tap strikes</content:encoded>
-<enclosure url="https://s.france24.com/media/display/1d99418a-d870-11f1-bc85-695cb59fade5/w:1024/p:16x9/Arakan-army-bridge.png" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/1d99418a-d870-11f1-bc85-695cb59fade5/w:1024/p:16x9/Arakan-army-bridge.png" medium="image"/>
 </item>
 <item>
 <title>Trump says he has 'every intention' to keep Hegseth</title>
@@ -472,32 +810,6 @@
 <media:content url="https://s.abcnews.com/images/US/hegseth-4-ap-gmh-261105_1793893126195_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>France needs 'more public services', 'salaries are too low', 'schools are in very, very bad shape'</title>
-<link>https://www.france24.com/en/france-needs-more-public-services-salaries-are-too-low-schools-are-in-very-very-bad-shape</link>
-<guid isPermaLink="false">af87d6700bce72ce1bf6660a7d949814dbe871d6829390f0047b95d62e065b04</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 17:36:48 +0000</pubDate>
-<description>As France confronts another wave of strikes and protests, Gaëlle Martinez, National Secretary of the trade union Solidaires, presents the general strike as more than a confrontation over wages, public spending or the cost of living. Her account reveals a deeper struggle over economic dignity, the future of public services and the democratic right to collective protest. “People just want to live, not survive.” For Martinez, deteriorating schools, insufficient salaries and the dismantling of public services are not isolated policy failures. They are interconnected symptoms of political and economic priorities that, in her assessment, place fiscal restraint above social welfare. Her demand for “a new budget” that is “not based on cuts” is accompanied by a call to “tax the biggest companies, the richest companies where the profits are made.”</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>As France confronts another wave of strikes and protests, Gaëlle Martinez, National Secretary of the trade union Solidaires, presents the general strike as more than a confrontation over wages, public spending or the cost of living. Her account reveals a deeper struggle over economic dignity, the future of public services and the democratic right to collective protest. “People just want to live, not survive.” For Martinez, deteriorating schools, insufficient salaries and the dismantling of public services are not isolated policy failures. They are interconnected symptoms of political and economic priorities that, in her assessment, place fiscal restraint above social welfare. Her demand for “a new budget” that is “not based on cuts” is accompanied by a call to “tax the biggest companies, the richest companies where the profits are made.”</content:encoded>
-<enclosure url="https://s.france24.com/media/display/c20ebbc4-d93c-11f1-84a1-bf1914cabd52/w:1024/p:16x9/EN-20261105-080542-081030-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/c20ebbc4-d93c-11f1-84a1-bf1914cabd52/w:1024/p:16x9/EN-20261105-080542-081030-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>Paraguay's president Pena impeached after resigning over banking scandal</title>
-<link>https://www.france24.com/en/americas/20261105-paraguay-s-president-pe%C3%B1a-impeached-moments-after-resigning-amid-banking-scandal</link>
-<guid isPermaLink="false">498613eca0a1299a367869fb98004de9d4e489a816abd6cad721da628b6d3e0d</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 17:33:53 +0000</pubDate>
-<description>Paraguay’s lower house voted unanimously to impeach President Santiago Pena on Thursday, just minutes after he announced his resignation on X. Protesters have rallied in the streets since the takeover of a bank linked to Pena blocked millions of people, including pensioners, from accessing their money.</description>
-<dc:creator>FRANCE 24</dc:creator>
-<content:encoded>Paraguay’s lower house voted unanimously to impeach President Santiago Pena on Thursday, just minutes after he announced his resignation on X. Protesters have rallied in the streets since the takeover of a bank linked to Pena blocked millions of people, including pensioners, from accessing their money.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/1198d560-d93f-11f1-a118-a575454bc579/w:1024/p:16x9/c4afdd54ed24b995ef94ec7e5393b007e83d233c.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/1198d560-d93f-11f1-a118-a575454bc579/w:1024/p:16x9/c4afdd54ed24b995ef94ec7e5393b007e83d233c.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: Fuel prices drop after midterm elections</title>
 <link>https://abcnews.com/video/137882438</link>
 <guid isPermaLink="false">ba894d5be531a6b5ae430c66fdfde113d1d7753d4edd6ce1c949101ae54ff7db</guid>
@@ -509,123 +821,6 @@
 <content:encoded>Patrick De Haan, head of petroleum analysis at GasBuddy, explains what's behind the decrease in prices.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/US/261105_abcnl_11a_dehaan_oil_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261105_abcnl_11a_dehaan_oil_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?</title>
-<link>https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat</link>
-<guid isPermaLink="false">7b5b963e3e0da23f01873bceaf95e6efeaeac962fc7dae1ef0dce1067140ee8d</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 16:30:00 +0000</pubDate>
-<description>NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: How Yung Miami's summer bop became a sweeping indictment. (Image credit: Aaron J. Thornton/Getty Images for BET)</description>
-<dc:creator>Rodney Carmichael</dc:creator>
-<content:encoded>NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: How Yung Miami's summer bop became a sweeping indictment. (Image credit: Aaron J. Thornton/Getty Images for BET)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2500x1786+0+0/resize/2500x1786!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4b%2F9b%2Fef6727ad49f7b2325d4bf8ac7117%2Fgettyimages-2283657231.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2500x1786+0+0/resize/2500x1786!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4b%2F9b%2Fef6727ad49f7b2325d4bf8ac7117%2Fgettyimages-2283657231.jpg" medium="image"/>
-</item>
-<item>
-<title>Russell Brand is convicted of rape, and judge says he'll get a prison term</title>
-<link>https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison</link>
-<guid isPermaLink="false">1d8fa8f203f8fd0634264919ee0dd69cffed015b2f866186f35f70791d50cdbd</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 16:15:02 +0000</pubDate>
-<description>A prosecutor described Brand as a ruthless, calculating, manipulative "sexual predator." Brand, 51, denied the charges, saying he had never forced anyone to do something against their will. (Image credit: Alberto Pezzali)</description>
-<dc:creator>The Associated Press</dc:creator>
-<content:encoded>A prosecutor described Brand as a ruthless, calculating, manipulative "sexual predator." Brand, 51, denied the charges, saying he had never forced anyone to do something against their will. (Image credit: Alberto Pezzali)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3691x2461+0+0/resize/3691x2461!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Fdd%2F6d8e44c84598b69af7022f60b235%2Fap26309531239627.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3691x2461+0+0/resize/3691x2461!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Fdd%2F6d8e44c84598b69af7022f60b235%2Fap26309531239627.jpg" medium="image"/>
-</item>
-<item>
-<title>Navi Pillay: Fighting violence with justice</title>
-<link>https://www.france24.com/en/navi-pillay-fighting-violence-with-justice</link>
-<guid isPermaLink="false">5c93068ee3142b2ebf464f8226af91de138aecfa0b8a23dd2ca608e898b3e6bf</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 16:12:59 +0000</pubDate>
-<description>From the International Criminal Court to Africa’s place in the global justice system, the stakes are high. In an exclusive interview, Nobel Peace Prize winner, Navi Pillay will discuss international justice . She says it it must not be held hostage to political power, as Donald Trump targets the ICC. What does this showdown mean for Africa?</description>
-<dc:creator>Clarisse FORTUNÉ</dc:creator>
-<content:encoded>From the International Criminal Court to Africa’s place in the global justice system, the stakes are high. In an exclusive interview, Nobel Peace Prize winner, Navi Pillay will discuss international justice . She says it it must not be held hostage to political power, as Donald Trump targets the ICC. What does this showdown mean for Africa?</content:encoded>
-<enclosure url="https://s.france24.com/media/display/667b0550-d933-11f1-80f6-d18c5759e759/w:1024/p:16x9/capture-8219ec1f.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/667b0550-d933-11f1-80f6-d18c5759e759/w:1024/p:16x9/capture-8219ec1f.jpg" medium="image"/>
-</item>
-<item>
-<title>US midterms: 'Donald Trump's wings have been more than clipped'</title>
-<link>https://www.france24.com/en/video/20261105-us-midterms-donald-trump-s-wings-have-been-more-than-clipped</link>
-<guid isPermaLink="false">c82ffc4a06872a112e5ed71298024984ad32ccd96d6725ece3eae0e04284a4cc</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 15:46:48 +0000</pubDate>
-<description>US President Donald Trump faced a radically transformed and hostile political landscape after Democrats seized both the House of Representatives and the Senate in Tuesday's (November 3) midterms. The result was a personal humiliation for the 80-year-old Trump, leaving him as a lame duck president for the remaining two years of his term. FRANCE 24's International Affairs Commentator Douglas Herbert has more.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>US President Donald Trump faced a radically transformed and hostile political landscape after Democrats seized both the House of Representatives and the Senate in Tuesday's (November 3) midterms. The result was a personal humiliation for the 80-year-old Trump, leaving him as a lame duck president for the remaining two years of his term. FRANCE 24's International Affairs Commentator Douglas Herbert has more.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/856c8c6e-d92d-11f1-bb12-1beafce15fea/w:1024/p:16x9/capture-616a321e.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/856c8c6e-d92d-11f1-bb12-1beafce15fea/w:1024/p:16x9/capture-616a321e.jpg" medium="image"/>
-</item>
-<item>
-<title>Global travel sector grows despite headwinds</title>
-<link>https://www.france24.com/en/tv-shows/people-profit/20261105-global-travel-sector-grows-despite-headwinds</link>
-<guid isPermaLink="false">09523e257418ae46e018cc563141a2605231d6c834eaf26a3002a203c1e97a06</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 15:43:09 +0000</pubDate>
-<description>The global tourism sector is growing, despite conflicts and economic uncertainty. That's the finding of a new report by World Travel Market, which says the number of international arrivals is set to hit a record 1.57 billion in 2026.</description>
-<dc:creator>Kate MOODY</dc:creator>
-<content:encoded>The global tourism sector is growing, despite conflicts and economic uncertainty. That's the finding of a new report by World Travel Market, which says the number of international arrivals is set to hit a record 1.57 billion in 2026.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/1b97cffc-d922-11f1-9e1e-695cb59fade5/w:1024/p:16x9/Untitled-Sequence-01-27.png" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/1b97cffc-d922-11f1-9e1e-695cb59fade5/w:1024/p:16x9/Untitled-Sequence-01-27.png" medium="image"/>
-</item>
-<item>
-<title>Europe: Dozens of flights diverted following bomb threats</title>
-<link>https://www.france24.com/en/video/20261105-europe-dozens-of-flights-diverted-following-bomb-threats</link>
-<guid isPermaLink="false">ede05126082f8e41ab3fddb2b25f914ac8c8511a568c5a1e44cbd0dc23b09a10</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 15:40:50 +0000</pubDate>
-<description>Hoax bomb threats hit at least 27 affected flights around Europe this week.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>Hoax bomb threats hit at least 27 affected flights around Europe this week.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/27b15c74-d92f-11f1-ba6f-d18c5759e759/w:1024/p:16x9/Bomb-threats-EN.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/27b15c74-d92f-11f1-ba6f-d18c5759e759/w:1024/p:16x9/Bomb-threats-EN.jpg" medium="image"/>
-</item>
-<item>
-<title>'Identity crisis': Can Democrats 'deliver' following their 'historic', once in a generation victory?</title>
-<link>https://www.france24.com/en/identity-crisis-can-democrats-deliver-following-their-historic-once-in-a-generation-victory</link>
-<guid isPermaLink="false">c1d1ab999d50f1c2cbc36317648110459ff189d1ed35c8c0e136675688b06e7b</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 15:27:11 +0000</pubDate>
-<description>A historic Democratic electoral breakthrough has transformed the American political landscape. For Laurie Dundon, Senior Associate Fellow at the European Leadership Network and former US diplomat, the central question is whether the Democratic Party can convert electoral momentum into coherent governance. "Can they deliver?" Dunden examines the apparent disintegration of Donald Trump's 2024 MAGA coalition alongside the Democratic Party's continuing ideological struggle between its progressive and centrist wings. Ahead of 2028, Dunden cautions against seeing Trump as a lame duck: "Trump is never going to stop being Trump." The resulting struggle over congressional spending powers, presidential vetoes, tariffs and investigations promises to be a delicate dance to watch".</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>A historic Democratic electoral breakthrough has transformed the American political landscape. For Laurie Dundon, Senior Associate Fellow at the European Leadership Network and former US diplomat, the central question is whether the Democratic Party can convert electoral momentum into coherent governance. "Can they deliver?" Dunden examines the apparent disintegration of Donald Trump's 2024 MAGA coalition alongside the Democratic Party's continuing ideological struggle between its progressive and centrist wings. Ahead of 2028, Dunden cautions against seeing Trump as a lame duck: "Trump is never going to stop being Trump." The resulting struggle over congressional spending powers, presidential vetoes, tariffs and investigations promises to be a delicate dance to watch".</content:encoded>
-<enclosure url="https://s.france24.com/media/display/fa0c1d04-d924-11f1-b853-d18c5759e759/w:1024/p:16x9/EN-20261104-093517-094454-CS.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/fa0c1d04-d924-11f1-b853-d18c5759e759/w:1024/p:16x9/EN-20261104-093517-094454-CS.jpg" medium="image"/>
-</item>
-<item>
-<title>All 548 death row inmates in California to have sentences changed to life in prison</title>
-<link>https://news.sky.com/story/all-548-death-row-inmates-in-california-to-have-sentences-changed-to-life-in-prison-13608037</link>
-<guid isPermaLink="false">287eba3be825be0ef88e545ad2281d20a95d3d6864faf7aac16633186ce0cbaf</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 15:09:00 +0000</pubDate>
-<description>Governor Gavin Newsom said he'll commute all death sentences in the state to life in prison without the possibility of parole.</description>
-<dc:creator></dc:creator>
-<content:encoded>Governor Gavin Newsom said he'll commute all death sentences in the state to life in prison without the possibility of parole.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-gavinnewsom-california_7398467.jpg?20261105200126" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-gavinnewsom-california_7398467.jpg?20261105200126" medium="image"/>
-</item>
-<item>
-<title>First-time homebuyers remain scarce, but a record share of them pay all cash</title>
-<link>https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer</link>
-<guid isPermaLink="false">530a53ab6c71a75378d67cfe37fb3a6d14f359a667b749e243960792e896a073</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
-<description>A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high. (Image credit: Justin Sullivan/Getty Images)</description>
-<dc:creator>Jennifer Ludden</dc:creator>
-<content:encoded>A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high. (Image credit: Justin Sullivan/Getty Images)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5281x3641+0+0/resize/5281x3641!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F29%2F2594b31f489c9ae9d50618c1d5c2%2Fgettyimages-2285398438.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5281x3641+0+0/resize/5281x3641!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F29%2F2594b31f489c9ae9d50618c1d5c2%2Fgettyimages-2285398438.jpg" medium="image"/>
 </item>
 <item>
 <title>WATCH: New 911 calls and bodycam video released in Citibank Center shooting in Tampa</title>
@@ -641,19 +836,6 @@
 <media:content url="https://s.abcnews.com/images/GMA/261105_gma_oquendo_tampa3_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Israel's Arab list backs Eisenkot as Netanyahu loses ultra-Orthodox support</title>
-<link>https://www.france24.com/en/middle-east/20261105-israel-main-arab-list-backs-eisenkot-to-form-government-after-election</link>
-<guid isPermaLink="false">3aadbd4431d133296675235b9f05c7592d8514d814cc50ca9a9bed37cfffaeea</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 14:43:59 +0000</pubDate>
-<description>Israel's largest Arab party grouping said Thursday it would recommend opposition leader Gadi Eisenkot to form the next government, potentially bolstering his bid after Arab-majority lists won a record 19 seats in last week's election and Prime Minister Benjamin Netanyahu lost the support of an allied religious party.</description>
-<dc:creator>FRANCE 24</dc:creator>
-<content:encoded>Israel's largest Arab party grouping said Thursday it would recommend opposition leader Gadi Eisenkot to form the next government, potentially bolstering his bid after Arab-majority lists won a record 19 seats in last week's election and Prime Minister Benjamin Netanyahu lost the support of an allied religious party.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/29eef780-d925-11f1-85c3-a575454bc579/w:1024/p:16x9/000-D4MA4Z2.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/29eef780-d925-11f1-85c3-a575454bc579/w:1024/p:16x9/000-D4MA4Z2.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: Eiffel Tower closes amid protests in Paris</title>
 <link>https://abcnews.com/video/137873444</link>
 <guid isPermaLink="false">5ffda0468573f87131919a58acf24e5d6ab5ed63c8efb1c887e11851aadad5d0</guid>
@@ -665,58 +847,6 @@
 <content:encoded>ABC News’ Tom Soufi Burridge reports from Paris, where tens of thousands of police officers have been deployed to help maintain law and order.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/GMA/261105_gma_burridge_paris1_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/GMA/261105_gma_burridge_paris1_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Bringing the magic of Harry Potter to life through music</title>
-<link>https://www.france24.com/en/tv-shows/entre-nous/20261105-bringing-the-magic-of-harry-potter-to-life-through-music</link>
-<guid isPermaLink="false">52c3b9b9658837e8af34ef785e1d3d03ed500bcd80d26701a9e5e1dad7039c59</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 14:30:51 +0000</pubDate>
-<description>In this edition of Entre Nous, we meet Timothy Henty, the British conductor bringing the magic of Harry Potter to life in Paris. As part of the Harry Potter Film Concert Series, he leads more than 80 musicians in a spectacular live orchestral performance, offering audiences a unique opportunity to experience one of cinema's most beloved stories like never before.</description>
-<dc:creator>Delano D’SOUZA</dc:creator>
-<content:encoded>In this edition of Entre Nous, we meet Timothy Henty, the British conductor bringing the magic of Harry Potter to life in Paris. As part of the Harry Potter Film Concert Series, he leads more than 80 musicians in a spectacular live orchestral performance, offering audiences a unique opportunity to experience one of cinema's most beloved stories like never before.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/30a94d50-d91b-11f1-bcce-1beafce15fea/w:1024/p:16x9/EN-WB-ENTRE-NOUS-HARRY-POTTER.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/30a94d50-d91b-11f1-bcce-1beafce15fea/w:1024/p:16x9/EN-WB-ENTRE-NOUS-HARRY-POTTER.jpg" medium="image"/>
-</item>
-<item>
-<title>British comedian Russell Brand found guilty of rape, sexual assault</title>
-<link>https://www.france24.com/en/europe/20261105-british-comedian-russell-brand-found-guilty-of-rape-sexual-assault</link>
-<guid isPermaLink="false">557036caf8048b71ea5dcc84f46c97066e23b51dd4e996836338aa61f06005d6</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 14:26:40 +0000</pubDate>
-<description>A London jury on Thursday convicted British comedian and actor Russell Brand of one count of rape and three counts of sexual assault.</description>
-<dc:creator>FRANCE 24</dc:creator>
-<content:encoded>A London jury on Thursday convicted British comedian and actor Russell Brand of one count of rape and three counts of sexual assault.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/53ca4e84-d924-11f1-a998-695cb59fade5/w:1024/p:16x9/000-D6FC68G.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/53ca4e84-d924-11f1-a998-695cb59fade5/w:1024/p:16x9/000-D6FC68G.jpg" medium="image"/>
-</item>
-<item>
-<title>France faces new protests as government seeks to prevent violence</title>
-<link>https://www.france24.com/en/france-faces-new-protests-as-government-seeks-to-prevent-violence</link>
-<guid isPermaLink="false">726573d2b4a2ac22d176f453e8818ca41a65650cfc58bdabe81bafabbfdf87be</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 14:19:53 +0000</pubDate>
-<description>France faces new protests as the government seeks to prevent a repeat of October unrest. Protesters demand better public services, including education, and also critique the rising cost-of-living. FRANCE 24's Claire Paccalin reports from the ground.</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>France faces new protests as the government seeks to prevent a repeat of October unrest. Protesters demand better public services, including education, and also critique the rising cost-of-living. FRANCE 24's Claire Paccalin reports from the ground.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/98aad556-d923-11f1-8469-d18c5759e759/w:1024/p:16x9/capture-2ec8f03c.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/98aad556-d923-11f1-8469-d18c5759e759/w:1024/p:16x9/capture-2ec8f03c.jpg" medium="image"/>
-</item>
-<item>
-<title>British doctor with Ebola returns to UK for treatment</title>
-<link>https://news.sky.com/story/british-doctor-with-ebola-returns-to-uk-for-treatment-13607703</link>
-<guid isPermaLink="false">8bf4151fbc6204307e90b96f6d561e6fafae832db8d594acb54631c99e3fec6a</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
-<description>A British doctor who tested positive for Ebola in the Democratic Republic of Congo has returned to the UK for treatment.</description>
-<dc:creator></dc:creator>
-<content:encoded>A British doctor who tested positive for Ebola in the Democratic Republic of Congo has returned to the UK for treatment.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-ebola-hospital-uk-congo_7397180.jpg?20261104174013" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ebola-hospital-uk-congo_7397180.jpg?20261104174013" medium="image"/>
 </item>
 <item>
 <title>WATCH: The wide-ranging reactions to election night</title>
@@ -782,70 +912,5 @@
 <content:encoded>ABC News political contributors Amanda Renteria, a Democratic strategist, and Ramesh Ponnuru, editor of the National Review, share more about what's being called a "blue tsunami."</content:encoded>
 <enclosure url="https://s.abcnews.com/images/US/261104_abcnl_searched_spiral_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/US/261104_abcnl_searched_spiral_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: What to know about the Colorado congressional races</title>
-<link>https://abcnews.com/video/137859879</link>
-<guid isPermaLink="false">147197c3ef5e9cbf63af381c5d0adbeafab03be7dbb0066439b556942c74155c</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 04 Nov 2026 21:54:33 +0000</pubDate>
-<description>Democrat Jason Crow won his reelection for Colorado's 6th District, beating Republican challenger Jason Clark.</description>
-<dc:creator></dc:creator>
-<content:encoded>Democrat Jason Crow won his reelection for Colorado's 6th District, beating Republican challenger Jason Clark.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/Politics/261104_abncl_4p_CO_races_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/261104_abncl_4p_CO_races_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Where do Republicans go from here?</title>
-<link>https://abcnews.com/video/137859789</link>
-<guid isPermaLink="false">4ba99e0ce5194306aa78133a39fa7672c10b4222e9f7176115b4587b9711cb1f</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 04 Nov 2026 21:54:26 +0000</pubDate>
-<description>ABC News contributors Cristina Tzintzun Ramirez, a Democratic strategist, and Sonny Joy Nelson, a former special assistant to President Trump, share their takeaways from last night's results.</description>
-<dc:creator></dc:creator>
-<content:encoded>ABC News contributors Cristina Tzintzun Ramirez, a Democratic strategist, and Sonny Joy Nelson, a former special assistant to President Trump, share their takeaways from last night's results.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/Politics/261104_abncl_4p_GOP_strategy_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/261104_abncl_4p_GOP_strategy_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>WATCH: Candidates make midterms history</title>
-<link>https://abcnews.com/video/137857899</link>
-<guid isPermaLink="false">cfe802094664404e517f44415a156cbcac53e85fb1db8019ff0f0aa1a117e506</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Wed, 04 Nov 2026 20:41:12 +0000</pubDate>
-<description>Keisha Lance Bottoms, David Crowley and Byron Donalds are projected to become the first Black governors elected in Georgia, Wisconsin and Florida.</description>
-<dc:creator></dc:creator>
-<content:encoded>Keisha Lance Bottoms, David Crowley and Byron Donalds are projected to become the first Black governors elected in Georgia, Wisconsin and Florida.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/261104_abcnl_3p_updegrove_midterms_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/261104_abcnl_3p_updegrove_midterms_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Russia attacks Ukrainian aid hub in one of the deadliest strikes since war began</title>
-<link>https://news.sky.com/story/russia-attacks-ukrainian-aid-hub-in-one-of-the-deadliest-strikes-since-war-began-13608095</link>
-<guid isPermaLink="false">23866c05a879d945344747e6ac12510d1d6156e31d366aab43f256b3466c6cfe</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Wed, 04 Nov 2026 19:25:00 +0000</pubDate>
-<description>Russian strikes on an aid hub killed at least 40 people - making it one of Russia's deadliest attacks on Ukrainian civilians since the full-scale invasion began, officials said.</description>
-<dc:creator></dc:creator>
-<content:encoded>Russian strikes on an aid hub killed at least 40 people - making it one of Russia's deadliest attacks on Ukrainian civilians since the full-scale invasion began, officials said.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-ukraine-strike_7397321.jpg?20261104202758" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-ukraine-strike_7397321.jpg?20261104202758" medium="image"/>
-</item>
-<item>
-<title>Police and paramedics attacked with fireworks while responding to injured person</title>
-<link>https://news.sky.com/story/httpsdigitalcmscfskycomstory-managerstory13607705revision1793915935-13607705</link>
-<guid isPermaLink="false">5e544c1cd8212983d5f8eb986a56451a3ce617f9b2b743d9e201e7c0c3ab5c78</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
-<description>Police and paramedics were attacked with fireworks as they tried to reach an injured man, with a police vehicle also set alight.</description>
-<dc:creator></dc:creator>
-<content:encoded>Police and paramedics were attacked with fireworks as they tried to reach an injured man, with a police vehicle also set alight.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-glasgow-fire-bonfire-night_7398662.jpg?20261105233100" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-glasgow-fire-bonfire-night_7398662.jpg?20261105233100" medium="image"/>
 </item>
 </channel></rss>
