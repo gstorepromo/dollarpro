@@ -4,30 +4,329 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>How to use your old tablet to build a live streaming setup</title>
-<link>https://www.engadget.com/2304970/how-to-build-live-streaming-setup-with-old-tablet</link>
-<guid isPermaLink="false">4a05614ca251f6f400e49364129f18874164a31eb56eae1402ff33e0265b0469</guid>
+<title>How to connect an Apple Pencil to your iPad</title>
+<link>https://www.engadget.com/2306765/how-to-connect-apple-pencil-ipad</link>
+<guid isPermaLink="false">bd9e8a19190f9d31a4c559957804e3f2ee442ac4ceafe34b169b178749b308c5</guid>
 <source>Engadget</source>
 <category>technology</category>
-<pubDate>Sat, 07 Nov 2026 15:30:00 +0000</pubDate>
-<description>You don't always need to buy new products just to start live streaming. This app lets you reuse an old tablet as the centerpiece of your setup.</description>
-<dc:creator>staff@engadget.com (Filipe Espósito)</dc:creator>
-<content:encoded>You don't always need to buy new products just to start live streaming. This app lets you reuse an old tablet as the centerpiece of your setup.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-use-your-old-tablet-to-build-a-live-streaming-setup/l-intro-1793689754.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-use-your-old-tablet-to-build-a-live-streaming-setup/l-intro-1793689754.jpg" medium="image"/>
+<pubDate>Sat, 07 Nov 2026 20:00:00 +0000</pubDate>
+<description>An Apple Pencil adds great functionality to your iPad, but compatibility and pairing methods differ across models.</description>
+<dc:creator>staff@engadget.com (Roger Fingas)</dc:creator>
+<content:encoded>An Apple Pencil adds great functionality to your iPad, but compatibility and pairing methods differ across models.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-connect-an-apple-pencil-to-your-ipad/l-intro-1793813396.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-connect-an-apple-pencil-to-your-ipad/l-intro-1793813396.jpg" medium="image"/>
 </item>
 <item>
-<title>How iOS can warn you when one of your passwords shows up in a data leak</title>
-<link>https://www.engadget.com/2305444/how-ios-warn-password-shows-up-data-leak</link>
-<guid isPermaLink="false">ccb95109feb8a8add3749f2c68152174f62a2e039ef1a3d4ce00ce96d8d6e20f</guid>
+<title>You can easily keep your home network running during a power outage — here's how</title>
+<link>https://www.engadget.com/2308573/how-to-keep-home-network-running-during-outage</link>
+<guid isPermaLink="false">0e96123cce52d1790f07de249fa6635458c77f57ea7c0c2976cd0b252ae19b37</guid>
 <source>Engadget</source>
 <category>technology</category>
-<pubDate>Sat, 07 Nov 2026 15:15:00 +0000</pubDate>
-<description>You'll be warned if your credentials stored in Apple Passwords are weak or compromised so you can take appropriate action.</description>
-<dc:creator>staff@engadget.com (Husain Parvez)</dc:creator>
-<content:encoded>You'll be warned if your credentials stored in Apple Passwords are weak or compromised so you can take appropriate action.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/how-ios-can-warn-you-when-one-of-your-passwords-shows-up-in-a-data-leak/l-intro-1793725978.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-ios-can-warn-you-when-one-of-your-passwords-shows-up-in-a-data-leak/l-intro-1793725978.jpg" medium="image"/>
+<pubDate>Sat, 07 Nov 2026 19:30:00 +0000</pubDate>
+<description>Few things top the inconvenience of being in the middle of something online when the power goes out. Luckily, there are a few options to keep you connected.</description>
+<dc:creator>staff@engadget.com (Will Shanklin)</dc:creator>
+<content:encoded>Few things top the inconvenience of being in the middle of something online when the power goes out. Luckily, there are a few options to keep you connected.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/you-can-easily-keep-your-home-network-running-during-a-power-outage-heres-how/l-intro-1793913082.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/you-can-easily-keep-your-home-network-running-during-a-power-outage-heres-how/l-intro-1793913082.jpg" medium="image"/>
+</item>
+<item>
+<title>How to set up SpaceXAI's Grok in Google Workspace (and what it can do)</title>
+<link>https://www.engadget.com/2309543/how-to-set-up-use-spacexai-grok-in-google-workspace</link>
+<guid isPermaLink="false">81029fe32d7f090a84a7e84d117b5e592157bf83a84b99e786635f3e23fb7dcf</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 19:15:00 +0000</pubDate>
+<description>Inserting Grok into your Google Workspace is easy, but you'll want to consider a few things before rolling out the welcome mat.</description>
+<dc:creator>staff@engadget.com (Luke James)</dc:creator>
+<content:encoded>Inserting Grok into your Google Workspace is easy, but you'll want to consider a few things before rolling out the welcome mat.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-set-up-spacexais-grok-in-google-workspace-and-what-it-can-do/l-intro-1793988095.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-set-up-spacexais-grok-in-google-workspace-and-what-it-can-do/l-intro-1793988095.jpg" medium="image"/>
+</item>
+<item>
+<title>How a bottleneck calculator for your GPU and CPU works</title>
+<link>https://www.engadget.com/2306571/how-bottleneck-calculator-works-gpu-cpu</link>
+<guid isPermaLink="false">47ba7217855483e3b358f49076b1a19a652e9f52bf7f352474e5abd2c00f25e1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+<description>They're a quick way to help you check component compatibility before you build or upgrade a system.</description>
+<dc:creator>staff@engadget.com (Charles Burgar)</dc:creator>
+<content:encoded>They're a quick way to help you check component compatibility before you build or upgrade a system.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/how-a-bottleneck-calculator-for-your-gpu-and-cpu-works/l-intro-1793806824.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-a-bottleneck-calculator-for-your-gpu-and-cpu-works/l-intro-1793806824.jpg" medium="image"/>
+</item>
+<item>
+<title>5 things you didn't know Steam's overlay could do</title>
+<link>https://www.engadget.com/2309539/things-you-didnt-know-steam-overlay-could-do</link>
+<guid isPermaLink="false">dcceadf7601aee28a3587c05f62e71e0a422e69f2d37706b4f1530cb3c275489</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 18:45:00 +0000</pubDate>
+<description>Steam's overlay hides several useful tools beyond its familiar chat window, including features that can help you play, stay organized, and connect with friends.</description>
+<dc:creator>staff@engadget.com (Igor Bonifacic)</dc:creator>
+<content:encoded>Steam's overlay hides several useful tools beyond its familiar chat window, including features that can help you play, stay organized, and connect with friends.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/5-things-you-didnt-know-steams-overlay-could-do/l-intro-1793988811.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/5-things-you-didnt-know-steams-overlay-could-do/l-intro-1793988811.jpg" medium="image"/>
+</item>
+<item>
+<title>How to watch videos on Apple CarPlay while parked</title>
+<link>https://www.engadget.com/2306196/apple-carplay-how-to-watch-videos</link>
+<guid isPermaLink="false">8ca1107e4d9233aa16db87ecbaad4b719e324ad183628fe0ceb1abb00f465593</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 18:30:00 +0000</pubDate>
+<description>iOS 27 introduced support for native video playback on CarPlay, with certain restrictions and requirements. Here's how to use the new feature.</description>
+<dc:creator>staff@engadget.com (Filipe Espósito)</dc:creator>
+<content:encoded>iOS 27 introduced support for native video playback on CarPlay, with certain restrictions and requirements. Here's how to use the new feature.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-watch-videos-on-apple-carplay-while-parked/l-intro-1793770742.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-watch-videos-on-apple-carplay-while-parked/l-intro-1793770742.jpg" medium="image"/>
+</item>
+<item>
+<title>People are modding the Tamagotchi Paradise to run Game Boy games</title>
+<link>https://www.engadget.com/2310126/people-are-modding-the-tamagotchi-paradise-to-run-game-boy-games</link>
+<guid isPermaLink="false">0d9006d6fb77a7aad7c174cf850ccf79c0da087bab0084a2e55e5d5f85848cbb</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 18:21:34 +0000</pubDate>
+<description>Someone figured out how to run Pokémon Gold and Silver on a Tamagotchi.</description>
+<dc:creator>staff@engadget.com (Cheyenne MacDonald)</dc:creator>
+<content:encoded>Someone figured out how to run Pokémon Gold and Silver on a Tamagotchi.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/people-are-modding-the-tamagotchi-paradise-to-run-game-boy-games/l-intro-1794074974.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/people-are-modding-the-tamagotchi-paradise-to-run-game-boy-games/l-intro-1794074974.jpg" medium="image"/>
+</item>
+<item>
+<title>The reason your phone keeps dimming even with auto-brightness off</title>
+<link>https://www.engadget.com/2306646/reason-phone-keeps-dimming-auto-brightness-off</link>
+<guid isPermaLink="false">e4f686b362072f90ce8637adb8974c9f3f97260879aa1881d10bad8223369d99</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 18:15:00 +0000</pubDate>
+<description>If your iPhone or Android phone's screen keeps darkening when you don't want it to, there are several possible explanations.</description>
+<dc:creator>staff@engadget.com (David Engle)</dc:creator>
+<content:encoded>If your iPhone or Android phone's screen keeps darkening when you don't want it to, there are several possible explanations.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/the-reason-your-phone-keeps-dimming-even-with-auto-brightness-off/l-intro-1793800884.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-reason-your-phone-keeps-dimming-even-with-auto-brightness-off/l-intro-1793800884.jpg" medium="image"/>
+</item>
+<item>
+<title>5 iPhone security settings you should change to protect your data</title>
+<link>https://www.engadget.com/2306607/iphone-security-settings-data-protection</link>
+<guid isPermaLink="false">77c268e6966346b745da7b3398aed49b2b1bf8b07a6b36045d6215b58f4e03ec</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 18:00:00 +0000</pubDate>
+<description>Your iPhone has great security features, but some of them need configuration to work their best.</description>
+<dc:creator>staff@engadget.com (Filipe Espósito)</dc:creator>
+<content:encoded>Your iPhone has great security features, but some of them need configuration to work their best.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/5-iphone-security-settings-you-should-change-to-protect-your-data/l-intro-1793807702.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/5-iphone-security-settings-you-should-change-to-protect-your-data/l-intro-1793807702.jpg" medium="image"/>
+</item>
+<item>
+<title>What is System Data on an iPhone's storage, and how much is normal?</title>
+<link>https://www.engadget.com/2306455/what-is-iphone-storage-system-data</link>
+<guid isPermaLink="false">9c52962c805670d03da62260662319a537a659fe74089cc163705b685d89eabc</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 17:45:00 +0000</pubDate>
+<description>Your iPhone's storage breaks down into many categories; System Data is often large but doesn't have a clear explanation.</description>
+<dc:creator>staff@engadget.com (Roger Fingas)</dc:creator>
+<content:encoded>Your iPhone's storage breaks down into many categories; System Data is often large but doesn't have a clear explanation.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/what-is-system-data-on-an-iphones-storage-and-how-much-is-normal/l-intro-1793803853.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-is-system-data-on-an-iphones-storage-and-how-much-is-normal/l-intro-1793803853.jpg" medium="image"/>
+</item>
+<item>
+<title>Snapchat's Find Friends feature will be off by default for UK users under 18</title>
+<link>https://www.engadget.com/2310117/snapchats-find-friends-feature-will-be-off-by-default-for-uks-under-18-users</link>
+<guid isPermaLink="false">088c4eeb69d432a2406e465efa06e717d2b7c6f5b3af973bcef7eb38b22beb55</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 17:31:17 +0000</pubDate>
+<description>The platform is rolling out this change in the country starting this month.</description>
+<dc:creator>staff@engadget.com (Jackson Chen)</dc:creator>
+<content:encoded>The platform is rolling out this change in the country starting this month.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/snapchats-find-friends-feature-will-be-off-by-default-for-uk-users-under-18/l-intro-1794072257.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/snapchats-find-friends-feature-will-be-off-by-default-for-uk-users-under-18/l-intro-1794072257.jpg" medium="image"/>
+</item>
+<item>
+<title>5 Google Messages settings you might want to disable</title>
+<link>https://www.engadget.com/2306181/google-messages-settings-might-want-to-disable</link>
+<guid isPermaLink="false">f0c8196c4245315d7760c12cde7019892a8d2125637beabc5f099e7fd569b988</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 17:30:00 +0000</pubDate>
+<description>Google Messages is easily one of the best messaging apps available on Android, but that doesn't mean it's configured perfectly out of the box.</description>
+<dc:creator>staff@engadget.com (Max Miller)</dc:creator>
+<content:encoded>Google Messages is easily one of the best messaging apps available on Android, but that doesn't mean it's configured perfectly out of the box.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/5-google-messages-settings-you-might-want-to-disable/l-intro-1793762765.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/5-google-messages-settings-you-might-want-to-disable/l-intro-1793762765.jpg" medium="image"/>
+</item>
+<item>
+<title>How to legally download free movies to your computer</title>
+<link>https://www.engadget.com/2306356/how-to-legally-download-free-movies</link>
+<guid isPermaLink="false">4991a626465150af9518fea170e30075eab8b848b52970837c6c251771df9047</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 17:15:00 +0000</pubDate>
+<description>There are services that will allow you to download movies from the public domain, and several streaming services let you download shows for offline viewing.</description>
+<dc:creator>staff@engadget.com (Maddie Fisher)</dc:creator>
+<content:encoded>There are services that will allow you to download movies from the public domain, and several streaming services let you download shows for offline viewing.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-legally-download-free-movies-to-your-computer/l-intro-1793799706.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-legally-download-free-movies-to-your-computer/l-intro-1793799706.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple also made its classical music app's logo black and white</title>
+<link>https://www.engadget.com/2310114/apple-also-made-its-classical-music-apps-logo-black-and-white</link>
+<guid isPermaLink="false">c8ce87f9fc9a86a41958034131a01e1312e7f9c257c4398ad4fb12037a222d45</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 17:06:13 +0000</pubDate>
+<description>Apple Music Classical now has a black-and-white logo, as well.</description>
+<dc:creator>staff@engadget.com (Mariella Moon)</dc:creator>
+<content:encoded>Apple Music Classical now has a black-and-white logo, as well.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/apple-also-made-its-classical-music-apps-logo-black-and-white/l-intro-1794070514.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-also-made-its-classical-music-apps-logo-black-and-white/l-intro-1794070514.jpg" medium="image"/>
+</item>
+<item>
+<title>The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance</title>
+<link>https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions</link>
+<guid isPermaLink="false">70f1531fce2b0561b927bd1826255ba8903dc729a1aa19219f9c293dbe4a0344</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+<description>With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, nauseous, and generally unwell, symptoms consistent with heat exhaustion. Around the same time, I received a notification from an app used by the $249 ($149 at the time of publication) UV-tracking necklace I'd been wearing, called Gem , from a company called The90. It warned that my UV exposure had climbed considerably. It turns out UV radiatio … Read the full story at The Verge.</description>
+<dc:creator>Sheena Vasani</dc:creator>
+<content:encoded>With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, nauseous, and generally unwell, symptoms consistent with heat exhaustion. Around the same time, I received a notification from an app used by the $249 ($149 at the time of publication) UV-tracking necklace I'd been wearing, called Gem , from a company called The90. It warned that my UV exposure had climbed considerably. It turns out UV radiatio … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>How does the digital ink in ereaders work?</title>
+<link>https://www.engadget.com/2306305/how-does-ereader-nook-amazon-kindle-digital-ink-work</link>
+<guid isPermaLink="false">8b290d605fd59ff70452edf984877b282594dcb4d08b871c08e98b8eb1c446b4</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
+<description>Unlike regular LCD and OLED displays, ereaders rely on e-ink tech that lets them gently sip power and last for months. Here's the science behind how it works.</description>
+<dc:creator>staff@engadget.com (Roger Fingas)</dc:creator>
+<content:encoded>Unlike regular LCD and OLED displays, ereaders rely on e-ink tech that lets them gently sip power and last for months. Here's the science behind how it works.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/how-does-the-digital-ink-in-ereaders-work/l-intro-1793794207.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-does-the-digital-ink-in-ereaders-work/l-intro-1793794207.jpg" medium="image"/>
+</item>
+<item>
+<title>Solar panel breakthrough could almost double the efficiency of today's panels</title>
+<link>https://www.engadget.com/2306188/solar-panel-efficiency-breakthrough-doubles-output</link>
+<guid isPermaLink="false">ee860e0ea0ec35f12cd9789bd9f0ba5c4ade8e107ebf172122eb659144e9552c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 16:45:00 +0000</pubDate>
+<description>Solar panels have become much more efficient since their infancy, but research breakthroughs show there's still plenty of room for improvement.</description>
+<dc:creator>staff@engadget.com (Ian Carlos Campbell)</dc:creator>
+<content:encoded>Solar panels have become much more efficient since their infancy, but research breakthroughs show there's still plenty of room for improvement.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/solar-panel-breakthrough-could-almost-double-the-efficiency-of-todays-panels/l-intro-1793766160.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/solar-panel-breakthrough-could-almost-double-the-efficiency-of-todays-panels/l-intro-1793766160.jpg" medium="image"/>
+</item>
+<item>
+<title>This GPS navigation app should be the go-to for older drivers</title>
+<link>https://www.engadget.com/2305919/gps-navigation-app-go-to-older-drivers-google-maps</link>
+<guid isPermaLink="false">6dc6fbab9a444bde9a1e49de59534c0993f860dfad0ccca94c698842bfbfd2c2</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 16:30:00 +0000</pubDate>
+<description>Nervous about driving somewhere new? One familiar navigation app has simple turn-by-turn directions that help older drivers feel more confident.</description>
+<dc:creator>staff@engadget.com (Gabriela Vătu)</dc:creator>
+<content:encoded>Nervous about driving somewhere new? One familiar navigation app has simple turn-by-turn directions that help older drivers feel more confident.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/this-gps-navigation-app-should-be-the-go-to-for-older-drivers/l-intro-1793733691.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/this-gps-navigation-app-should-be-the-go-to-for-older-drivers/l-intro-1793733691.jpg" medium="image"/>
+</item>
+<item>
+<title>What gamers should know when bringing their consoles through TSA</title>
+<link>https://www.engadget.com/2305767/gamers-tsa-game-console-rules</link>
+<guid isPermaLink="false">49327eec0c1f71d4acbf6a824cd68effeba3fd624040a956bed4ffa98585ba66</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 16:15:00 +0000</pubDate>
+<description>You're allowed to bring your game consoles through the TSA line, but what exactly you need to do depends on the airport and console size.</description>
+<dc:creator>staff@engadget.com (Deven McClure)</dc:creator>
+<content:encoded>You're allowed to bring your game consoles through the TSA line, but what exactly you need to do depends on the airport and console size.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/what-gamers-should-know-when-bringing-their-consoles-through-tsa/l-intro-1793735560.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-gamers-should-know-when-bringing-their-consoles-through-tsa/l-intro-1793735560.jpg" medium="image"/>
+</item>
+<item>
+<title>Costco members can get $5 off the reimagined Ocarina of Time</title>
+<link>https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale</link>
+<guid isPermaLink="false">949ca82ab4607078fe837912c72c7f8af12130660de55463e919d31a7d414b7b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 16:00:00 +0000</pubDate>
+<description>The Legend of Zelda: Ocarina of Time remake showcases plenty of modern effects. | Image: Nintendo While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time , it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65 , that discount almost offsets one month of your plan — a prime example of “gamer math.” The Legend of Zelda: The Ocarina of Time Where to Buy: $59.99 $54.99 at Costco (digital) My colleague Andrew Webster recently shared his thoughts on Nintendo’s latest Switch 2 exclusive, noting how impressed he was with how much impact a few modern quality-of-life changes had on what is otherwise a classic experience. The updated graphics are as thoughtful as they are beautiful, pairing realistic scenery with puppet-like characters. Perhaps, more importantly, Link can now jump anytime he likes, rather than being limited to specific ledges.</description>
+<dc:creator>Brad Bourque</dc:creator>
+<content:encoded>The Legend of Zelda: Ocarina of Time remake showcases plenty of modern effects. | Image: Nintendo While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time , it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65 , that discount almost offsets one month of your plan — a prime example of “gamer math.” The Legend of Zelda: The Ocarina of Time Where to Buy: $59.99 $54.99 at Costco (digital) My colleague Andrew Webster recently shared his thoughts on Nintendo’s latest Switch 2 exclusive, noting how impressed he was with how much impact a few modern quality-of-life changes had on what is otherwise a classic experience. The updated graphics are as thoughtful as they are beautiful, pairing realistic scenery with puppet-like characters. Perhaps, more importantly, Link can now jump anytime he likes, rather than being limited to specific ledges.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Discogs’ Kevin Lewandowski can’t live without his AeroPress</title>
+<link>https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview</link>
+<guid isPermaLink="false">45b944c4290360a1e3279bde05bc2cf3e934277a986819b20372c22f122349ac</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 16:00:00 +0000</pubDate>
+<description>Twenty-five years ago, Kevin Lewandowski founded Discogs , arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions and pressings. It's a really fun rabbit hole to disappear down when you're trying to figure out what obscure pressing of Ministry's The Mind is a Terrible Thing to Taste or Psalm 69 you had in high school, because you definitely blasted the cover of "Lay Lady Lay" all the time and 100 p … Read the full story at The Verge.</description>
+<dc:creator>Terrence O’Brien</dc:creator>
+<content:encoded>Twenty-five years ago, Kevin Lewandowski founded Discogs , arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions and pressings. It's a really fun rabbit hole to disappear down when you're trying to figure out what obscure pressing of Ministry's The Mind is a Terrible Thing to Taste or Psalm 69 you had in high school, because you definitely blasted the cover of "Lay Lady Lay" all the time and 100 p … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The right way to fix your MacBook keyboard if it isn't responding</title>
+<link>https://www.engadget.com/2305570/macbook-keyboard-fix-not-responding</link>
+<guid isPermaLink="false">0e81d377de0b5cb1219aba7da311d93e9c2f11813b93c41277cf8d508d6ca118</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 16:00:00 +0000</pubDate>
+<description>Don't count out your MacBook's keyboard just yet - a quick hardware cleaning or software toggle could get it working again.</description>
+<dc:creator>staff@engadget.com (Filipe Espósito)</dc:creator>
+<content:encoded>Don't count out your MacBook's keyboard just yet - a quick hardware cleaning or software toggle could get it working again.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/the-right-way-to-fix-your-macbook-keyboard-if-it-isnt-responding/l-intro-1793730202.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-right-way-to-fix-your-macbook-keyboard-if-it-isnt-responding/l-intro-1793730202.jpg" medium="image"/>
+</item>
+<item>
+<title>NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake</title>
+<link>https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review</link>
+<guid isPermaLink="false">1ab28dde47a3074f5d545d3ab26962de3646ed099f84a0589ddd472240f8575e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 15:50:00 +0000</pubDate>
+<description>The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, "Chicken again ?" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best weapon in this fight has been AI. Between Alexa Plus in the Echo smart display on my kitchen counter, the Samsung Food app on my fridge, and even an AI-powered cooking robot , AI has become my go-to sous chef - albeit one I need to keep a close eye on. It's helped me swap ingredients, generate ideas, fix things when I mess up, and yes, even … Read the full story at The Verge.</description>
+<dc:creator>Jennifer Pattison Tuohy</dc:creator>
+<content:encoded>The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, "Chicken again ?" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best weapon in this fight has been AI. Between Alexa Plus in the Echo smart display on my kitchen counter, the Samsung Food app on my fridge, and even an AI-powered cooking robot , AI has become my go-to sous chef - albeit one I need to keep a close eye on. It's helped me swap ingredients, generate ideas, fix things when I mess up, and yes, even … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Cleaning your PC with expired isopropyl alcohol can be risky — here's why</title>
+<link>https://www.engadget.com/2305456/why-isopropyl-alcohol-degrades-pc-cleaning</link>
+<guid isPermaLink="false">43c67c71c2f07f6f684b8c3c17c98fd3c9b90b2f48fd53825073a479800aa09e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 15:45:00 +0000</pubDate>
+<description>Think twice before grabbing that old bottle. Here's why expired isopropyl alcohol can harm your PC and how to clean it the safe way instead.</description>
+<dc:creator>staff@engadget.com (Deven McClure)</dc:creator>
+<content:encoded>Think twice before grabbing that old bottle. Here's why expired isopropyl alcohol can harm your PC and how to clean it the safe way instead.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/cleaning-your-pc-with-expired-isopropyl-alcohol-can-be-risky-heres-why/l-intro-1793654072.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/cleaning-your-pc-with-expired-isopropyl-alcohol-can-be-risky-heres-why/l-intro-1793654072.jpg" medium="image"/>
+</item>
+<item>
+<title>The US let Nvidia sell chips to an empty office in China</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</link>
+<guid isPermaLink="false">b521172828d62613029c51d533189e7ac0f4664ec1518d5501648ef5d6a74a1f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 15:43:45 +0000</pubDate>
+<description>Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times , New Matrix is on the list of approved firms, yet its offices are empty, "a hollow gray shell with wires dangling from the ceiling where lights should be." In fact, the paper could find little evidence that the company exists in any meaningful way: Only scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lists as its address, a company directory does not … Read the full story at The Verge.</description>
+<dc:creator>Terrence O’Brien</dc:creator>
+<content:encoded>Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times , New Matrix is on the list of approved firms, yet its offices are empty, "a hollow gray shell with wires dangling from the ceiling where lights should be." In fact, the paper could find little evidence that the company exists in any meaningful way: Only scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lists as its address, a company directory does not … Read the full story at The Verge.</content:encoded>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>AI broke the cybersecurity world. What’s next?</title>
@@ -43,19 +342,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Why you don't really need an expensive, high-end router</title>
-<link>https://www.engadget.com/2305411/why-you-dont-need-expensive-high-end-router</link>
-<guid isPermaLink="false">1b478fdaad237760d4586b64ac6e8f86c5290914630d62dba8a1f54dea60c200</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
-<description>Getting a top-of-the-line router won't necessarily increase your internet speeds. Here's what you need to know before you buy.</description>
-<dc:creator>staff@engadget.com (Nimrod Aldea)</dc:creator>
-<content:encoded>Getting a top-of-the-line router won't necessarily increase your internet speeds. Here's what you need to know before you buy.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/why-you-dont-really-need-an-expensive-high-end-router/l-intro-1793041101.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-you-dont-really-need-an-expensive-high-end-router/l-intro-1793041101.jpg" medium="image"/>
-</item>
-<item>
 <title>Fireworks says you’re wasting money on AI unless you’re using all the models</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277</link>
 <guid isPermaLink="false">b0ff010c7ccc4230d60882c334060caa63ce274021e4125bbf8c61a3e29b96f7</guid>
@@ -67,19 +353,6 @@
 <content:encoded>Fireworks AI is fine with helping companies run AI models in their own datacenters, though VP Rob Ferguson argues against doing so. Ferguson told The Register in an interview that while Fireworks AI, a managed inference provider, supports on-prem AI, "we're trying to push people more and more away from it because frankly, it's just the economics." The GPU hardware is just so expensive that if you can't keep it fully utilized, it's a waste of money, he contends. Ten thousand GPUs, he said, represent a billion dollars of capital. "You don't want those things to be sitting idle," he said. For companies with particularly sensitive workloads, Ferguson said, Fireworks is happy to work something out – it offers a service called Sovereign for just that purpose and it has partners like Microsoft that can help. But most inference work probably doesn't need that level of protection, he said. "The state of the art for everyone is to have a portfolio of models," he explained. "In fact, I think most people don't know that the best model in the world's not Astra. The best model in the world's not Fable. The best model is literally a portfolio and we can prove it. You are always better routing between a few models than to do one singular model." That's what Fireworks does through Nexus and its API, alongside competitors like Together AI, Baseten, and DeepInfra. As a managed inference platform, Fireworks AI routes inference tasks to whichever model, frontier model subscription, or API is best suited to handle them. But the company is not just doing naive routing like an AI gateway. It's evaluating tasks as they come in and directing them to the optimal model. "We build custom routers," Ferguson explained. "Our auto model is continuously updating so that we actually go through and we grade the difficulty of the task and we see if there're affinities that the models have, like Kimi is slightly better at JavaScript than Python, things like this." The company's competitive edge, he contends, is its crack engineering team, which follows from its founders' work on PyTorch, a widely used open source machine learning library. "We're performance experts both on the training and inference side," he explained. "People I think don't understand how important, for example, numerics is. So when you use a model, it's always called a mixture of experts – an expert is a different machine. "And so you have all these different machines. It actually matters when you're training that you go back to precisely the right machine, because if you don't, the other machine will still answer the question, but it'll answer in a slightly different way. So we have to know how to build the topology to write back the data to the right space. We have to understand floating point precision [to handle very small values]. We have to be able to do all this where we're routing through a complex fabric through potentially more than one provider depending on what everything is. And so we're really systems experts." Hyperscalers, he argues, will give you a GPU but then it's your responsibility to put it to use. Fireworks' advantage involves being able to maximize utilization at scale while maintaining model precision and speed. Ferguson said AI keeps coming back to economics. "People are just trying to figure out more and more things to use AI for and [to answer questions like] just how much more can I send to cached models, how much more can I send to open models, when do I need this specialization?" he said. "So we're constantly working with customers to help them come up with their own evaluation criteria." One reason for this, Ferguson explained, is that frontier model companies are not transparent about their caching rates. He said Fireworks was working with a data science company and was caching about 90 percent of the tasks. "We looked at [Anthropic's] Opus and it was caching 30 percent of the time," he said. "It was doing AI rework constantly. And with AI, rework is by far your biggest cost. If it's not hitting a cache, then your costs are absolutely insane. And so the token cost is not the real cost. It's the cost per task. And they're hiding that from you. And so we always tell our customers to be tracking cost per task, because that's the real number." Another factor that companies should consider in their cost calculations, Ferguson suggested, is the value of their data and whether they're giving that data away for training. "I think people grossly underestimate the value of their data," he said. Fireworks AI has a zero data-retention policy, "but a lot of times," Ferguson said, "these other companies [do] not, and you should be getting paid for your data. Nobody really knew at the beginning of this current era that these models are memorizers. But now there's plenty of evidence that these models are. So if they're going to be using your data, then you should be getting value for it." But it's not just about cost. Speed, said Ferguson, is underappreciated. "Speed is the thing that people often don't know they can ask for," he said. "It's such a game changer for me and how I work with AI is so different when the responses come back as fast as I ask them." What's the advantage of model ensembling, as the company refers to its model routing activities? A bill that's at least 50 percent smaller, Ferguson claims. "So we say six to eight times cheaper," he said. "The reality is that because a lot of folks have a preference in their tooling, we kinda guarantee that in the case where you're still using a combo of closed and open models, we can always guarantee that your bill will drop by half right away. Like we're sure about that. And then the question is can we just get you to use more stuff?" ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5308281&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5308281&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Windows PowerToys can automate some of your more tedious PC tasks</title>
-<link>https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks</link>
-<guid isPermaLink="false">fa48506df7812f5f7c1143432a9862d2e9da4f6e5d1bd35766fdaa2a642affae</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 14:45:00 +0000</pubDate>
-<description>PowerToys is a secret weapon for Windows users, with tons of handy utilities to help you save time on your PC every day.</description>
-<dc:creator>staff@engadget.com (Luke James)</dc:creator>
-<content:encoded>PowerToys is a secret weapon for Windows users, with tons of handy utilities to help you save time on your PC every day.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/windows-powertoys-can-automate-some-of-your-more-tedious-pc-tasks/l-intro-1793722923.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/windows-powertoys-can-automate-some-of-your-more-tedious-pc-tasks/l-intro-1793722923.jpg" medium="image"/>
 </item>
 <item>
 <title>Good riddance, Cybertruck!</title>
@@ -95,32 +368,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>The accessory Samsung Galaxy S26 users should be taking advantage of</title>
-<link>https://www.engadget.com/2304963/samsung-galaxy-s26-users-accessory-take-advantage-of</link>
-<guid isPermaLink="false">18825cc9ba624cbd59a140358c58bcb952e8945876c9f6e3c9068395a123af56</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 14:30:00 +0000</pubDate>
-<description>There's a lot to like about Samsung's Galaxy S26 phones, especially the S26 Ultra, but some users may not be taking full advantage of what they have to offer.</description>
-<dc:creator>staff@engadget.com (Max Miller)</dc:creator>
-<content:encoded>There's a lot to like about Samsung's Galaxy S26 phones, especially the S26 Ultra, but some users may not be taking full advantage of what they have to offer.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/the-accessory-samsung-galaxy-s26-users-should-be-taking-advantage-of/l-intro-1793687035.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-accessory-samsung-galaxy-s26-users-should-be-taking-advantage-of/l-intro-1793687035.jpg" medium="image"/>
-</item>
-<item>
-<title>What's the point of buying a touchscreen laptop when you could just get a tablet?</title>
-<link>https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet</link>
-<guid isPermaLink="false">a3f1c56951cd129f0d29cec259e66699dda1be2fc082da80e7cc80e27ad24f1b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 14:15:00 +0000</pubDate>
-<description>Tablets are great for simplicity and touch-heavy workflows, while a touchscreen lets a laptop serve some of the same purposes in a different form.</description>
-<dc:creator>staff@engadget.com (Roger Fingas)</dc:creator>
-<content:encoded>Tablets are great for simplicity and touch-heavy workflows, while a touchscreen lets a laptop serve some of the same purposes in a different form.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/whats-the-point-of-buying-a-touchscreen-laptop-when-you-could-just-get-a-tablet/l-intro-1793717553.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/whats-the-point-of-buying-a-touchscreen-laptop-when-you-could-just-get-a-tablet/l-intro-1793717553.jpg" medium="image"/>
-</item>
-<item>
 <title>Standing in the way of slop bowls: the woman blocking food delivery robots</title>
 <link>https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots</link>
 <guid isPermaLink="false">c1517fa306f4dd3f4a6653ab97fb8700a0d60af17396563c0f1d68e6acca9e40</guid>
@@ -132,32 +379,6 @@
 <content:encoded>Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’ “One of you needs to be on the lookout for cops, while I block the robot, OK?” It is a crisp fall morning in Philadelphia. Tucked away in a dingy alley, opposite a garage called Patriot Parking, 78-year-old Carolyn Marvin is laying out some ground rules for a robot-disrupting expedition. Once a suitable target is identified, we will follow it to a busy sidewalk and Marvin will stand in front of the robot, blocking its way. The photographer and I will take turns ensuring we’re not all carted off by the police. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72634d4c742a03f58c0b7b69541e74eb" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72634d4c742a03f58c0b7b69541e74eb" medium="image"/>
-</item>
-<item>
-<title>China's main intelligence agency reportedly recruited the spy who targeted NVIDIA's CEO</title>
-<link>https://www.engadget.com/2310084/china-main-intelligence-agency-recruit-spy-targeted-nvidias-ceo</link>
-<guid isPermaLink="false">72c2869f8e7c6092d8cd62061987ec6f7d7106ef59e99be8fe4de499285adbd1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 14:00:06 +0000</pubDate>
-<description>The spy who targeted NVIDIA CEO Jensen Huang was reportedly a recruit by China's version of the CIA. US officials say Huang was romantically involved with her.</description>
-<dc:creator>staff@engadget.com (Mariella Moon)</dc:creator>
-<content:encoded>The spy who targeted NVIDIA CEO Jensen Huang was reportedly a recruit by China's version of the CIA. US officials say Huang was romantically involved with her.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/chinas-main-intelligence-agency-reportedly-recruited-the-spy-who-targeted-nvidias-ceo/l-intro-1794059747.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/chinas-main-intelligence-agency-reportedly-recruited-the-spy-who-targeted-nvidias-ceo/l-intro-1794059747.jpg" medium="image"/>
-</item>
-<item>
-<title>Why PlayStation can't hold a candle to Xbox's backward compatibility</title>
-<link>https://www.engadget.com/2305049/playstation-cant-hold-candle-to-xbox-backwards-compatibility</link>
-<guid isPermaLink="false">23d5e4aabb91417b7cd4f8885be3d516177f1619980afb53df91ec2e3e17c809</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 14:00:00 +0000</pubDate>
-<description>Sony offers some older titles on the PS5, but nowhere near the amount that Microsoft added to its Xbox catalogs. It came down to one decision, made years ago.</description>
-<dc:creator>staff@engadget.com (Roger Fingas)</dc:creator>
-<content:encoded>Sony offers some older titles on the PS5, but nowhere near the amount that Microsoft added to its Xbox catalogs. It came down to one decision, made years ago.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/why-playstation-cant-hold-a-candle-to-xboxs-backward-compatibility/l-intro-1793706665.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-playstation-cant-hold-a-candle-to-xboxs-backward-compatibility/l-intro-1793706665.jpg" medium="image"/>
 </item>
 <item>
 <title>Zelda is back and better than ever</title>
@@ -173,58 +394,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-151.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>How to use Gboard to boost productivity on your Android phone</title>
-<link>https://www.engadget.com/2305040/how-to-use-gboard-boost-productivity-android-phone</link>
-<guid isPermaLink="false">497f1656d756a12c3948cd1db70bcaebf4936ad3d91cb8b7a29ea43a3741b078</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 13:45:00 +0000</pubDate>
-<description>Gboard's built-in features go way beyond many of the standard keyboards available on Android devices, but they do need to be enabled. This is how you do it.</description>
-<dc:creator>staff@engadget.com (Max Miller)</dc:creator>
-<content:encoded>Gboard's built-in features go way beyond many of the standard keyboards available on Android devices, but they do need to be enabled. This is how you do it.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-use-gboard-to-boost-productivity-on-your-android-phone/l-intro-1793704835.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-use-gboard-to-boost-productivity-on-your-android-phone/l-intro-1793704835.jpg" medium="image"/>
-</item>
-<item>
-<title>This is when external DACs for your phone are worth buying</title>
-<link>https://www.engadget.com/2304952/when-external-dac-worth-buying-for-phone</link>
-<guid isPermaLink="false">fc7fc4b86cb896facf70f07c2d7c1e2ec3acff4046efabbf00fd4913c3cb8b81</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 13:30:00 +0000</pubDate>
-<description>External DACs aren't necessarily for everyone, but they can be an essential smartphone accessory for those interested in high-quality audio.</description>
-<dc:creator>staff@engadget.com (Alec Hively)</dc:creator>
-<content:encoded>External DACs aren't necessarily for everyone, but they can be an essential smartphone accessory for those interested in high-quality audio.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/this-is-when-external-dacs-for-your-phone-are-worth-buying/l-intro-1793681756.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/this-is-when-external-dacs-for-your-phone-are-worth-buying/l-intro-1793681756.jpg" medium="image"/>
-</item>
-<item>
-<title>November is the month of fake Black Friday tech deals - here's how to spot them</title>
-<link>https://www.engadget.com/2304942/black-friday-fake-tech-deals-how-to-spot</link>
-<guid isPermaLink="false">cfa09737ea183253c0dc54d689e7ec8f5963692b2aacc7e3d656d00270e99a09</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 13:15:00 +0000</pubDate>
-<description>November is generally a great time to buy tech, but you'll want to avoid pitfalls like inflated discounts and outright scams. Here's how to stay safe.</description>
-<dc:creator>staff@engadget.com (Husain Parvez)</dc:creator>
-<content:encoded>November is generally a great time to buy tech, but you'll want to avoid pitfalls like inflated discounts and outright scams. Here's how to stay safe.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/november-is-the-month-of-fake-black-friday-tech-deals-heres-how-to-spot-them/l-intro-1793677357.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/november-is-the-month-of-fake-black-friday-tech-deals-heres-how-to-spot-them/l-intro-1793677357.jpg" medium="image"/>
-</item>
-<item>
-<title>10 of the coolest features in Samsung's new One UI 9 update</title>
-<link>https://www.engadget.com/2305270/samsung-one-ui-9-coolest-features</link>
-<guid isPermaLink="false">1f12086ba9909e0ecc436f84097c6827533f18ad5b306e7ca4208d720a87d984</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 13:15:00 +0000</pubDate>
-<description>Your Samsung phone gets improvements to the camera, gestures, privacy and much more with One UI 9.</description>
-<dc:creator>staff@engadget.com (Max Sheridan)</dc:creator>
-<content:encoded>Your Samsung phone gets improvements to the camera, gestures, privacy and much more with One UI 9.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/10-of-the-coolest-features-in-samsungs-new-one-ui-9-update/l-intro-1793375161.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/10-of-the-coolest-features-in-samsungs-new-one-ui-9-update/l-intro-1793375161.jpg" medium="image"/>
-</item>
-<item>
 <title>The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call</title>
 <link>https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things</link>
 <guid isPermaLink="false">20716899a73a29da441a1bd8acff4cafdff44d8a865c4302f0daba5d0a98be7d</guid>
@@ -236,19 +405,6 @@
 <content:encoded>Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6aecfb1b276d9711716c8ef8/master/pass/KernelPanic_10312026_v1-ezgif.com-video-to-gif-converter.gif" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aecfb1b276d9711716c8ef8/master/pass/KernelPanic_10312026_v1-ezgif.com-video-to-gif-converter.gif" medium="image"/>
-</item>
-<item>
-<title>Engadget review recap: Apple devices, Googlebooks and Kindles</title>
-<link>https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles</link>
-<guid isPermaLink="false">5f15b6b89718d8da8a7bc8e5075f77f92b49da5b73cce114a77d044740a0d032</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 13:00:00 +0000</pubDate>
-<description>A roundup of recent reviews from Engadget.</description>
-<dc:creator>staff@engadget.com (Billy Steele)</dc:creator>
-<content:encoded>A roundup of recent reviews from Engadget.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/engadget-review-recap-apple-devices-googlebooks-and-kindles/l-intro-1793982286.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/engadget-review-recap-apple-devices-googlebooks-and-kindles/l-intro-1793982286.jpg" medium="image"/>
 </item>
 <item>
 <title>Why a new report on Anthropic automating AI development is alarming researchers</title>
@@ -550,32 +706,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg" medium="image"/>
 </item>
 <item>
-<title>China reportedly recruited AI exec to spy on Jensen Huang</title>
-<link>https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</link>
-<guid isPermaLink="false">a7e1415152c9585b8d71bca94ace373b8093ed1a4e0f4d0e2869094ca3b8d166</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 23:00:44 +0000</pubDate>
-<description>China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times . The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and "potentially influence the company to push for its most advanced chips to be made available to China." Megaspeed is a customer of Nvidia's, and Alice Huang also has "relationships with executives at the highest levels of the A.I. chip industry," including leaders at Gigabyte, the NYT says. Last week, the NYT reported that Jensen Huang was seen as the target of a "Chinese spy plot" and shared details about Al … Read the full story at The Verge.</description>
-<dc:creator>Jay Peters</dc:creator>
-<content:encoded>China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times . The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and "potentially influence the company to push for its most advanced chips to be made available to China." Megaspeed is a customer of Nvidia's, and Alice Huang also has "relationships with executives at the highest levels of the A.I. chip industry," including leaders at Gigabyte, the NYT says. Last week, the NYT reported that Jensen Huang was seen as the target of a "Chinese spy plot" and shared details about Al … Read the full story at The Verge.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Starlink Mobile: All the news on SpaceX&amp;#8217;s major mobile carrier ambitions</title>
-<link>https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news</link>
-<guid isPermaLink="false">ac8a92cb518c47f26895fc4903f524f449174cddbe5c169969593762b5af5469</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 22:45:43 +0000</pubDate>
-<description>SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&amp;T, Verizon, and T-Mobile, SpaceX has inked a deal with Qualcomm , which will deploy its cellular technology across tens of thousands of 5G cell sites starting in 2027. SpaceX is also reportedly in talks to buy Boost Mobile , potentially allowing it to launch Starlink Mobile through the service. Another report suggests SpaceX may tap into 80,000 cell sites across the US to build out its network. SpaceX’s big plans have garnered some reactions in the telecom industry. Tim Höttges, the CEO of T-Mobile’s parent company Deutsche Telekom, said he takes SpaceX’s plans “super serious” but that it could cost Musk more than $200 billion to pull off. Follow along for the latest updates on Starlink’s major mobile carrier ambitions. What will it take for SpaceX to launch its “major” mobile network? SpaceX is working with Qualcomm to build its Starlink Mobile 5G network SpaceX could buy Boost Mobile as part of its big mobile carrier plans SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites SpaceX announces plan to become a ‘major mobile carrier’ SpaceX is coming for T-Mobile, AT&amp;T and Verizon</description>
-<dc:creator>Emma Roth</dc:creator>
-<content:encoded>SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&amp;T, Verizon, and T-Mobile, SpaceX has inked a deal with Qualcomm , which will deploy its cellular technology across tens of thousands of 5G cell sites starting in 2027. SpaceX is also reportedly in talks to buy Boost Mobile , potentially allowing it to launch Starlink Mobile through the service. Another report suggests SpaceX may tap into 80,000 cell sites across the US to build out its network. SpaceX’s big plans have garnered some reactions in the telecom industry. Tim Höttges, the CEO of T-Mobile’s parent company Deutsche Telekom, said he takes SpaceX’s plans “super serious” but that it could cost Musk more than $200 billion to pull off. Follow along for the latest updates on Starlink’s major mobile carrier ambitions. What will it take for SpaceX to launch its “major” mobile network? SpaceX is working with Qualcomm to build its Starlink Mobile 5G network SpaceX could buy Boost Mobile as part of its big mobile carrier plans SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites SpaceX announces plan to become a ‘major mobile carrier’ SpaceX is coming for T-Mobile, AT&amp;T and Verizon</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Ships loiter near subsea cables amid Iran's warnings to Trump</title>
 <link>https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump</link>
 <guid isPermaLink="false">3246a74aa5d8f1275eb59654fac6016ff1fed82693867b375723255ec19ff343</guid>
@@ -613,19 +743,6 @@
 <content:encoded>Many people are not big fans of game publisher EA right now for good reason , but for those who remember a better time in the 1990s, there's a little good news. Twenty-five classic games from that EA era have been lightly remastered and updated, then placed for sale on Steam and GOG , including several Wing Commander games and nearly the entire Ultima series. Below is the full list of remastered or re-released games: Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif" medium="image"/>
-</item>
-<item>
-<title>KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium</title>
-<link>https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale</link>
-<guid isPermaLink="false">c4fe188e8afc7714ccb13291dabfb2b4054d1e436fe0c251fe9916128b77131d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 21:50:32 +0000</pubDate>
-<description>Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 price, it’s easier than ever to recommend. KPop Demon Hunters (4K Blu-ray) Where to Buy: $49.95 $24.99 at Amazon $49.95 $24.99 at Barnes &amp; Noble The Criterion Collection version of the film recently launched, and comes with a bunch of extras in a gorgeous set. In addition to the 4K digital master, complete with Dolby Vision HDR and Dolby Atmos sound, you also get two standard 1080p Blu-rays, one containing the film, and the other packed with special features (a full feature-length animatic, a making-of documentary, lyric videos, and more). It includes physical goodies, too, like collectible postcards, as well as an essay by Polygon alum Karen Han. Kpop Demon Hunters was on my list of physical movies to buy, and this deal just turned it into a must-buy ahead of the holiday season. Update, 4:50PM ET, November 6th: Previously, this deal was available for in-store pickup at Barnes and Noble, but it’s currently available online at both Barnes and Noble and Amazon.</description>
-<dc:creator>Cameron Faulkner</dc:creator>
-<content:encoded>Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 price, it’s easier than ever to recommend. KPop Demon Hunters (4K Blu-ray) Where to Buy: $49.95 $24.99 at Amazon $49.95 $24.99 at Barnes &amp; Noble The Criterion Collection version of the film recently launched, and comes with a bunch of extras in a gorgeous set. In addition to the 4K digital master, complete with Dolby Vision HDR and Dolby Atmos sound, you also get two standard 1080p Blu-rays, one containing the film, and the other packed with special features (a full feature-length animatic, a making-of documentary, lyric videos, and more). It includes physical goodies, too, like collectible postcards, as well as an essay by Polygon alum Karen Han. Kpop Demon Hunters was on my list of physical movies to buy, and this deal just turned it into a must-buy ahead of the holiday season. Update, 4:50PM ET, November 6th: Previously, this deal was available for in-store pickup at Barnes and Noble, but it’s currently available online at both Barnes and Noble and Amazon.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.01_04_39_22.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.01_04_39_22.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Agents reveal secrets when offered to team up with each other</title>
@@ -745,19 +862,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>All the latest updates on AI data centers</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
-<guid isPermaLink="false">f8fe21ba7f368ed10ce0a3c0e1659178f895d9eae8a89112274a09de130c90c2</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 20:02:22 +0000</pubDate>
-<description>Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms , and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely with local communities and cover their data center energy costs. But following the election, Democratic leaders are calling for further data center restrictions and slowdowns that the AI companies will have to grapple with. From audacious plans about data centers into space , heated local battles over buildouts , and potential environmental impacts , here’s The Verge ’s news, coverage, and reporting surrounding data centers and the companies that are building them. Lame-duck Congress might actually do something: speed up energy projects “We are a data center first company,” AMD CEO Lisa Su says. OpenAI is stepping back from NDAs for data center projects This week in the big AI data center buildout. Data centers lost the midterms Maine Republican Susan Collins concedes Senate seat in a tech-fueled race. Democrat projected to win Ohio seat that Republicans warned could spell trouble for data centers. Data center-dense Texas turns blue. OpenAI is quietly renaming data centers ‘compute campuses’ OpenAI pitches data center power plants as a way to protect nearby areas Could data center backlash flip Florida? Prop 45 in California could be hiding a loophole for data centers Maine’s data center revolt will decide who controls the Senate Data centers could send US climate pollution skyrocketing AI has come for Arizona’s water This week in the big AI data center buildout. Voters in Texas agree: They hate data centers Highway robbers are targeting trucks carrying data center components. Data center backlash is uniting America Anthropic is burning gas to feed the AI boom It’s a good time to sell gray paint. Data centers could erase decades of air quality gains This week in the big AI data center buildout. Trump says paying communities a “dividend” could make data centers more popular. Texas is still permitting data centers despite a supposed statewide moratorium. The fossil fuel comeback is here Microsoft abandons the UK’s largest data center project. Amazon is funding a new nuclear plant in Indiana You’ve got to hear both sides? Neocloud CoreWeave’s bonds are distressed, and so am I. This week in the big AI data center buildout. A bipartisan bill aims to hold data centers accountable for their energy use. This week in the big AI data center buildout. Google’s power-hungry data centers crave nuclear energy A Japanese real estate company is building a data center in an underground tunnel. If a data center is camouflaged in the woods, will anyone hate it? Amazon writes</description>
-<dc:creator>Justine Calma</dc:creator>
-<content:encoded>Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms , and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely with local communities and cover their data center energy costs. But following the election, Democratic leaders are calling for further data center restrictions and slowdowns that the AI companies will have to grapple with. From audacious plans about data centers into space , heated local battles over buildouts , and potential environmental impacts , here’s The Verge ’s news, coverage, and reporting surrounding data centers and the companies that are building them. Lame-duck Congress might actually do something: speed up energy projects “We are a data center first company,” AMD CEO Lisa Su says. OpenAI is stepping back from NDAs for data center projects This week in the big AI data center buildout. Data centers lost the midterms Maine Republican Susan Collins concedes Senate seat in a tech-fueled race. Democrat projected to win Ohio seat that Republicans warned could spell trouble for data centers. Data center-dense Texas turns blue. OpenAI is quietly renaming data centers ‘compute campuses’ OpenAI pitches data center power plants as a way to protect nearby areas Could data center backlash flip Florida? Prop 45 in California could be hiding a loophole for data centers Maine’s data center revolt will decide who controls the Senate Data centers could send US climate pollution skyrocketing AI has come for Arizona’s water This week in the big AI data center buildout. Voters in Texas agree: They hate data centers Highway robbers are targeting trucks carrying data center components. Data center backlash is uniting America Anthropic is burning gas to feed the AI boom It’s a good time to sell gray paint. Data centers could erase decades of air quality gains This week in the big AI data center buildout. Trump says paying communities a “dividend” could make data centers more popular. Texas is still permitting data centers despite a supposed statewide moratorium. The fossil fuel comeback is here Microsoft abandons the UK’s largest data center project. Amazon is funding a new nuclear plant in Indiana You’ve got to hear both sides? Neocloud CoreWeave’s bonds are distressed, and so am I. This week in the big AI data center buildout. A bipartisan bill aims to hold data centers accountable for their energy use. This week in the big AI data center buildout. Google’s power-hungry data centers crave nuclear energy A Japanese real estate company is building a data center in an underground tunnel. If a data center is camouflaged in the woods, will anyone hate it? Amazon writes scary blog warning communities not to block data centers The People of Utah vs. Kevin O’Leary South Park has a data center infestation. This week in the big AI data center buildout. Trump: “You’re going to see — data centers are going to be very popular.” Google is sending an AI satellite into space next week Data centers are black boxes, but California wants to change that Americans sour even more on data centers. California tightens rules on AI data center energy and water use Virginia governor creates an AI task force and moves to restrain data centers The AI data center e-waste problem is huge — and getting bigger This week in the big AI data center buildout. AI and data centers are incredibly unpopular in every poll This week in the big AI data center buildout. Is this the future of America? A Microsoft-backed data center has reportedly been running on unpermitted generators. Trump’s EPA wants to let data centers hide their air pollution This week in the big AI data center buildout. Now OpenAI’s former head of data centers is out. There’s a surge of new gas projects being built to power data centers in the US. The latest turn in the data center debate. This week in the big AI data center buildout. Nvidia guarantees up to $105 billion to support an OpenAI data center. This week in the big AI data center buildout. An Amazon data center could have the worst polluting power plant in the country The left and right agree on one thing: no data centers This week in the big AI data center buildout. AMD’s data center business is booming while gaming takes a backseat At least 37 people have reportedly been arrested for protesting data centers. Texas says data centers must pass an audit before connecting to the grid This week in the big AI data center buildout. Willie Nelson is pushing back against data centers in his hometown. Meta and BlackRock are building a data center campus together. The right-wing boomers protesting data centers have a lot in common with the left Utility companies promise to spare us from AI’s energy bill Meta reportedly considers leasing computing power to Anthropic. This week in the big AI data center buildout. AI’s power bill is here. New York becomes the first state to enact a data center moratorium The fight against AI data centers is just beginning Would you host part of an AI data center in your home? This week in the big AI data center buildout. Anthropic signs 20-year lease agreement for an AI data center in Kentucky. This week in the big AI data center buildout. Meta might launch its own cloud computing business. This week in the big AI data center buildout. Nvidia says its AI data center design runs hotter to use a lot less water Amazon employees say they’re facing termination for backing data center limits This week in the big AI data center buildout. xAI’s gas-powered data center is necessary for national security, DOJ argues. SpaceX reportedly rented out Colossus 1 AI data center after it ran into latency issues. Amazon’s data centers used 2.5 billion gallons of water last year This week in the big AI data center buildout. GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech Amazon employees ask Seattle to put the brakes on new data centers The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center New York lawmakers pass one-year ban on new data centers Kevin O’Leary agrees to downsize massive Utah data center This week in the big AI data center buildout. AI has a water problem — Google thinks it has a fix This week in the big AI data center buildout. Erin Brockovich created a map of data centers in the US. Anthropic is paying $15 billion a year for access to Elon Musk’s data centers What’s your score on the WSJ’s data center quiz? This week in the big AI data center buildout. The biggest data center ever is becoming a huge problem in Utah Use this map to find the data centers in your backyard Americans do not want AI data centers in their backyards This week in the big AI data center buildout. Data centers are coming for rural America Google may work with SpaceX to launch data centers into space. 43 percent of Americans blame data centers as a major reason for rising power bills. A 40,000-acre data center project was just approved in Utah, despite outcry from the community. A political battleground is forming around data centers. Are AI data centers coming to your area? Data centers will soon have to complete “mandatory” energy usage surveys. “A data center should not be a potential death sentence for a community’s health.” Iran threatens OpenAI’s Stargate data center in Abu Dhabi Senators are pushing to find out how much electricity data centers actually use Arm’s first CPU ever will plug into Meta’s AI data centers later this year Lake Tahoe has to look for a new power source as data center deman</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Developer ends lucrative screensaver deal with Roku because Fox bought it</title>
 <link>https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition</link>
 <guid isPermaLink="false">763737fd459b2c8c38a51e7d935c1e3f0adb47887e1e3ce33406da30cb56af3a</guid>
@@ -769,32 +873,6 @@
 <content:encoded>Some Roku OS users have been sad to learn that their favorite screensaver will no longer be available as of December 1. This week, affected users reported receiving an alert on their device that they will not be able to use the “Aquatic Life” screensaver after this month, as first reported by Cord Cutters News . The screensaver has been an option for Roku OS users for 10 years. Roku has been licensing the animation, which is called the Marine Aquarium , from artist Jim Sachs through Prolific Publishing. Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Shure’s popular podcasting and streaming mic is almost $50 off</title>
-<link>https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale</link>
-<guid isPermaLink="false">5f3f5f973e436c6f6b0b4b2f49dece88cf8bac51ef76b823e6fecec390530a6f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 19:47:02 +0000</pubDate>
-<description>Shure’s MV7 Plus is a popular podcasting and streaming mic. | Image: Shure While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon , Guitar Center , and directly from Shure . That’s almost $50 lower than its usual price, and just a few dollars off Amazon’s all-time low. If you don’t already have a stand, both Amazon and Shure are offering a bundle that includes the mic and a desktop stand for $269, and the white model is also discounted at Amazon . Shure MV7 Plus Shure’s MV7 Plus is an updated version of its popular USB microphone. The new version features a USB-C port, a customizable LED light panel, and several additional features available in the Motiv Mix app. Where to Buy: $299 $255 at Amazon $299 $255 at Shure $299 $255 at Guitar Center When our team shared some of our favorite audio gear in late 2024 , we noted that the Mv7 Plus was the mic we send to podcast guests for remote interviews. It’s known for its crisp and clean audio quality, with auto-leveling and denoising, so you can use it without touching an equalizer. The MV7’s unique shape and sonic profile is inspired by the Shure SM7B ( also discounted ), a microphone that’s often used in professional recording. This version is meant as a more budget-friendly variant for content creators looking for a simpler setup, with both an XLR output and USB-C, letting you wire into an audio interface or directly to a computer.</description>
-<dc:creator>Brad Bourque</dc:creator>
-<content:encoded>Shure’s MV7 Plus is a popular podcasting and streaming mic. | Image: Shure While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon , Guitar Center , and directly from Shure . That’s almost $50 lower than its usual price, and just a few dollars off Amazon’s all-time low. If you don’t already have a stand, both Amazon and Shure are offering a bundle that includes the mic and a desktop stand for $269, and the white model is also discounted at Amazon . Shure MV7 Plus Shure’s MV7 Plus is an updated version of its popular USB microphone. The new version features a USB-C port, a customizable LED light panel, and several additional features available in the Motiv Mix app. Where to Buy: $299 $255 at Amazon $299 $255 at Shure $299 $255 at Guitar Center When our team shared some of our favorite audio gear in late 2024 , we noted that the Mv7 Plus was the mic we send to podcast guests for remote interviews. It’s known for its crisp and clean audio quality, with auto-leveling and denoising, so you can use it without touching an equalizer. The MV7’s unique shape and sonic profile is inspired by the Shure SM7B ( also discounted ), a microphone that’s often used in professional recording. This version is meant as a more budget-friendly variant for content creators looking for a simpler setup, with both an XLR output and USB-C, letting you wire into an audio interface or directly to a computer.</content:encoded>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shure-mv7-plus-breakout.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shure-mv7-plus-breakout.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Google's eyewear partners can't keep a lid on its smart glasses plans</title>
-<link>https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans</link>
-<guid isPermaLink="false">7b6c0f60703cba858d6d49adc2a41890dd47e009d4007b1c68708af54fcf0292</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 19:45:23 +0000</pubDate>
-<description>Gentle Monster shared that its "Intelligent Eyewear" will be available to pre-order on November 12.</description>
-<dc:creator>staff@engadget.com (Ian Carlos Campbell)</dc:creator>
-<content:encoded>Gentle Monster shared that its "Intelligent Eyewear" will be available to pre-order on November 12.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/l-intro-1793994268.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/l-intro-1793994268.jpg" medium="image"/>
 </item>
 <item>
 <title>FAA to finally ditch floppy disks in what it calls "historic" tech upgrade</title>
@@ -940,45 +1018,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Fox wraps up its $22 billion Roku deal</title>
-<link>https://www.engadget.com/2309307/fox-wraps-up-its-dollar22-billion-roku-deal</link>
-<guid isPermaLink="false">a0ef22d853a7e9f7e7120387ae4381d79de4b8bfdffacc574753df9235ae7dc0</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 17:20:32 +0000</pubDate>
-<description>No Hannity on your home screen, at least for now.</description>
-<dc:creator>staff@engadget.com (Will Shanklin)</dc:creator>
-<content:encoded>No Hannity on your home screen, at least for now.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/fox-wraps-up-its-22-billion-roku-deal/l-intro-1793985540.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fox-wraps-up-its-22-billion-roku-deal/l-intro-1793985540.jpg" medium="image"/>
-</item>
-<item>
-<title>The EU accuses TikTok's 'rabbit hole' algorithm of breaching its content rules</title>
-<link>https://www.engadget.com/2309300/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules</link>
-<guid isPermaLink="false">531a4c7cd4138ae7bdb654f1f0d633ae65ad06e1e317a73b99db432f12e934c1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 17:17:14 +0000</pubDate>
-<description>The bloc said the platform needs to change how the For You page works to help protect users' mental health.</description>
-<dc:creator>staff@engadget.com (Kris Holt)</dc:creator>
-<content:encoded>The bloc said the platform needs to change how the For You page works to help protect users' mental health.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules/l-intro-1793985365.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules/l-intro-1793985365.jpg" medium="image"/>
-</item>
-<item>
-<title>You'll soon be able to text Alexa to shop on Amazon</title>
-<link>https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon</link>
-<guid isPermaLink="false">31a9be451fbe1bf2f58200b87a3ce7e1a6f60bc760a471f458b9ad865c55c5fa</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 17:11:10 +0000</pubDate>
-<description>The latest Alexa for shopping feature is initially available by invite in the US.</description>
-<dc:creator>staff@engadget.com (Matt Tate)</dc:creator>
-<content:encoded>The latest Alexa for shopping feature is initially available by invite in the US.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/l-intro-1793985022.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/l-intro-1793985022.jpg" medium="image"/>
-</item>
-<item>
 <title>Thinking Machines’ new model takes the lead in western open-weight AI</title>
 <link>https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight</link>
 <guid isPermaLink="false">88e5477171643a520255936cc0bedbba01b18fd75932907d9312375b959d5b35</guid>
@@ -1031,19 +1070,6 @@
 <media:content url="https://image.theregister.com/?imageId=5308191&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>DOJ just launched something called the Super Intelligence Task Force</title>
-<link>https://www.engadget.com/2309257/doj-just-launched-something-called-the-super-intelligence-task-force</link>
-<guid isPermaLink="false">3db05769bae1f4f293a13672ce27d7719963f2d9ac5c5cb6516014de9028ff99</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 16:56:52 +0000</pubDate>
-<description>The unit is tasked with ensuring that the technology is not "manipulated by bad actors at home or abroad."</description>
-<dc:creator>staff@engadget.com (Lawrence Bonk)</dc:creator>
-<content:encoded>The unit is tasked with ensuring that the technology is not "manipulated by bad actors at home or abroad."</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/doj-just-launched-something-called-the-super-intelligence-task-force/l-intro-1793984119.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/doj-just-launched-something-called-the-super-intelligence-task-force/l-intro-1793984119.jpg" medium="image"/>
-</item>
-<item>
 <title>RIP to the world’s ugliest car</title>
 <link>https://www.theregister.com/offbeat/2026/11/06/rip-to-the-worlds-ugliest-car/5308198</link>
 <guid isPermaLink="false">14cf281835c28c3dec35f095efe13098e2258ff01e3253377d72ba043ffb01c7</guid>
@@ -1083,19 +1109,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Eufy's clever outdoor security camera that lives inside is now available to buy</title>
-<link>https://www.engadget.com/2309176/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy</link>
-<guid isPermaLink="false">b07d5443f29b1ff63951cf4243d5c73e828702948c0eb8d2d3389f53de59f210</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 16:16:20 +0000</pubDate>
-<description>The $80 Window Camera E10 sticks to your window, pointed outwards.</description>
-<dc:creator>staff@engadget.com (Matt Tate)</dc:creator>
-<content:encoded>The $80 Window Camera E10 sticks to your window, pointed outwards.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/l-intro-1793981717.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/l-intro-1793981717.jpg" medium="image"/>
-</item>
-<item>
 <title>AI Companies Really, Really Want to Buy Your Work Files and Emails</title>
 <link>https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails</link>
 <guid isPermaLink="false">ab976e70bde961f741774f19f54967f5987dd08fab8edcfad78f58722976d1d4</guid>
@@ -1133,19 +1146,6 @@
 <content:encoded>The US Department of Justice (DoJ) says its Super Intelligence Task Force (SINTF) is now up and running, after president Donald Trump ordered the move in a memo last month. Headed up by director of national intelligence Jay Clayton, as well as associate attorney general Stanley Woodward and associate deputy attorney general Stephen Weiss, SINTF's responsibility is to protect the US's lead in artificial intelligence development. Thursday's announcement, which was littered with the " super intelligence " Trumpism, said the task force will ensure the US's SI/AI leadership remains uncompromised by foreign AI "abuse," including by state and state-backed groups, criminal enterprises, individuals, or corporate entities. Per Trump's October 13 memo [PDF], SITF will take "affirmative measures, as appropriate," to ensure the US stays ahead in AI development. It did not elaborate on what this nebulous phrase meant, but it can be reasonably assumed this means a breadth of proactive steps. The memo also stated that the task force will organize the DoJ's criminal and civil lawsuits involving AI, recommend enforcement priorities concerning public safety and AI misuse, develop prosecution guidance for unlawful AI conduct, and feed into legislative proposals to prevent "burdensome regulation." Addressing a Wall Street Journal tech conference this week, Pentagon CTO and SITF vice chair Emil Michael said the team would release details about its AI regulatory landscape later this month. The task force will also shoulder various cross-departmental responsibilities, such as "deconflicting investigations, cases, and other matters" among departments and the offices of US attorneys. According to quotes from senior officials, chief among the concerns facing ordinary US citizens are AI attacks that target individuals, as well as those that aim to disrupt critical infrastructure and other national security interests. "The creation of the DOJ-SITF marks an important moment for the Department to help advance SI technologies and, at the same time, protect American innovation," said Weiss. "The Department also has a responsibility to utilize law enforcement tools at our disposal to deter improper use of SI, harden regular reporting on SI risk and response, and ensure companies exercise vigorous internal controls so that SI technology behaves as intended. The Department is committed to protecting all Americans and our business interests." Trump compelled the US to start using the term "super intelligence" in September, claiming "artificial intelligence," the widely used and original term coined in the mid-1950s, was a better descriptor for the technology's capabilities. The US government's dedicated website for SI states that "America is in a race for Super Intelligence. We intend to win it." It also highlights a number of initiatives the government has taken to promote its AI supremacy, including legal guidance to streamline federal approvals, leading to more data centers being built. The pivot toward renaming the technology in all official capacities raised confusion at the time. A somewhat contradictory move, the Trump administration heavily promotes its own AI innovators, but in one swoop essentially antiquated the trading name of arguably its most recognizable AI lab, OpenAI. One financier previously floated the idea that Trump ordered the shift to boost the value of .si domain names , many of which have recently been registered using MAGA-related terms and resold for millions of dollars. There is no categorical evidence that the investments are linked to the Trump family, however. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5308118&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5308118&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>A Stranger Things prequel series is coming to Netflix in 2028</title>
-<link>https://www.engadget.com/2309062/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028</link>
-<guid isPermaLink="false">64472ce0fb37a497dba52a6e90eb9e8ef889f16955d42afe127c77f72529081d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 15:09:52 +0000</pubDate>
-<description>Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s.</description>
-<dc:creator>staff@engadget.com (Kris Holt)</dc:creator>
-<content:encoded>Other Worlds: A Stranger Things Adventure takes place in Nevada in the 1950s.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/l-intro-1793977602.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/a-stranger-things-prequel-series-is-coming-to-netflix-in-2028/l-intro-1793977602.jpg" medium="image"/>
 </item>
 <item>
 <title>The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens</title>
