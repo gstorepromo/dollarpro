@@ -4,6 +4,58 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The Best Early Black Friday MacBook Air Deal: $200 Off</title>
+<link>https://www.wired.com/story/early-black-friday-macbook-air-deal</link>
+<guid isPermaLink="false">1f7e6846b8443f4b41dd9f16937309428ac0cd245dc483ec6797f4c8d599bb8f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 02:33:02 +0000</pubDate>
+<description>The holiday is still two weeks out, but this MacBook Air discount may be the must-buy laptop deal of the season.</description>
+<dc:creator>Luke Larsen</dc:creator>
+<content:encoded>The holiday is still two weeks out, but this MacBook Air discount may be the must-buy laptop deal of the season.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6af51c9e7a2daea6b751d279/master/pass/Take-$200-Off-the-MacBook-Air-With-This-Early-Black-Friday-Deal.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af51c9e7a2daea6b751d279/master/pass/Take-$200-Off-the-MacBook-Air-With-This-Early-Black-Friday-Deal.jpg" medium="image"/>
+</item>
+<item>
+<title>Walking Pad Deals to Shop Ahead of Black Friday (2026)</title>
+<link>https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26</link>
+<guid isPermaLink="false">770d9bc6aa9243666644ea97443da836774fa515663ae4644dbfeb5c9345d928</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 01:53:24 +0000</pubDate>
+<description>Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are already marked down.</description>
+<dc:creator>Boutayna Chokrane</dc:creator>
+<content:encoded>Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are already marked down.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6af51ba69181a13e281c8875/master/pass/The-Best-Early-Black-Friday-Walking-Pad-Deals-Are-Already-Here.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af51ba69181a13e281c8875/master/pass/The-Best-Early-Black-Friday-Walking-Pad-Deals-Are-Already-Here.jpg" medium="image"/>
+</item>
+<item>
+<title>Russian cloud Yandex says drone attacks on its datacenters caused data loss</title>
+<link>https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234</link>
+<guid isPermaLink="false">87800d9dfbf8d4a6f43781e2626503ea10f97fda708e15444c7d99ead5dcbde9</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 01:10:24 +0000</pubDate>
+<description>Russian cloud operator Yandex has admitted to data loss after a drone attack on one of its datacenters. The attack, which Ukrainian press said was ordered by Kyiv, happened in early October and caused a fire and subsequent outage at Yandex’s ru-central1-b availability zone. Subsequent strikes targeted more Yandex datacenters and disrupted more of the company’s cloud and payment services. On Tuesday, Yandex posted an update on its recovery efforts, which it spun as something of a triumph because it restored over 97 percent of customer data. Of course that also means the company lost 2.84 percent of customer data, which it blamed on “critical hardware damage and a lack of backups on the platform.” It’s unclear if Yandex’s use of the phrase “on the platform” indicates it doesn’t keep backups of its own cloud, if whatever resilience techniques it employs don’t create multiple copies of customer data, or if clients didn’t protect their data. Whatever happened, Yandex has decided to enable backups by default for all VMs customers create in its cloud. That decision will mean customers will consume and pay for more Yandex resources, unless they opt out of the automated backups. Given that drones damaged three Yandex locations, and the war with Ukraine continues, users have good reasons to consider alternatives to its services. Indeed, Yandex’s announcement of its recovery efforts links to a page extolling the virtues of a hybrid cloud when devising data protection strategies. That page also mentions Yandex’s own Stackland product, which brings its stack on-prem, as an example of a hybrid approach. On Wednesday the company also launched a new availability zone named ru-central1-f. Yandex didn’t say where it’s located, other than to say it’s in “a new location.” Interestingly, Yandex has imposed quotas that limit the amount of resources users can access in the new availability zone and says it can’t yet handle traffic to private endpoints at the new facility. Many nations have imposed sanctions that restrict sales of technology products to Russia. It’s therefore unsurprising that Yandex might struggle to provision enough infrastructure to allow untrammeled access to a new availability zone. ®</description>
+<dc:creator>Simon Sharwood</dc:creator>
+<content:encoded>Russian cloud operator Yandex has admitted to data loss after a drone attack on one of its datacenters. The attack, which Ukrainian press said was ordered by Kyiv, happened in early October and caused a fire and subsequent outage at Yandex’s ru-central1-b availability zone. Subsequent strikes targeted more Yandex datacenters and disrupted more of the company’s cloud and payment services. On Tuesday, Yandex posted an update on its recovery efforts, which it spun as something of a triumph because it restored over 97 percent of customer data. Of course that also means the company lost 2.84 percent of customer data, which it blamed on “critical hardware damage and a lack of backups on the platform.” It’s unclear if Yandex’s use of the phrase “on the platform” indicates it doesn’t keep backups of its own cloud, if whatever resilience techniques it employs don’t create multiple copies of customer data, or if clients didn’t protect their data. Whatever happened, Yandex has decided to enable backups by default for all VMs customers create in its cloud. That decision will mean customers will consume and pay for more Yandex resources, unless they opt out of the automated backups. Given that drones damaged three Yandex locations, and the war with Ukraine continues, users have good reasons to consider alternatives to its services. Indeed, Yandex’s announcement of its recovery efforts links to a page extolling the virtues of a hybrid cloud when devising data protection strategies. That page also mentions Yandex’s own Stackland product, which brings its stack on-prem, as an example of a hybrid approach. On Wednesday the company also launched a new availability zone named ru-central1-f. Yandex didn’t say where it’s located, other than to say it’s in “a new location.” Interestingly, Yandex has imposed quotas that limit the amount of resources users can access in the new availability zone and says it can’t yet handle traffic to private endpoints at the new facility. Many nations have imposed sanctions that restrict sales of technology products to Russia. It’s therefore unsurprising that Yandex might struggle to provision enough infrastructure to allow untrammeled access to a new availability zone. ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=5309241&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5309241&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>CEO Jensen Huang's job is suddenly on the line at Nvidia</title>
+<link>https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia</link>
+<guid isPermaLink="false">57364581a5052ad006a2bc2979636e995e785890dd3671be7913c30607d7e524</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 23:10:17 +0000</pubDate>
+<description>Nvidia’s board is set to decide the future of its founder Jensen Huang after revelations that he had a romantic relationship with a company executive, days after it emerged that he had an affair with a suspected Chinese spy. The board held urgent talks on Wednesday night after news broke of the Nvidia chief executive’s relationship with Kimberly Powell, the chipmaker’s vice-president of healthcare, according to people familiar with the matter. The relationship with an Nvidia employee deepens an already damaging scandal for the $4.2 trillion semiconductor group. Huang on Sunday admitted to having an affair, two days after the FT reported his romantic links to an executive at an Nvidia client, who US officials believe is a Chinese intelligence asset. Read full article Comments</description>
+<dc:creator>Demetri Sevastopulo, Financial Times</dc:creator>
+<content:encoded>Nvidia’s board is set to decide the future of its founder Jensen Huang after revelations that he had a romantic relationship with a company executive, days after it emerged that he had an affair with a suspected Chinese spy. The board held urgent talks on Wednesday night after news broke of the Nvidia chief executive’s relationship with Kimberly Powell, the chipmaker’s vice-president of healthcare, according to people familiar with the matter. The relationship with an Nvidia employee deepens an already damaging scandal for the $4.2 trillion semiconductor group. Huang on Sunday admitted to having an affair, two days after the FT reported his romantic links to an executive at an Nvidia client, who US officials believe is a Chinese intelligence asset. Read full article Comments</content:encoded>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" medium="image"/>
+</item>
+<item>
 <title>New York is forcing T-Mobile to stop putting data caps on low-income home internet plans</title>
 <link>https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans</link>
 <guid isPermaLink="false">c0be713c66472f0b10e715cc25c9255d7c22fd51a3314712aec0eef681f346ac</guid>
@@ -23,9 +75,9 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
-<description>The Aux-2 can be many things. Even a hat for your amp! | Photo: Nathan Edwards / The Verge Nabu Casa - the commercial side of the Open Home Foundation , which runs Home Assistant - just launched the Home Assistant Connect Aux-2 , a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly . And it's working. I've been testing the Aux-2 for a couple days and I've found it unsurprisingly useful and surprisingly easy to set up. The Aux-2 is a $69 box about the size of a deck of cards. It has 2.4GHz Wi-Fi, Bluetooth, Ethernet, USB-A, USB-C, a digital/analog audio jack, a Grove port for interfacing with peripherals like sensors, buttons, and … Read the full story at The Verge.</description>
+<description>The Aux-2 can be many things. Even a hat for your amp! | Photo: Nathan Edwards / The Verge Nabu Casa - the commercial side of the Open Home Foundation , which runs Home Assistant - just launched the Home Assistant Connect Aux-2 , a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly . And it's working. I've been testing the Aux-2 for a couple days and I've found it unsurprisingly useful and surprisingly easy to set up. The Aux-2 is a $69 box about the size of a deck of cards. It has 2.4GHz Wi-Fi, Bluetooth, Ethernet, USB-A, USB-C, a digital/analog audio jack, a Grove port for interfacing with peripherals like sensors, bu … Read the full story at The Verge.</description>
 <dc:creator>Nathan Edwards</dc:creator>
-<content:encoded>The Aux-2 can be many things. Even a hat for your amp! | Photo: Nathan Edwards / The Verge Nabu Casa - the commercial side of the Open Home Foundation , which runs Home Assistant - just launched the Home Assistant Connect Aux-2 , a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly . And it's working. I've been testing the Aux-2 for a couple days and I've found it unsurprisingly useful and surprisingly easy to set up. The Aux-2 is a $69 box about the size of a deck of cards. It has 2.4GHz Wi-Fi, Bluetooth, Ethernet, USB-A, USB-C, a digital/analog audio jack, a Grove port for interfacing with peripherals like sensors, buttons, and … Read the full story at The Verge.</content:encoded>
+<content:encoded>The Aux-2 can be many things. Even a hat for your amp! | Photo: Nathan Edwards / The Verge Nabu Casa - the commercial side of the Open Home Foundation , which runs Home Assistant - just launched the Home Assistant Connect Aux-2 , a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly . And it's working. I've been testing the Aux-2 for a couple days and I've found it unsurprisingly useful and surprisingly easy to set up. The Aux-2 is a $69 box about the size of a deck of cards. It has 2.4GHz Wi-Fi, Bluetooth, Ethernet, USB-A, USB-C, a digital/analog audio jack, a Grove port for interfacing with peripherals like sensors, bu … Read the full story at The Verge.</content:encoded>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -1304,9 +1356,9 @@
 <media:content url="https://media.wired.com/photos/6af39cc2b435cf5927e355e7/master/pass/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg" medium="image"/>
 </item>
 <item>
-<title>November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far</title>
-<link>https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946</link>
-<guid isPermaLink="false">cc35f0764c7eeee39117e4767ea3d88469519c3358d85be76456eb9ee443cf92</guid>
+<title>November Patch Tuesday boasts over 1,000 bugs, one already under attack</title>
+<link>https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-one-already-under-attack/5308946</link>
+<guid isPermaLink="false">0294f744fc7b189ed0ff34c8d8cb2f0ee88dbc7c96ed34c6a4b5fe231b00757c</guid>
 <source>The Register</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 22:37:01 +0000</pubDate>
@@ -1512,19 +1564,6 @@
 <media:content url="https://i.guim.co.uk/img/media/3485bd630744777adf8bb553b08a61e0182f1eda/485_101_2808_2247/master/2808.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d9f6bf27d086f4183d1aa4b8659a7df" medium="image"/>
 </item>
 <item>
-<title>Steam Deck performance gets a reality check with Valve's new FPS data</title>
-<link>https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data</link>
-<guid isPermaLink="false">cb4a4c3d3113105c77d02723f9da973e4aa1e326979c55cb6ffdcfb38f6a6c09</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:26:44 +0000</pubDate>
-<description>Since Valve announced its Steam Deck Verified program in 2021 , players have found that a game's "Verified" status doesn't always match how well it actually runs on the handheld. Now, new Steam Deck frame rate data being shared by Valve itself can help players dig deeper into the performance they can expect from many Steam Deck games. Valve has been collecting anonymized frame rate data from Steam players who opt in since February . Yesterday evening, the company announced it has started sharing that data on many Steam Store pages as averages and histograms for both the Steam Deck and Steam Deck OLED. Valve acknowledges that players enabling VSync or frame rate limits can bias the collected data somewhat and that the measurements don't account for custom in-game settings that Steam Deck users may tinker with to get a game running. Regardless, Valve says it has nonetheless "found that the framerate data consolidates around relatively narrow ranges." Read full article Comments</description>
-<dc:creator>Kyle Orland</dc:creator>
-<content:encoded>Since Valve announced its Steam Deck Verified program in 2021 , players have found that a game's "Verified" status doesn't always match how well it actually runs on the handheld. Now, new Steam Deck frame rate data being shared by Valve itself can help players dig deeper into the performance they can expect from many Steam Deck games. Valve has been collecting anonymized frame rate data from Steam players who opt in since February . Yesterday evening, the company announced it has started sharing that data on many Steam Store pages as averages and histograms for both the Steam Deck and Steam Deck OLED. Valve acknowledges that players enabling VSync or frame rate limits can bias the collected data somewhat and that the measurements don't account for custom in-game settings that Steam Deck users may tinker with to get a game running. Regardless, Valve says it has nonetheless "found that the framerate data consolidates around relatively narrow ranges." Read full article Comments</content:encoded>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg" medium="image"/>
-</item>
-<item>
 <title>AMD winds up Zen 6 cores for faster clock speeds</title>
 <link>https://www.theregister.com/systems/2026/11/10/amd-winds-up-zen-6-cores-for-faster-clock-speeds/5308603</link>
 <guid isPermaLink="false">e5d103d7c2b20a1f3e4328c6ea0c6988b7919091d0671170e2d2056a27998523</guid>
@@ -1720,6 +1759,19 @@
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/Libby-app-on-iPhone.jpg" medium="image"/>
 </item>
 <item>
+<title>Rocco’s Mini Mini Fridge Is Here (2026)</title>
+<link>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge</link>
+<guid isPermaLink="false">eeae3ef538b05415a2ff789bdfb3d22333677eba71d07f33a659c5218b69d4f1</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+<description>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</description>
+<dc:creator>Kat Merck</dc:creator>
+<content:encoded>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</content:encoded>
+<enclosure url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" medium="image"/>
+</item>
+<item>
 <title>4DX Movies Are Entering Their Thirsty Romance Era</title>
 <link>https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry</link>
 <guid isPermaLink="false">2823673c1363847b05a751732b0e398f999460b9b42d833cebf241e0446b659f</guid>
@@ -1744,19 +1796,6 @@
 <content:encoded>Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.</content:encoded>
 <enclosure url="https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg" medium="image"/>
-</item>
-<item>
-<title>Rocco’s Mini Mini Fridge Is Here (2026)</title>
-<link>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge</link>
-<guid isPermaLink="false">eeae3ef538b05415a2ff789bdfb3d22333677eba71d07f33a659c5218b69d4f1</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
-<description>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</description>
-<dc:creator>Kat Merck</dc:creator>
-<content:encoded>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" medium="image"/>
 </item>
 <item>
 <title>Stanford's century-long AI study admits it's already out of date</title>
@@ -2071,6 +2110,19 @@
 <media:content url="https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4bc1c8dc3414293d139b9507b77e95d" medium="image"/>
 </item>
 <item>
+<title>Office Depot Coupons: $20 Off November 2026</title>
+<link>https://www.wired.com/story/office-depot-promo-codes</link>
+<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
+</item>
+<item>
 <title>Rover Promo Codes and Referral Deals for November 2026</title>
 <link>https://www.wired.com/story/rover-promo-code</link>
 <guid isPermaLink="false">6fe16afa97879ad12ac1fcfbaeb35b06c70a2fed08d5e3c96cc11bb037efb4ed</guid>
@@ -2108,45 +2160,6 @@
 <content:encoded>Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.</content:encoded>
 <enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
-</item>
-<item>
-<title>Office Depot Coupons: $20 Off November 2026</title>
-<link>https://www.wired.com/story/office-depot-promo-codes</link>
-<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
-</item>
-<item>
-<title>Bose Promo Code: 40% Off for November 2026</title>
-<link>https://www.wired.com/story/bose-coupon-code</link>
-<guid isPermaLink="false">39a667a9d2bf80ed1c2463a02a3db72249dd8f9b282b97da25af1d78ddc8dc60</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
-<title>Valvoline Coupons and Promo Codes for November 2026</title>
-<link>https://www.wired.com/story/valvoline-coupons</link>
-<guid isPermaLink="false">81a691ff48a8e9c7069be7f347870d7970581bdfc7da8f16506c57feeae00da8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.</description>
-<dc:creator>Kat Merck</dc:creator>
-<content:encoded>We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
 </item>
 <item>
 <title>Mandatory AI safety and security protections announced after OpenAI breach of Medicare – video</title>
@@ -2225,6 +2238,19 @@
 <content:encoded>Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decision For more than 30 years, Jensen Huang has been the seemingly unshakable public face of Nvidia. He co-founded the company as a young engineer in 1993 and oversaw its growth into a multitrillion dollar chipmaker and bellwether of the AI industry at large. He’s also made it a family business. His children, Madison and Spencer, have taken leadership roles at the firm. While not a company executive, his wife, Lori Mills Huang, leads the family foundation which, as of 2024, controls over 60m Nvidia shares. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/55b2e52d9f44f9c355f1d6205d0dc7ce85b47cbe/345_0_3849_3080/master/3849.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c43d891d33ec85172cf8efa28232145" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/55b2e52d9f44f9c355f1d6205d0dc7ce85b47cbe/345_0_3849_3080/master/3849.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c43d891d33ec85172cf8efa28232145" medium="image"/>
+</item>
+<item>
+<title>The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security</title>
+<link>https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security</link>
+<guid isPermaLink="false">ecb334382b3d5b66bd57a180822df7650e66ede387f5607ab0559d7d4af5d2b4</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 20:01:05 +0000</pubDate>
+<description>Jensen Huang’s close relationship with president means Nvidia CEO’s affair with woman alleged to be working for Beijing is under intense scrutiny A hand on the back, a kiss on the cheek; the footage of Alice Huang’s interaction with Jensen Huang in a Taipei venue last year does not seem particularly remarkable at first glance. But the Nvidia chief executive’s revelation on Sunday that he had an affair with Ms Huang has given it new significance. Continue reading...</description>
+<dc:creator>Aisha Down and Dan Milmo</dc:creator>
+<content:encoded>Jensen Huang’s close relationship with president means Nvidia CEO’s affair with woman alleged to be working for Beijing is under intense scrutiny A hand on the back, a kiss on the cheek; the footage of Alice Huang’s interaction with Jensen Huang in a Taipei venue last year does not seem particularly remarkable at first glance. But the Nvidia chief executive’s revelation on Sunday that he had an affair with Ms Huang has given it new significance. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/898_0_2126_1701/master/2126.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b54d147c7ce2afb86e53877e38bfb348" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/898_0_2126_1701/master/2126.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b54d147c7ce2afb86e53877e38bfb348" medium="image"/>
 </item>
 <item>
 <title>Attackers backdoor trusted AWS integrations to steal secrets</title>
@@ -2407,32 +2433,6 @@
 <content:encoded>Toilet paper purveyor Who Gives A Crap has found itself in a bit of a mess after an intruder accessed customer information through a third-party software provider, leaving the company scrambling to clean up a breach affecting shoppers in the UK, US, and Australia. In an email sent to affected customers over the weekend, seen by The Register , the loo roll seller warns that personal information was accessed without authorization after a security incident at an unnamed US-based marketing software provider. The email explains that the intruder gained access to the supplier's systems on October 30. The provider spotted the intrusion the following day and says it secured its systems by November 1, although Who Gives A Crap wasn't told until November 6. It's unclear why the supplier sat on the bad news for another five days before passing it on. The exposed information includes customers' names, email addresses, phone numbers, mailing addresses, and total spending with the company. In other words, someone may now know not only where you live, but just how much of your hard-earned cash you've flushed down the crapper. Payment information, order details, and passwords were not involved, and customers' accounts were not directly accessed. That's something of a relief, although whether the intruder actually made off with the data remains a pressing question. "We don't yet know whether the information was copied or downloaded," the company told customers, adding that it had found no evidence of misuse. In a separate public statement , Who Gives A Crap co-founder and CEO Simon Griffiths confirmed that the incident affected customers across the company's Australian, UK, and US stores. Canadian customers, meanwhile, appear to have escaped this particular toilet emergency, with the supplier reporting that no personal information belonging to shoppers in the country was accessed. Who Gives A Crap says it has since disconnected the provider from its systems, changed access credentials, and begun warning affected customers to watch out for suspicious emails, texts, calls, and other unsolicited communications. "The main concern is scam or phishing messages that use your real details to look convincing," the company warned in its customer email. While Who Gives A Crap has been busy cleaning up, the supplier at the center of this particular stink remains a mystery. The company hasn't identified the software provider or disclosed how many customers were affected, including those in the UK, and didn’t respond to our questions. Griffiths said the company is "engaging with the relevant regulatory authorities, as required." In the UK, the ICO told The Register : "We can confirm Who Gives A Crap Limited has reported an incident and we are assessing the information provided." Who Gives A Crap has plenty of toilet paper to hand, although cleaning up this particular situation might require more than a few rolls. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5308423&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5308423&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>The AI bubble can wait, but your exit plan can't</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/09/the-ai-bubble-can-wait-but-your-exit-plan-cant/5308415</link>
-<guid isPermaLink="false">22176b649a82ac2e1dab831fb39573f2d8dc7e8cad5d150b6d1239378c5e57bd</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 14:02:00 +0000</pubDate>
-<description>The AI bubble isn't about to burst, Forrester reckons, although businesses should prepare for a correction that could upend their suppliers, contracts, and prices. Spending on infrastructure has raced ahead of measurable returns, the analyst says, yet the financial strength of the companies funding the build-out is what keep Forrester from predicting an imminent crash. "Fears that an AI bubble is about to burst are premature," said Forrester emerging technology veep Brian Hopkins. "About nine-tenths of the money building today's AI computing infrastructure comes from large, healthy technology companies paying out of their own cash flow. The risk is concentrated in a few places: a small number of builders under real financial strain, and circular financing deals with the AI labs." Conveniently, Forrester has developed an AI Bubble Model to help technology leaders monitor the risks and prepare. Its latest report, " An AI Bubble Burst Is Not Imminent ," notes what many in the IT industry, including The Register , have been saying for a while: that the hyperscale operators are committing a record share of revenue into capital expenditure to bring online more infrastructure to support AI development and use. At the same time, the boost in productivity doesn't justify this supplier capacity build-out. Forrester calculates that the infrastructure investments break even only if AI raises US GDP by 5 percent by 2035. Published estimates suggest productivity improvements could provide about two percentage points of that uplift, leaving roughly $1.3 trillion to come from other sources of value. A recent report from management consultants Bain &amp; Company came to similar conclusions, estimating the AI industry needs to generate $6 trillion in annual revenue by 2031 to keep funding all the infrastructure it needs, and this will require new uses beyond simply enhancing employee productivity. Forrester also claims that the forces making AI abundant also make parts of the market unstable, and says that enterprise users should take heed of how prices collapsed as major providers like Anthropic slashed token costs in response to competition from open source models. If demand disappoints as new capacity comes online, suppliers could cut investment, merge, change prices, or discontinue products. Customers could find themselves rebuilding AI plans around suppliers and services that no longer exist. Forrester advises businesses to track whether their AI projects deliver measurable value and limit their exposure to vulnerable suppliers – with its help, of course. Companies can judge how things are going by looking at the gap between suppliers' contracted business and revenue actually recognized, along with how they fund their build-outs. If a vendor leans more on outside investment and customer prepayments, as Oracle and CoreWeave have, this is a red flag to cut back dependencies on them, Forrester says. Enterprises should also stress-test AI plans against scenarios such</description>
-<dc:creator>Dan Robinson</dc:creator>
-<content:encoded>The AI bubble isn't about to burst, Forrester reckons, although businesses should prepare for a correction that could upend their suppliers, contracts, and prices. Spending on infrastructure has raced ahead of measurable returns, the analyst says, yet the financial strength of the companies funding the build-out is what keep Forrester from predicting an imminent crash. "Fears that an AI bubble is about to burst are premature," said Forrester emerging technology veep Brian Hopkins. "About nine-tenths of the money building today's AI computing infrastructure comes from large, healthy technology companies paying out of their own cash flow. The risk is concentrated in a few places: a small number of builders under real financial strain, and circular financing deals with the AI labs." Conveniently, Forrester has developed an AI Bubble Model to help technology leaders monitor the risks and prepare. Its latest report, " An AI Bubble Burst Is Not Imminent ," notes what many in the IT industry, including The Register , have been saying for a while: that the hyperscale operators are committing a record share of revenue into capital expenditure to bring online more infrastructure to support AI development and use. At the same time, the boost in productivity doesn't justify this supplier capacity build-out. Forrester calculates that the infrastructure investments break even only if AI raises US GDP by 5 percent by 2035. Published estimates suggest productivity improvements could provide about two percentage points of that uplift, leaving roughly $1.3 trillion to come from other sources of value. A recent report from management consultants Bain &amp; Company came to similar conclusions, estimating the AI industry needs to generate $6 trillion in annual revenue by 2031 to keep funding all the infrastructure it needs, and this will require new uses beyond simply enhancing employee productivity. Forrester also claims that the forces making AI abundant also make parts of the market unstable, and says that enterprise users should take heed of how prices collapsed as major providers like Anthropic slashed token costs in response to competition from open source models. If demand disappoints as new capacity comes online, suppliers could cut investment, merge, change prices, or discontinue products. Customers could find themselves rebuilding AI plans around suppliers and services that no longer exist. Forrester advises businesses to track whether their AI projects deliver measurable value and limit their exposure to vulnerable suppliers – with its help, of course. Companies can judge how things are going by looking at the gap between suppliers' contracted business and revenue actually recognized, along with how they fund their build-outs. If a vendor leans more on outside investment and customer prepayments, as Oracle and CoreWeave have, this is a red flag to cut back dependencies on them, Forrester says. Enterprises should also stress-test AI plans against scenarios such as a key vendor announcing end of support in 12 months, and an AI model supplier defaulting on payments to its compute vendor and cutting back service-level agreements for enterprise workloads. Companies should know in advance which AI use cases to drop, what data and workloads need to be moved, and at what cost. But Hopkins sounded a further note of caution: "Oversupply on its own won't decide whether a correction comes. Demand will, and that's the biggest unknown, because it depends on enterprises finding lasting value in AI beyond simple productivity gains." Organizations shouldn't pull back, he insists. They should keep investing where AI delivers value that can be demonstrated, closely monitor the financial health of the companies building AI computing, and be ready for corrections. Recently, the International Monetary Fund started ringing alarm bells that financial markets are increasingly exposed to an AI-driven correction that could lead to widespread economic disruption. Earlier this year, the Bank for International Settlements also raised concerns that the current situation with the AI industry bore the hallmarks of historical economic bubbles and presented a risk to global economic stability. ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=5220460&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5220460&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’</title>
-<link>https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai</link>
-<guid isPermaLink="false">c1b3a32ffab2200b4b7d11532a8153f83f7dfaec5b822f7cb7e406674afe5eaa</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 14:00:11 +0000</pubDate>
-<description>Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and administrators to restrict their use. The company said schools should have control over whether students use AI in the classroom, but that schools that choose to block Google’s AI tools will also lose access to its search engine. Continue reading...</description>
-<dc:creator>Maya Yang</dc:creator>
-<content:encoded>Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engine Parents and teachers across the US are criticizing Google’s announcement that schools choosing to block AI tools could also lose access to Google Search. Google announced last week a range of new AI tools for schools and classrooms, alongside options allowing teachers and administrators to restrict their use. The company said schools should have control over whether students use AI in the classroom, but that schools that choose to block Google’s AI tools will also lose access to its search engine. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c27aaad8c7131492c6fdf41e1e56736f" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c27aaad8c7131492c6fdf41e1e56736f" medium="image"/>
 </item>
 <item>
 <title>Crime pays: how Grand Theft Auto became a cultural colossus</title>
