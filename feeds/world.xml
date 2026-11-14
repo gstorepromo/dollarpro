@@ -4,56 +4,108 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>FAA ground stop live updates: 1,000 flights canceled, no indication a nefarious' act</title>
+<title>Microsoft says consumer products 'fully recovered', business services improving</title>
+<link>https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving</link>
+<guid isPermaLink="false">42e4ac49238fa49b12744595cca8bb51f8afe249fa82fff8dc4b7fb647976705</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 14 Nov 2026 06:07:56 +0000</pubDate>
+<description>Resolution seems in sight on Saturday following confirmation by tech giant Microsoft on Friday that services had ​fully ‌recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security chief confirmed there was 'no Microsoft link' to the US air stoppage.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>Resolution seems in sight on Saturday following confirmation by tech giant Microsoft on Friday that services had ​fully ‌recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security chief confirmed there was 'no Microsoft link' to the US air stoppage.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/847567e0-dfef-11f1-93ed-695cb59fade5/w:1024/p:16x9/AP26313848301021.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/847567e0-dfef-11f1-93ed-695cb59fade5/w:1024/p:16x9/AP26313848301021.jpg" medium="image"/>
+</item>
+<item>
+<title>Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican</title>
+<link>https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins</link>
+<guid isPermaLink="false">5e16b30c2de28f2e520180a5343f9017e27cd51e9f99a3c5c96f481cdbf16aa1</guid>
+<source>NPR News</source>
+<category>world</category>
+<pubDate>Sat, 14 Nov 2026 05:12:43 +0000</pubDate>
+<description>Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history. (Image credit: Eric Stone)</description>
+<dc:creator>Eric Stone</dc:creator>
+<content:encoded>Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history. (Image credit: Eric Stone)</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1956x1500+0+0/resize/1956x1500!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2Fc8%2F33103fa7402ba264b48ddc1ee50e%2Ftomkins.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1956x1500+0+0/resize/1956x1500!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2Fc8%2F33103fa7402ba264b48ddc1ee50e%2Ftomkins.jpg" medium="image"/>
+</item>
+<item>
+<title>FAA ground stop live updates: Duffy blames 'overloaded' routers after stop lifted</title>
 <link>https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled?id=138125140</link>
 <guid isPermaLink="false">0d667934dcad9ad1257264b0b3f732b1dae1ba892fc7913e7c02f4f91c1ca791</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Fri, 13 Nov 2026 23:32:23 +0000</pubDate>
-<description>DHS Secretary Markwayne Mullin said it was due to a "telecommunications outage."</description>
+<pubDate>Sat, 14 Nov 2026 02:58:44 +0000</pubDate>
+<description>The DHS secretary said there were no indications of a cyberattack.</description>
 <dc:creator></dc:creator>
-<content:encoded>DHS Secretary Markwayne Mullin said it was due to a "telecommunications outage."</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/plane-03-rt-jt-261113_1794608335759_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/plane-03-rt-jt-261113_1794608335759_hpMain_16x9_1600.jpg" medium="image"/>
+<content:encoded>The DHS secretary said there were no indications of a cyberattack.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/plane-schedule-rt-jt-261113_1794609304473_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/plane-schedule-rt-jt-261113_1794609304473_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>White House correspondents' dinner shooting suspect charged with terrorism</title>
-<link>https://abcnews.com/Politics/man-accused-white-house-correspondents-association-dinner-shooting/story?id=138118021</link>
-<guid isPermaLink="false">bb6a7ca9aee11f9828dd707868c31ad9cbf79518041524c4aaa5baabc4520332</guid>
-<source>ABC News Top Stories</source>
+<title>FAA lifts nationwide ground stop on all US flights</title>
+<link>https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights</link>
+<guid isPermaLink="false">8fca9e8bb8359c24eaffdde42bdfab88e6762b82a28db8fe429bfa90e3e78a99</guid>
+<source>France 24</source>
 <category>world</category>
-<pubDate>Fri, 13 Nov 2026 23:16:35 +0000</pubDate>
-<description>Cole Tomas Allen is facing a new charge of terrorism.</description>
-<dc:creator></dc:creator>
-<content:encoded>Cole Tomas Allen is facing a new charge of terrorism.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/cole-allen-3-ht-gmh-260429_1777476917629_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/cole-allen-3-ht-gmh-260429_1777476917629_hpMain_16x9_1600.jpg" medium="image"/>
+<pubDate>Sat, 14 Nov 2026 02:50:21 +0000</pubDate>
+<description>The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage.</description>
+<dc:creator>FRANCE24</dc:creator>
+<content:encoded>The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/b957cd96-dfd5-11f1-857f-f71d22e7fea9/w:1024/p:16x9/EN-20261114-030158-030311-CS.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/b957cd96-dfd5-11f1-857f-f71d22e7fea9/w:1024/p:16x9/EN-20261114-030158-030311-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>FAA issues rare nationwide ground stop; no indication of 'nefarious attack'</title>
-<link>https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848</link>
-<guid isPermaLink="false">881b60ef81dafee284c7283452f41c0c8f6f6d8c04523466efb0526646752c42</guid>
+<title>Trump to meet with Putin and Xi in China next week, US officials say</title>
+<link>https://abcnews.com/Politics/trump-meet-putin-xi-china-week-us-officials/story?id=138128914</link>
+<guid isPermaLink="false">0b6d8b330e7691f6102f27feead28ba3f8ce99aaec9bf0bb4dc880af556a72b0</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Fri, 13 Nov 2026 23:11:27 +0000</pubDate>
-<description>The Federal Aviation Administration ordered a nationwide ground stop Friday for all airports due a communication issue impacting all Air Route Traffic Control Centers.</description>
+<pubDate>Sat, 14 Nov 2026 02:43:31 +0000</pubDate>
+<description>Trump will participate in the first-ever trilateral meeting between the leaders of the U.S., China, and Russia on the sidelines of the APEC Summit in China next week.</description>
 <dc:creator></dc:creator>
-<content:encoded>The Federal Aviation Administration ordered a nationwide ground stop Friday for all airports due a communication issue impacting all Air Route Traffic Control Centers.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/air-control-tower-rt-jt-261113_1794609166183_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/air-control-tower-rt-jt-261113_1794609166183_hpMain_16x9_1600.jpg" medium="image"/>
+<content:encoded>Trump will participate in the first-ever trilateral meeting between the leaders of the U.S., China, and Russia on the sidelines of the APEC Summit in China next week.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/xi-trump-putin-rt-gmh-261113_1794616739738_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/xi-trump-putin-rt-gmh-261113_1794616739738_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Lauren Boebert will lose her seat in Congress to Democrat Laubacher, AP projects</title>
-<link>https://abcnews.com/Politics/lauren-boebert-lose-seat-congress-ap-projects/story?id=138121829</link>
-<guid isPermaLink="false">38023d6a4de3384fe5826988629c57d533728df8d049bd8f18a799c15cd3984f</guid>
+<title>US flights resume after nationwide ground stop lifted</title>
+<link>https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation</link>
+<guid isPermaLink="false">ee4c7a228fe5cb216eb1503f1451af856cc005b018bd5437a54f81d928a6edbf</guid>
+<source>France 24</source>
+<category>world</category>
+<pubDate>Sat, 14 Nov 2026 02:35:48 +0000</pubDate>
+<description>The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now "opened up," and blamed "old hardware" for the travel chaos.</description>
+<dc:creator>FRANCE 24</dc:creator>
+<content:encoded>The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now "opened up," and blamed "old hardware" for the travel chaos.</content:encoded>
+<enclosure url="https://s.france24.com/media/display/de33210e-dfd2-11f1-8675-29048b396e03/w:1024/p:16x9/AP26317844187470.jpg" type="image/jpeg"/>
+<media:content url="https://s.france24.com/media/display/de33210e-dfd2-11f1-8675-29048b396e03/w:1024/p:16x9/AP26317844187470.jpg" medium="image"/>
+</item>
+<item>
+<title>LIVE: ABC News Live</title>
+<link>https://abcnews.com/video/41463246</link>
+<guid isPermaLink="false">c4dde2f9d4430a48432ef223ef2dea7731f9a2b9448e21ee003bf7e7734a1e77</guid>
 <source>ABC News Top Stories</source>
 <category>world</category>
-<pubDate>Fri, 13 Nov 2026 23:10:09 +0000</pubDate>
-<description>Colorado Republican Rep. Lauren Boebert will lose her House seat to Democratic challenger Eileen Laubacher, The Associated Press projected Friday.</description>
+<pubDate>Sat, 14 Nov 2026 02:03:10 +0000</pubDate>
+<description>24/7 coverage of breaking news and live events</description>
 <dc:creator></dc:creator>
-<content:encoded>Colorado Republican Rep. Lauren Boebert will lose her House seat to Democratic challenger Eileen Laubacher, The Associated Press projected Friday.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/Politics/Boebert-gty-er-261113_1794602878704_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/Politics/Boebert-gty-er-261113_1794602878704_hpMain_16x9_1600.jpg" medium="image"/>
+<content:encoded>24/7 coverage of breaking news and live events</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Authorities say DC gunman held long-standing feud with building management</title>
+<link>https://abcnews.com/US/authorities-dc-gunman-held-long-standing-feud-building/story?id=138109234</link>
+<guid isPermaLink="false">0fb9bfaedf334de2c6c4955ed26101ebdc9fc482ec6e7c0f56ac77a6b54d942c</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 14 Nov 2026 00:29:34 +0000</pubDate>
+<description>The 55-year-old medical doctor harbored a long-standing grievance with the building's condo association, according to court documents.</description>
+<dc:creator></dc:creator>
+<content:encoded>The 55-year-old medical doctor harbored a long-standing grievance with the building's condo association, according to court documents.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/US/dc-shooting-5-rt-gmh-261112_1794492961870_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/US/dc-shooting-5-rt-gmh-261112_1794492961870_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Sarah Huckabee Sanders receives 2028 presidential encouragement</title>
@@ -69,19 +121,6 @@
 <media:content url="https://s.abcnews.com/images/Politics/huckabee-gty-er-261113_1794601439796_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Over 30 injured after tanker collides with riverboat in New Orleans: Officials</title>
-<link>https://abcnews.com/US/vessel-collision-port-new-orleans-emergency-crews-responding/story?id=138119847</link>
-<guid isPermaLink="false">0ecae623fc15333af7869f982aa0418cb15fd73729f1db7d2d82b53c72e793e2</guid>
-<source>ABC News Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 22:21:53 +0000</pubDate>
-<description>The incident occurred Friday on the Mississippi River.</description>
-<dc:creator></dc:creator>
-<content:encoded>The incident occurred Friday on the Mississippi River.</content:encoded>
-<enclosure url="https://s.abcnews.com/images/US/new-orleans-3-ht-gmh-261113_1794600985971_hpMain_16x9_1600.jpg" type="image/jpeg"/>
-<media:content url="https://s.abcnews.com/images/US/new-orleans-3-ht-gmh-261113_1794600985971_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
 <title>GOP state officials push to revive Trump's mail voting restrictions for 2028 election</title>
 <link>https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting</link>
 <guid isPermaLink="false">37b802dc2a6ac6565946b1f8005dd3396a10d6626e0a422abdc6db746e5fcd82</guid>
@@ -95,17 +134,17 @@
 <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2511x1674+0+0/resize/2511x1674!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2F6d%2Fbb7e77884e4fb7331a20a24d8a8a%2Fap26230766602771.jpg" medium="image"/>
 </item>
 <item>
-<title>FAA issues nationwide ground stop for all U.S. airports</title>
+<title>Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'</title>
 <link>https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports</link>
 <guid isPermaLink="false">41295576871478be2940292677191889cd1cd182aeecd0dd2241e83fba2d9281</guid>
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Fri, 13 Nov 2026 21:55:13 +0000</pubDate>
-<description>The FAA has issued a nationwide ground stop for all U.S. airports following a "communication issue impacting all Air Route Traffic Control Centers," according to Transportation Secretary Sean Duffy. (Image credit: Bruce Bennett)</description>
+<description>The nationwide ground stop that paralyzed the U.S. aviation system on Friday has ended, according to Federal Aviation Administration. (Image credit: Lindsey Wasson)</description>
 <dc:creator>Joel Rose</dc:creator>
-<content:encoded>The FAA has issued a nationwide ground stop for all U.S. airports following a "communication issue impacting all Air Route Traffic Control Centers," according to Transportation Secretary Sean Duffy. (Image credit: Bruce Bennett)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2001+0+0/resize/3000x2001!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F64%2Fc84ede0346dd8c137996bd2ce9c1%2Fgettyimages-107846319.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2001+0+0/resize/3000x2001!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F64%2Fc84ede0346dd8c137996bd2ce9c1%2Fgettyimages-107846319.jpg" medium="image"/>
+<content:encoded>The nationwide ground stop that paralyzed the U.S. aviation system on Friday has ended, according to Federal Aviation Administration. (Image credit: Lindsey Wasson)</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1600+0+0/resize/2400x1600!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2Ff3%2F09af1a7941738ef8a026d81c8662%2Fap26317855858444.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1600+0+0/resize/2400x1600!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2Ff3%2F09af1a7941738ef8a026d81c8662%2Fap26317855858444.jpg" medium="image"/>
 </item>
 <item>
 <title>Gambia's Adama Barrow seeks third term</title>
@@ -231,11 +270,11 @@
 <source>NPR News</source>
 <category>world</category>
 <pubDate>Fri, 13 Nov 2026 19:02:04 +0000</pubDate>
-<description>President Trump says the "status quo" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure. (Image credit: Osamah Abdulrahman)</description>
+<description>President Trump says the "status quo" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure. (Image credit: Majid Saeedi)</description>
 <dc:creator>Aya Batrawy</dc:creator>
-<content:encoded>President Trump says the "status quo" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure. (Image credit: Osamah Abdulrahman)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Fb9%2F6cf90f6c4b56b83e0634229f9650%2Fap26315362362926.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Fb9%2F6cf90f6c4b56b83e0634229f9650%2Fap26315362362926.jpg" medium="image"/>
+<content:encoded>President Trump says the "status quo" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure. (Image credit: Majid Saeedi)</content:encoded>
+<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/3377x1900!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F75%2Ff4%2Fdda272054cc49d1d325e1fb89080%2F0eb9a283-2aff-4d96-b972-8f285cd219b7.jpg" type="image/jpeg"/>
+<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/3377x1900!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F75%2Ff4%2Fdda272054cc49d1d325e1fb89080%2F0eb9a283-2aff-4d96-b972-8f285cd219b7.jpg" medium="image"/>
 </item>
 <item>
 <title>Probation staff vote for strike action in 'serious anger' over pay and workloads</title>
@@ -498,19 +537,6 @@
 <media:content url="https://s.france24.com/media/display/ac93ac9c-df76-11f1-8215-695cb59fade5/w:1024/p:16x9/capture-8765e4ad.jpg" medium="image"/>
 </item>
 <item>
-<title>How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front</title>
-<link>https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid</link>
-<guid isPermaLink="false">715dda4d1834df6b607de2aeb7159decfaaf98dbda7a9a07ba51d367b3fb23c7</guid>
-<source>NPR News</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 15:46:35 +0000</pubDate>
-<description>He's the ranking member of the Senate Foreign Relations Subcommittee that oversees health aid and he's just announced he's running for Majority Leader. He spoke to NPR about his foreign aid vision. (Image credit: Nathan Posner/Anadolu)</description>
-<dc:creator>Jonathan Lambert</dc:creator>
-<content:encoded>He's the ranking member of the Senate Foreign Relations Subcommittee that oversees health aid and he's just announced he's running for Majority Leader. He spoke to NPR about his foreign aid vision. (Image credit: Nathan Posner/Anadolu)</content:encoded>
-<enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fa3%2F631876c94a13ba74cf0090e78406%2Fchris-van-hollen.jpg" type="image/jpeg"/>
-<media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fa3%2F631876c94a13ba74cf0090e78406%2Fchris-van-hollen.jpg" medium="image"/>
-</item>
-<item>
 <title>WATCH: Empire State Building climbers appear in court</title>
 <link>https://abcnews.com/video/138104770</link>
 <guid isPermaLink="false">8a127a8f96c9222d6f280d6fc0329159d3976d8fdfd3ed8a215f84189568db8e</guid>
@@ -548,45 +574,6 @@
 <content:encoded>Over a week after the midterm elections, the dust has settled, and we can ask: is the worst now over for American democracy?</content:encoded>
 <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-trump-us-dc_7405897.jpg?20261113151536" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-trump-us-dc_7405897.jpg?20261113151536" medium="image"/>
-</item>
-<item>
-<title>Roger Waters launches heartfelt plea for 'an end to the genocide in Gaza'</title>
-<link>https://www.france24.com/en/tv-shows/arts24/20261113-roger-waters-launches-heartfelt-plea-for-an-end-to-the-genocide-in-gaza</link>
-<guid isPermaLink="false">213ec7cfe624d181c54da27a5acd2d4605bff8593ad8c657aa10d888e96e7d51</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 14:45:00 +0000</pubDate>
-<description>Pink Floyd co-founder Roger Waters has always mixed art with activism. A long-standing supporter of the Palestinian cause, the star guitarist has now released a re-imagined version of the rock anthem "Comfortably Numb" with Palestinian American singer Mona Miari singing in Arabic. He tells FRANCE 24's Lyana Saleh why proceeds of the record are going to the Palestine Children's Relief Fund and why he can never become "Comfortably Numb" with the violence and suffering in Gaza.</description>
-<dc:creator>Lyana SALEH</dc:creator>
-<content:encoded>Pink Floyd co-founder Roger Waters has always mixed art with activism. A long-standing supporter of the Palestinian cause, the star guitarist has now released a re-imagined version of the rock anthem "Comfortably Numb" with Palestinian American singer Mona Miari singing in Arabic. He tells FRANCE 24's Lyana Saleh why proceeds of the record are going to the Palestine Children's Relief Fund and why he can never become "Comfortably Numb" with the violence and suffering in Gaza.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/c55988f8-df5a-11f1-b15d-3f371022a770/w:1024/p:16x9/capture-96a34f6a.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/c55988f8-df5a-11f1-b15d-3f371022a770/w:1024/p:16x9/capture-96a34f6a.jpg" medium="image"/>
-</item>
-<item>
-<title>'Devastated wasteland': Haitian security forces regain control of stadium from gangs</title>
-<link>https://www.france24.com/en/video/20261113-devastated-wasteland-haitian-security-forces-regain-control-of-stadium-from-gangs</link>
-<guid isPermaLink="false">b069dccdf1c707ef68479b7f4194ffd1c601f0ad6c781e34b5a6f43da9da2d08</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 14:37:07 +0000</pubDate>
-<description>Haitian security forces said they have regained control of the country's main stadium, wresting it back from the gangs that have been using it for the past two years. They were assisted by the Task Force, a private security group serving the government. The stadium is now under the guard of Salvadoran soldiers. FRANCE 24's senior reporter Catherine Norris Trent, who has covered Haiti extensively, said re-taking the stadium would be a significant step in an area of the city that had been a "devastated wasteland".</description>
-<dc:creator>FRANCE24</dc:creator>
-<content:encoded>Haitian security forces said they have regained control of the country's main stadium, wresting it back from the gangs that have been using it for the past two years. They were assisted by the Task Force, a private security group serving the government. The stadium is now under the guard of Salvadoran soldiers. FRANCE 24's senior reporter Catherine Norris Trent, who has covered Haiti extensively, said re-taking the stadium would be a significant step in an area of the city that had been a "devastated wasteland".</content:encoded>
-<enclosure url="https://s.france24.com/media/display/5666bbe6-df69-11f1-b17b-695cb59fade5/w:1024/p:16x9/capture-be5b4980.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/5666bbe6-df69-11f1-b17b-695cb59fade5/w:1024/p:16x9/capture-be5b4980.jpg" medium="image"/>
-</item>
-<item>
-<title>The truth about Douma: How Syria covered up a chemical attack</title>
-<link>https://www.france24.com/en/tv-shows/reporters/20261113-the-truth-about-douma-how-syria-covered-up-a-chemical-attack</link>
-<guid isPermaLink="false">8968af757dd658047752e52a456cd5d55b139777e1dc45fd0a563f88a7c46265</guid>
-<source>France 24</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 14:24:39 +0000</pubDate>
-<description>On April 7, 2018, the Syrian town of Douma, on the outskirts of the capital Damascus, was targeted by a chemical attack. Evidence pointed to the Syrian regime, yet proof vanished, and eyewitnesses went silent. Eight years later, FRANCE 24's Jenna Le Bras tracked down survivors and witnesses of the deadly attack. She also met representatives of some of the world's most powerful institutions to understand how a massive cover-up campaign had been orchestrated by the regime, with Russian support.</description>
-<dc:creator>Jenna LE BRAS</dc:creator>
-<content:encoded>On April 7, 2018, the Syrian town of Douma, on the outskirts of the capital Damascus, was targeted by a chemical attack. Evidence pointed to the Syrian regime, yet proof vanished, and eyewitnesses went silent. Eight years later, FRANCE 24's Jenna Le Bras tracked down survivors and witnesses of the deadly attack. She also met representatives of some of the world's most powerful institutions to understand how a massive cover-up campaign had been orchestrated by the regime, with Russian support.</content:encoded>
-<enclosure url="https://s.france24.com/media/display/6393738e-df57-11f1-9809-29048b396e03/w:1024/p:16x9/vignette-douma-mensonge-d-etat-EN-1.jpg" type="image/jpeg"/>
-<media:content url="https://s.france24.com/media/display/6393738e-df57-11f1-9809-29048b396e03/w:1024/p:16x9/vignette-douma-mensonge-d-etat-EN-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Republicans dazed by midterm election defeats grapple with what went wrong</title>
@@ -628,19 +615,6 @@
 <media:content url="https://s.abcnews.com/images/US/261113_gmafl_class_trip_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
-<title>Jeffrey Donaldson's wife Eleanor placed on sex offenders' register after his rape conviction</title>
-<link>https://news.sky.com/story/jeffrey-donaldsons-wife-eleanor-placed-on-sex-offenders-register-after-his-rape-conviction-13611873</link>
-<guid isPermaLink="false">eefe120c620ff2dca04c2988f25fdbb5a954e1ba4b4887a488638b8bf1edae97</guid>
-<source>Sky News Home</source>
-<category>world</category>
-<pubDate>Fri, 13 Nov 2026 11:55:00 +0000</pubDate>
-<description>Eleanor Donaldson, the wife of disgraced former DUP leader Jeffrey Donaldson, has been placed on the sex offenders' register.</description>
-<dc:creator></dc:creator>
-<content:encoded>Eleanor Donaldson, the wife of disgraced former DUP leader Jeffrey Donaldson, has been placed on the sex offenders' register.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-eleanor-donaldson-donaldson_7405759.jpg?20261113120429" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-eleanor-donaldson-donaldson_7405759.jpg?20261113120429" medium="image"/>
-</item>
-<item>
 <title>Texas Attorney General Ken Paxton has finalized his divorce</title>
 <link>https://abcnews.com/Politics/wireStory/texas-attorney-general-ken-paxton-finalized-divorce-lawyer-138095312</link>
 <guid isPermaLink="false">14227b118dc13708b018b423bb03c5c55396c438b5da515bb995e650f2f7c32f</guid>
@@ -678,6 +652,19 @@
 <content:encoded>US officer who was arrested in the UK on suspicion of spying for Russia is 41-year-old Lt. Col. Brandon Tyner, according to a source familiar with the investigation.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/Politics/allied-rapid-reaction-corp-gty-jt-261112_1794522855592_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/Politics/allied-rapid-reaction-corp-gty-jt-261112_1794522855592_hpMain_16x9_1600.jpg" medium="image"/>
+</item>
+<item>
+<title>Colom’s historic Senate win could reshape Mississippi’s political future: Analysis</title>
+<link>https://abcnews.com/Politics/coloms-historic-senate-win-reshape-mississippis-political-future/story?id=138082817</link>
+<guid isPermaLink="false">dec259984c08a6a468ff9ef58299bef95eab82e1377351879a191b8357728ae0</guid>
+<source>ABC News Top Stories</source>
+<category>world</category>
+<pubDate>Thu, 12 Nov 2026 21:52:06 +0000</pubDate>
+<description>The question is whether his victory can establish a lasting realignment.</description>
+<dc:creator></dc:creator>
+<content:encoded>The question is whether his victory can establish a lasting realignment.</content:encoded>
+<enclosure url="https://s.abcnews.com/images/Politics/2304690832_1794461284962_hpMain_16x9_1600.jpg" type="image/jpeg"/>
+<media:content url="https://s.abcnews.com/images/Politics/2304690832_1794461284962_hpMain_16x9_1600.jpg" medium="image"/>
 </item>
 <item>
 <title>Republicans push for Jensen Huang's testimony following Nvidia CEO's resignation</title>
@@ -756,19 +743,6 @@
 <content:encoded>ABC News' Danny New talks to a Canadian ultramarathoner becoming the first woman ever to run 100 continuous miles in Antarctica.</content:encoded>
 <enclosure url="https://s.abcnews.com/images/International/261112_gmafl_ultrarunnerr_hpMain_16x9_1600.jpg" type="image/jpeg"/>
 <media:content url="https://s.abcnews.com/images/International/261112_gmafl_ultrarunnerr_hpMain_16x9_1600.jpg" medium="image"/>
-</item>
-<item>
-<title>Bomb alert at Calais train station disrupts Eurostar</title>
-<link>https://news.sky.com/story/bomb-alert-at-calais-train-station-affects-eurostar-13611403</link>
-<guid isPermaLink="false">54f9d434f567f71692dc1c999a1c553d3ed79771739e8cfaa68e4c93b4debd59</guid>
-<source>Sky News World</source>
-<category>world</category>
-<pubDate>Thu, 12 Nov 2026 09:27:00 +0000</pubDate>
-<description>A bomb alert at a French train station disrupted journeys including international travel, with Eurostar trains among those affected.</description>
-<dc:creator></dc:creator>
-<content:encoded>A bomb alert at a French train station disrupted journeys including international travel, with Eurostar trains among those affected.</content:encoded>
-<enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-eurostar-st-pancras_7405000.jpg?20261112130714" type="image/jpeg"/>
-<media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-eurostar-st-pancras_7405000.jpg?20261112130714" medium="image"/>
 </item>
 <item>
 <title>Fiery clashes erupt in Spain as millions join general strike</title>
