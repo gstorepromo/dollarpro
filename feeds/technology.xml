@@ -4,6 +4,253 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>UK Home Office waved through border system without a working fix for bad data</title>
+<link>https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162</link>
+<guid isPermaLink="false">030db2775425c3b61359eedf9de93cc85efd4dafb273cde6947b38219aab4b2e</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 09:30:00 +0000</pubDate>
+<description>The Information Commission's Office (ICO) has reprimanded the UK Home Office over a border watchlist system launched without an effective way to correct inaccurate personal information. The regulator said the failings risked people being wrongly detained for additional checks at the UK border, potentially causing distress and other harm. The platform in question, Helios, was slated to replace its predecessor, Warnings Index, in September 2024 and despite an initial delay due to concerns over data quality, went live the following month. Both Helios and Warnings Index are watch-listing systems, designed to allow law enforcement officials – mainly but not exclusively Border Force – to check people's data against official records at the UK border. Helios's federated operating model, whereby the data sources are not centrally managed, yielded quicker results than Warnings Index, but contained a critical flaw in that operational staff could not alter incorrect records. Platform operators, such as Border Force officers, could not amend the data that feeds into it, neither after the fact nor in real time. This was not the case with Warnings Index, which had a dedicated team responsible for correcting data entries in real time. Under Helios, staff were supposed to report inaccuracies to the organization responsible for the relevant source data, which would make the correction. One slight problem: there was no established reporting system at the time Helios was launched on October 2. The platform went live anyway, as officials deemed the data integrity and security risks presented by Warnings Index to be greater than those of Helios. Just nine days passed before the Home Office's data protection officer had to submit a breach report after Helios operational staff said they didn't know how to request data corrections. During the time, Helios operators sent 87 data rectification requests to the Warnings Index correction team, despite it having no capability to make the required changes to the data. The Home Office later said that many other requests likely weren't logged as the proper processes were not in place, and that staff should have logged the issue through a ServiceNow IT ticket, as any other departmental civil servant with any kind of IT issue would have. But the Home Office also said that including personal data in those helpdesk tickets would itself constitute a data breach. The ICO said in its reprimand document [PDF] that it is "unclear" how such a reporting arrangement could realistically work in practice, given that a report would require details from a subject's record that required rectification as well as the new, accurate information that should be used to replace it. The Home Office's proposed workaround was to get operational staff to verbally read out said personal data over a phone call with the IT helpdesk – a procedure it described as possible "but cumbersome." It took the Home Office more than a year to implement a temporary data-re</description>
+<dc:creator>Connor Jones</dc:creator>
+<content:encoded>The Information Commission's Office (ICO) has reprimanded the UK Home Office over a border watchlist system launched without an effective way to correct inaccurate personal information. The regulator said the failings risked people being wrongly detained for additional checks at the UK border, potentially causing distress and other harm. The platform in question, Helios, was slated to replace its predecessor, Warnings Index, in September 2024 and despite an initial delay due to concerns over data quality, went live the following month. Both Helios and Warnings Index are watch-listing systems, designed to allow law enforcement officials – mainly but not exclusively Border Force – to check people's data against official records at the UK border. Helios's federated operating model, whereby the data sources are not centrally managed, yielded quicker results than Warnings Index, but contained a critical flaw in that operational staff could not alter incorrect records. Platform operators, such as Border Force officers, could not amend the data that feeds into it, neither after the fact nor in real time. This was not the case with Warnings Index, which had a dedicated team responsible for correcting data entries in real time. Under Helios, staff were supposed to report inaccuracies to the organization responsible for the relevant source data, which would make the correction. One slight problem: there was no established reporting system at the time Helios was launched on October 2. The platform went live anyway, as officials deemed the data integrity and security risks presented by Warnings Index to be greater than those of Helios. Just nine days passed before the Home Office's data protection officer had to submit a breach report after Helios operational staff said they didn't know how to request data corrections. During the time, Helios operators sent 87 data rectification requests to the Warnings Index correction team, despite it having no capability to make the required changes to the data. The Home Office later said that many other requests likely weren't logged as the proper processes were not in place, and that staff should have logged the issue through a ServiceNow IT ticket, as any other departmental civil servant with any kind of IT issue would have. But the Home Office also said that including personal data in those helpdesk tickets would itself constitute a data breach. The ICO said in its reprimand document [PDF] that it is "unclear" how such a reporting arrangement could realistically work in practice, given that a report would require details from a subject's record that required rectification as well as the new, accurate information that should be used to replace it. The Home Office's proposed workaround was to get operational staff to verbally read out said personal data over a phone call with the IT helpdesk – a procedure it described as possible "but cumbersome." It took the Home Office more than a year to implement a temporary data-rectification method, which involved a BX Data Query tile on the IT Now platform, allowing Helios operators to securely report data accuracy issues. The new method went live on October 25, 2025. By March 18, 2026, the Home Office said the new process had received more than 6,500 correction requests and around 5,000 records had been removed. The ICO said it "remains concerned" about the efficacy of this method, given that operators cannot include personal data in the tile report, but the regulator is satisfied the problem is at least in part fixed. The Home Office also said it was aware of an increase in customer complaints following Helios's launch, and around 800 cases in which people were delayed at the UK border pending additional checks. It was unable to attribute a specific number of these to Helios's technical issues, however. "The Home Office further stated that it was not aware of any data subjects suffering distress as a result of using its services at the UK border," the ICO's report stated. The Home Office did not immediately respond to a request for comment. "People must be able to trust that decisions about their immigration status at the UK border are made with accurate, up to date information," said Joanne Stones, investigations manager at the ICO. "They also have the right to expect that when information is inaccurate, there is a swift and efficient way for it to be corrected." She added: "We recognise that federated systems like Helios present unique challenges and welcome the steps the Home Office has taken since this issue was identified. However, the Home Office must ensure that its permanent solution provides a robust and effective way to identify and correct inaccurate information without delay." The ICO's public sector enforcement policy favors guidance, reprimands, and other interventions, reserving fines for the most egregious cases. Its rationale is to avoid diverting money from public services and effectively punishing those affected twice. Fines have included £350,000 for a 2021 MoD email that exposed details of Afghan evacuation applicants , and £750,000 for the PSNI's 2023 disclosure of workforce information , including surnames, initials, ranks, and roles. The PSNI penalty was reduced from £5.6 million under the public sector approach. ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=252762&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=252762&amp;width=800" medium="image"/>
+</item>
+<item>
+<title>X is adding its first-ever parental controls</title>
+<link>https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls</link>
+<guid isPermaLink="false">ff8c7cca6da928a86ae273c3a1a3f1b9926feb70eb727d69893f6aa35fddae22</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 09:26:24 +0000</pubDate>
+<description>X (and Twitter before it) have never really had real parental controls. Until now.</description>
+<dc:creator>staff@engadget.com (Steve Dent)</dc:creator>
+<content:encoded>X (and Twitter before it) have never really had real parental controls. Until now.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/x-is-adding-its-first-ever-parental-controls/l-intro-1795684809.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/x-is-adding-its-first-ever-parental-controls/l-intro-1795684809.jpg" medium="image"/>
+</item>
+<item>
+<title>Seven beautiful places to visit in GTA VI, from mountains trails to an afternoon at the zoo</title>
+<link>https://www.theguardian.com/games/2026/nov/26/seven-beautiful-places-to-visit-in-gta-vi-from-mountains-trails-to-an-afternoon-at-the-zoo</link>
+<guid isPermaLink="false">b2b5c2ca37a05d4d3392f1e5b5b6737e213f894c4076ca203bb7c41a19693aaf</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 09:20:50 +0000</pubDate>
+<description>Need a break from all the crime and violence? There are plenty of places to get away from it all in Leonida As Leonida goes, Mount Kalaga is the top of the world. There are bike trails and hiking trails all the way up the mountain, as well as plenty of hunting opportunities if that’s your thing. Shooting deer makes me sad, so instead I went birdwatching and spotted an eagle. Continue reading...</description>
+<dc:creator>Keza MacDonald</dc:creator>
+<content:encoded>Need a break from all the crime and violence? There are plenty of places to get away from it all in Leonida As Leonida goes, Mount Kalaga is the top of the world. There are bike trails and hiking trails all the way up the mountain, as well as plenty of hunting opportunities if that’s your thing. Shooting deer makes me sad, so instead I went birdwatching and spotted an eagle. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/e073b5dc68966a3a675901d0d0f068fb9f7c01d5/44_0_2326_1860/master/2326.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8e9de62473237a49f9814afb826c4ba" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/e073b5dc68966a3a675901d0d0f068fb9f7c01d5/44_0_2326_1860/master/2326.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8e9de62473237a49f9814afb826c4ba" medium="image"/>
+</item>
+<item>
+<title>Neuralink receives FDA approval for 'pivotal' brain implant trial in ALS patients</title>
+<link>https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients</link>
+<guid isPermaLink="false">f167ae115a18432d0b90808989022a90ab64e0157319a570d4d1cf3cbe5bd69c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 07:28:21 +0000</pubDate>
+<description>Elon Musk's Neuralink has received FDA permission to launch the first trial for its brain-computer interface.</description>
+<dc:creator>staff@engadget.com (Steve Dent)</dc:creator>
+<content:encoded>Elon Musk's Neuralink has received FDA permission to launch the first trial for its brain-computer interface.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/neuralink-receives-fda-approval-for-pivotal-brain-implant-trial-in-als-patients/l-intro-1795677911.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/neuralink-receives-fda-approval-for-pivotal-brain-implant-trial-in-als-patients/l-intro-1795677911.jpg" medium="image"/>
+</item>
+<item>
+<title>Elon Musk pledges to give two SpaceX shares to every child in the US</title>
+<link>https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us</link>
+<guid isPermaLink="false">8b6511b8a945cf9cfc3549e436c52968bdd2e50fe52ee993e19932973d363d51</guid>
+<source>The Guardian Technology</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 07:02:37 +0000</pubDate>
+<description>The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom Elon Musk, the world’s richest person, has pledged to give every child in the US two shares in SpaceX, the space ⁠and AI company he ​runs, worth a total of almost $18bn. In a brief post on X, the social media platform that he owns, Musk said children will receive one share from the company itself, and one from him personally. SpaceX announced earlier on Wednesday that it would ​contribute one newly issued share of its Class A common stock ‌to every currently active Trump Account, and that ‌Musk will match the number of shares it donates. Continue reading...</description>
+<dc:creator>Reuters</dc:creator>
+<content:encoded>The total value of the shares could reach almost $18bn and comes as tech companies debate how to share the spoils of the AI boom Elon Musk, the world’s richest person, has pledged to give every child in the US two shares in SpaceX, the space ⁠and AI company he ​runs, worth a total of almost $18bn. In a brief post on X, the social media platform that he owns, Musk said children will receive one share from the company itself, and one from him personally. SpaceX announced earlier on Wednesday that it would ​contribute one newly issued share of its Class A common stock ‌to every currently active Trump Account, and that ‌Musk will match the number of shares it donates. Continue reading...</content:encoded>
+<enclosure url="https://i.guim.co.uk/img/media/6b1786336d92dd9924ed6029c54417bb3647a7e8/448_0_4604_3681/master/4604.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e98803cec6c8e89ad36ae43890501287" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/6b1786336d92dd9924ed6029c54417bb3647a7e8/448_0_4604_3681/master/4604.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e98803cec6c8e89ad36ae43890501287" medium="image"/>
+</item>
+<item>
+<title>New York state bans AI chatbot toys for kids</title>
+<link>https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids</link>
+<guid isPermaLink="false">9c2b9c81d13bfdfd5920e3ac8a73f3a31dc9689c5857eb285fc307bcb61fbe1e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:02:48 +0000</pubDate>
+<description>New York governor Kathy Hochul has signed into law a five-year ban on the sale of AI chatbot toys.</description>
+<dc:creator>staff@engadget.com (Steve Dent)</dc:creator>
+<content:encoded>New York governor Kathy Hochul has signed into law a five-year ban on the sale of AI chatbot toys.</content:encoded>
+<enclosure url="https://www.engadget.com/img/gallery/new-york-state-bans-ai-chatbot-toys-for-kids/l-intro-1795672791.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/new-york-state-bans-ai-chatbot-toys-for-kids/l-intro-1795672791.jpg" medium="image"/>
+</item>
+<item>
+<title>Lenovo Coupon Codes: 15% Off in November 2026</title>
+<link>https://www.wired.com/story/lenovo-coupon-code</link>
+<guid isPermaLink="false">14e7cdfe2afd61fc93971f233c6774e3d7d531d77427c824b9a1849d6b6363c4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<description>Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.</description>
+<dc:creator>Luke Larsen</dc:creator>
+<content:encoded>Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
+</item>
+<item>
+<title>Chewy Promo Codes: 50% Off November 2026</title>
+<link>https://www.wired.com/story/chewy-promo-code</link>
+<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
+</item>
+<item>
+<title>Office Depot Coupons: $20 Off November 2026</title>
+<link>https://www.wired.com/story/office-depot-promo-codes</link>
+<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
+</item>
+<item>
+<title>LG Promo Code: 40% Off for November 2026</title>
+<link>https://www.wired.com/story/lg-promo-code</link>
+<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
+<dc:creator>Harry Rabinowitz</dc:creator>
+<content:encoded>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
+</item>
+<item>
+<title>30% Off Canon Promo Codes | November 2026</title>
+<link>https://www.wired.com/story/canon-promo-code</link>
+<guid isPermaLink="false">b7b297c4c57110a535ebb7e21ce3aa1ad5547e25ec9499eef52e4ec8f670dea2</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
+<title>50% Off DoorDash Promo Code | November 2026</title>
+<link>https://www.wired.com/story/doordash-promo-code</link>
+<guid isPermaLink="false">54a4250e31be61ae89f53ae16f0a8f0ceda653a6186ea8ed96286551f14c01f1</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<description>Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" medium="image"/>
+</item>
+<item>
+<title>Disney Plus Discount Codes: 52% Off November 2026</title>
+<link>https://www.wired.com/story/disney-plus-discounts</link>
+<guid isPermaLink="false">67fb0b1c6bb330f792063948f727d159439722426ed98d8513dbdb11e57b97c4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<description>Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
+</item>
+<item>
+<title>Paramount+ Coupon Codes and Deals for 2026</title>
+<link>https://www.wired.com/story/paramount-plus-coupon-code</link>
+<guid isPermaLink="false">294609c5df4cb766063cc2c9362d958ee587fb67e6881dc699e4f32f2790c9af</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" medium="image"/>
+</item>
+<item>
+<title>AT&amp;T Promo Codes: $50 Off This November 2026</title>
+<link>https://www.wired.com/story/att-promo-code</link>
+<guid isPermaLink="false">266d4e9f0ef7603ebeeca89b58bbd37bcc8c07aac0f65fd8223b10667626adff</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<description>Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals.</description>
+<dc:creator>Kat Merck</dc:creator>
+<content:encoded>Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
+</item>
+<item>
+<title>LegalZoom Promo Code: Exclusive 10% Off LLC Formations</title>
+<link>https://www.wired.com/story/legalzoom-promo-code</link>
+<guid isPermaLink="false">8383cde9f47e0b5e1a234e16c5b30f54cfed5935bda6b6421e7b6010b32c0b52</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.</content:encoded>
+<enclosure url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
+</item>
+<item>
+<title>20% Off Samsung Promo Code | November 2026</title>
+<link>https://www.wired.com/story/samsung-promo-codes</link>
+<guid isPermaLink="false">d260f7124d468b6803823d5cfd2974cd36759adfef944bc32e67b55288f97265</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.</description>
+<dc:creator>Molly Higgins</dc:creator>
+<content:encoded>Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
+<title>Design Within Reach Promo Codes: 30% Off | November 2026</title>
+<link>https://www.wired.com/story/design-within-reach-promo-code</link>
+<guid isPermaLink="false">997d9379f29ebd92d42238ba7e1ffd0de997c9dc0e9e80cd2a07dbc48a50c87f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 06:00:00 +0000</pubDate>
+<description>Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.</description>
+<dc:creator>Nena Farrell</dc:creator>
+<content:encoded>Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.</content:encoded>
+<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
+</item>
+<item>
+<title>India’s government ponders cradle to grave AI oversight</title>
+<link>https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275</link>
+<guid isPermaLink="false">6b2f64a6617d03b681cd0e533f624388d122a005db9e4479091c089014f1d144</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Thu, 26 Nov 2026 03:42:56 +0000</pubDate>
+<description>Indian politicians have proposed that AI could take a major role in citizens’ lives, partly through pervasive surveillance. Prime Minister Narendra Modi last week spelled out his vision for an AI-based app that would collect data about children as they grow and analyze it to determine their aptitude for different types of study or careers. Modi suggested that parents of three-year-old children should enter data about their offspring’s activities and accomplishments into a government-run system that is also accessible to teachers and even a child’s friends. Those records, the PM suggested, will “help identify children's interests and aptitude from an early age and redirect them in the study of their choice in future.” That’s not an entirely creepy idea, because gaining access to India’s top tertiary institutions requires students to pay a hefty fee to sit for entrance exams. Modi pitched recommendations from the AI-powered app as something parents will appreciate as they contemplate whether to fund their offspring’s studies. India’s most populous state, Uttar Pradesh (UP), has proposed to build an “AI Stack” to serve its 240 million-plus residents. A 178-page tender seeks bidders to build a system that uses the state’s Family ID – a unique identifier for each household – to link data held by multiple agencies so it can be put to work in a dozen AI use cases. One of those use cases is a tool for “AI-Enabled Social Media Monitoring and Urban Grievance Detection” that “analyses publicly available social media content including online news channels and connected grievance channels to detect emerging urban issues, citizen complaints, service interruptions, and recurring service gaps.” The government wants that system to autonomously route complaints to relevant agencies, to automate actions like sending crews to patch up damaged roads. Critics have pointed to vague wording in the tender as potentially allowing the UP government to link this system to other agencies – a matter of concern given Indian state and national governments have implemented internet shutdowns to stop protestors from communicating on social media services and messaging apps. Another use case is a knowledge assistant for state police that looks up case histories and other data but can’t use it to assess evidence or provide investigative conclusions. An app for teachers will advise them on how to create custom content to meet students’ needs. Healthcare workers would also get an app to help them make recommendations during patient visits. Citizens get natural language interfaces to a system that offers advice on how to identify and access government services and schemes. UP wants to drive these apps with self-hosted open-weight models, and to use only anonymized datasets. India’s Internet Freedom Foundation worries that the systems described in the tender aren’t explicitly authorized by any legislation, and that the document doesn’t mention important oversight measures for the AI St</description>
+<dc:creator>Simon Sharwood</dc:creator>
+<content:encoded>Indian politicians have proposed that AI could take a major role in citizens’ lives, partly through pervasive surveillance. Prime Minister Narendra Modi last week spelled out his vision for an AI-based app that would collect data about children as they grow and analyze it to determine their aptitude for different types of study or careers. Modi suggested that parents of three-year-old children should enter data about their offspring’s activities and accomplishments into a government-run system that is also accessible to teachers and even a child’s friends. Those records, the PM suggested, will “help identify children's interests and aptitude from an early age and redirect them in the study of their choice in future.” That’s not an entirely creepy idea, because gaining access to India’s top tertiary institutions requires students to pay a hefty fee to sit for entrance exams. Modi pitched recommendations from the AI-powered app as something parents will appreciate as they contemplate whether to fund their offspring’s studies. India’s most populous state, Uttar Pradesh (UP), has proposed to build an “AI Stack” to serve its 240 million-plus residents. A 178-page tender seeks bidders to build a system that uses the state’s Family ID – a unique identifier for each household – to link data held by multiple agencies so it can be put to work in a dozen AI use cases. One of those use cases is a tool for “AI-Enabled Social Media Monitoring and Urban Grievance Detection” that “analyses publicly available social media content including online news channels and connected grievance channels to detect emerging urban issues, citizen complaints, service interruptions, and recurring service gaps.” The government wants that system to autonomously route complaints to relevant agencies, to automate actions like sending crews to patch up damaged roads. Critics have pointed to vague wording in the tender as potentially allowing the UP government to link this system to other agencies – a matter of concern given Indian state and national governments have implemented internet shutdowns to stop protestors from communicating on social media services and messaging apps. Another use case is a knowledge assistant for state police that looks up case histories and other data but can’t use it to assess evidence or provide investigative conclusions. An app for teachers will advise them on how to create custom content to meet students’ needs. Healthcare workers would also get an app to help them make recommendations during patient visits. Citizens get natural language interfaces to a system that offers advice on how to identify and access government services and schemes. UP wants to drive these apps with self-hosted open-weight models, and to use only anonymized datasets. India’s Internet Freedom Foundation worries that the systems described in the tender aren’t explicitly authorized by any legislation, and that the document doesn’t mention important oversight measures for the AI Stack. ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=5312280&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=5312280&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too</title>
 <link>https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras</link>
 <guid isPermaLink="false">54e67f56863fdec143e46c47a22b7ae1a2312423ce2adddea65b0c0312d129f1</guid>
@@ -43,15 +290,28 @@
 <media:content url="https://www.engadget.com/img/gallery/we-reviewed-these-10-gadgets-and-theyre-now-on-sale-for-black-friday/l-intro-1795649274.jpg" medium="image"/>
 </item>
 <item>
+<title>The sky was once full of stars, kids; then the FCC let Elon Musk launch a million datacenter satellites</title>
+<link>https://www.theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268</link>
+<guid isPermaLink="false">04e4dca51e19b709e5a29bca2013e77607f168bf3cb5f9f31f4678e722d1ef63</guid>
+<source>The Register</source>
+<category>technology</category>
+<pubDate>Wed, 25 Nov 2026 22:54:07 +0000</pubDate>
+<description>The United States Federal Communications Commission has approved SpaceX’s plan to launch a million datacenter satellites. The regulator on Wednesday published an order [PDF] allowing SpaceX to operate a “Non-geostationary satellite orbit (NGSO) constellation of 1,000,000 satellites deployed into orbital shells each spanning 50 km at altitudes from 500 to 1,002 km and in 30-degree inclinations and sun-synchronous inclinations.” The order requires SpaceX to ensure its satellites’ radios don’t interfere with US government systems which use the 28.6-29.1 GHz band and requires the company to stick to operating within the parameters it files with the International Telecommunications Union. SpaceX asked the FCC to waive its rule requiring the atmospheric disposal of dead satellites orbiting at 2,000 km or less. Elon Musk’s company asked for “flexibility to dispose satellites operating above 600 km altitude into Earth disposal orbits or heliocentric orbits.” The FCC found SpaceX did not provide enough information to let it assess if proposed “alternative disposal methods” are compliant with regulations, so deferred its decision on the waiver request. “SpaceX must file an application for modification of this authorization and provide sufficient justification for any requested waiver(s) of the Commission’s rules,” the order states. The company must also file twice-yearly reports about “conjunction events” – moments when its satellites get dangerously close to each other, or other orbiters. Whether orbiting datacenters are feasible, make sense, or will ever pay for themselves, remain open questions. Analyst firm Gartner has described the idea as “ peak insanity .” Google thinks orbiting datacenters become viable if launch costs fall to $200/kg, which would mean SpaceX needs to launch its massive Starship 1,800 times. SpaceX’s assumptions assume near-daily launches, far better than its current cadence of a launch every three days or so. Fundamental networking research must also come to fruition to handle the amount of traffic large constellations of orbiting datacenters will create. Terrestrial manufacturing capacity will also need to increase to build all those satellites. Elon Musk’s companies and Intel have planned a giant new fab to make that possible, without explaining how the supply chains behind chip manufacturing will scale to make it feasible. That's a notable omission given that semiconductor supply chains are already extremely strained. Approval for SpaceX is therefore nice but in no way a roadmap to a million datacenter satellites. Google, ironically, is a little further along than SpaceX, having launched a test sat in October and last week announcing it has hired Amazon founder Jeff Bezos’ Blue Origin to launch a larger satellite carrying the equivalent of a full datacenter rack in early 2029. Down on Earth, meanwhile, scientists trying to observe the universe continue to bemoan the obstructions caused by mega-constellations of broadband-beamin</description>
+<dc:creator>Simon Sharwood</dc:creator>
+<content:encoded>The United States Federal Communications Commission has approved SpaceX’s plan to launch a million datacenter satellites. The regulator on Wednesday published an order [PDF] allowing SpaceX to operate a “Non-geostationary satellite orbit (NGSO) constellation of 1,000,000 satellites deployed into orbital shells each spanning 50 km at altitudes from 500 to 1,002 km and in 30-degree inclinations and sun-synchronous inclinations.” The order requires SpaceX to ensure its satellites’ radios don’t interfere with US government systems which use the 28.6-29.1 GHz band and requires the company to stick to operating within the parameters it files with the International Telecommunications Union. SpaceX asked the FCC to waive its rule requiring the atmospheric disposal of dead satellites orbiting at 2,000 km or less. Elon Musk’s company asked for “flexibility to dispose satellites operating above 600 km altitude into Earth disposal orbits or heliocentric orbits.” The FCC found SpaceX did not provide enough information to let it assess if proposed “alternative disposal methods” are compliant with regulations, so deferred its decision on the waiver request. “SpaceX must file an application for modification of this authorization and provide sufficient justification for any requested waiver(s) of the Commission’s rules,” the order states. The company must also file twice-yearly reports about “conjunction events” – moments when its satellites get dangerously close to each other, or other orbiters. Whether orbiting datacenters are feasible, make sense, or will ever pay for themselves, remain open questions. Analyst firm Gartner has described the idea as “ peak insanity .” Google thinks orbiting datacenters become viable if launch costs fall to $200/kg, which would mean SpaceX needs to launch its massive Starship 1,800 times. SpaceX’s assumptions assume near-daily launches, far better than its current cadence of a launch every three days or so. Fundamental networking research must also come to fruition to handle the amount of traffic large constellations of orbiting datacenters will create. Terrestrial manufacturing capacity will also need to increase to build all those satellites. Elon Musk’s companies and Intel have planned a giant new fab to make that possible, without explaining how the supply chains behind chip manufacturing will scale to make it feasible. That's a notable omission given that semiconductor supply chains are already extremely strained. Approval for SpaceX is therefore nice but in no way a roadmap to a million datacenter satellites. Google, ironically, is a little further along than SpaceX, having launched a test sat in October and last week announcing it has hired Amazon founder Jeff Bezos’ Blue Origin to launch a larger satellite carrying the equivalent of a full datacenter rack in early 2029. Down on Earth, meanwhile, scientists trying to observe the universe continue to bemoan the obstructions caused by mega-constellations of broadband-beaming satellites. Proposals from across the USA, China, Europe and India currently call for around 100,000 satellites. SpaceX’s proposed million orbiters could run workloads which help us to understand the mysteries of the universe while also making them hard to see from down here. ®</content:encoded>
+<enclosure url="https://image.theregister.com/?imageId=229375&amp;width=800" type="image/jpeg"/>
+<media:content url="https://image.theregister.com/?imageId=229375&amp;width=800" medium="image"/>
+</item>
+<item>
 <title>European spacecraft finds chaotic scene after asteroid deflection experiment</title>
 <link>https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup</link>
 <guid isPermaLink="false">610a8dba03b4f8601b78792627a6f68c71c6d9af5c1f141eacd22fd423ea6a73</guid>
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Wed, 25 Nov 2026 22:36:45 +0000</pubDate>
-<description>Four years ago, NASA dispatched a small spacecraft on a suicide mission to show how humanity might deflect an asteroid on a collision course with Earth. The first-of-its-kind experiment worked beautifully as the solar-powered space probe slammed into asteroid Dimorphos, permanently altering its trajectory. Using telescopes, astronomers measured changes in the orbit of Dimorphos around a larger asteroid companion named Didymos in the aftermath of NASA's Double Asteroid Redirection Test (DART) mission. The spacecraft released some 10 billion joules of energy as it impacted Dimorphos in September 2022 at more than 13,700 mph (6.14 kilometers per second), shortening the asteroid's 12-hour orbit around Didymos by about 33 minutes, 25 times the most conservative expectation. But scientists could only learn so much from DART. The collision destroyed the spacecraft, as expected. DART recorded images as it took aim on Dimorphos, but only faraway telescopes and a small CubeSat that briefly detected the impact flash could see what happened next. "We knew right away that the impact was successful, that DART made a really, really large mess," said Sabina Raducan, a planetary scientist at the International Space Science Institute in Bern, Switzerland. "H owever, we didn’t really know what kind of mess. We were still missing pieces of the puzzle." Artist's illustration of the Hera spacecraft with its two deployable CubeSats, Juventas and Milani, in the vicinity of the Didymos binary asteroid system. Credit: ESA-Science Office Following up The European Space Agency's Hera spacecraft recently arrived in the vicinity of Didymos and Dimorphos after a two-year journey from a launch pad in Florida . On Wednesday, ESA released Hera's first views of the scar left by DART on Dimorphos . The images show the car-sized impactor carved out a crater the size of a stadium, nearly as big as Dimorphos itself, a rugged chunk of extraterrestrial rock measuring about 500 feet (151 meters) across. Mission planners selected Didymos and Dimorphos for the deflection experiment because they are similar to many near-Earth asteroids, but there's no risk of them striking our home planet. Scientists weren't sure what Hera would find when it got to the double asteroid, currently orbiting the Sun about 120 million miles (193.5 million kilometers) from Earth. " I would say we had two kinds of predictions: either we made a crater, or we reshaped the asteroid," said Patrick Michel, Hera's principal investigator from Côte d’Azur Observatory in Nice, France. "In fact, we did both because the crater is so large that the shape has changed. Therefore, we are in a sort of a transition between just cratering and global transformation, and we are still not sure how this can happen." Hera found Didymos, the larger of the two asteroids, spinning on its axis just as DART observed on final approach in 2022. Dimorphos is no longer so stable. "As Hera returned more images, it became clear that the DART impac</description>
+<description>Four years ago, NASA dispatched a small spacecraft on a suicide mission to show how humanity might deflect an asteroid on a collision course with Earth. The first-of-its-kind experiment worked beautifully as the solar-powered space probe slammed into asteroid Dimorphos, permanently altering its trajectory. Using telescopes, astronomers measured changes in the orbit of Dimorphos around a larger asteroid companion named Didymos in the aftermath of NASA's Double Asteroid Redirection Test (DART) mission. The spacecraft released some 10 billion joules of energy as it impacted Dimorphos in September 2022 at more than 13,700 mph (6.14 kilometers per second), shortening the asteroid's 12-hour orbit around Didymos by about 33 minutes, 25 times the most conservative expectation. But scientists could only learn so much from DART. The collision destroyed the spacecraft, as expected. DART recorded images as it took aim on Dimorphos, but only faraway telescopes and a small CubeSat that briefly detected the impact flash could see what happened next. Read full article Comments</description>
 <dc:creator>Stephen Clark</dc:creator>
-<content:encoded>Four years ago, NASA dispatched a small spacecraft on a suicide mission to show how humanity might deflect an asteroid on a collision course with Earth. The first-of-its-kind experiment worked beautifully as the solar-powered space probe slammed into asteroid Dimorphos, permanently altering its trajectory. Using telescopes, astronomers measured changes in the orbit of Dimorphos around a larger asteroid companion named Didymos in the aftermath of NASA's Double Asteroid Redirection Test (DART) mission. The spacecraft released some 10 billion joules of energy as it impacted Dimorphos in September 2022 at more than 13,700 mph (6.14 kilometers per second), shortening the asteroid's 12-hour orbit around Didymos by about 33 minutes, 25 times the most conservative expectation. But scientists could only learn so much from DART. The collision destroyed the spacecraft, as expected. DART recorded images as it took aim on Dimorphos, but only faraway telescopes and a small CubeSat that briefly detected the impact flash could see what happened next. "We knew right away that the impact was successful, that DART made a really, really large mess," said Sabina Raducan, a planetary scientist at the International Space Science Institute in Bern, Switzerland. "H owever, we didn’t really know what kind of mess. We were still missing pieces of the puzzle." Artist's illustration of the Hera spacecraft with its two deployable CubeSats, Juventas and Milani, in the vicinity of the Didymos binary asteroid system. Credit: ESA-Science Office Following up The European Space Agency's Hera spacecraft recently arrived in the vicinity of Didymos and Dimorphos after a two-year journey from a launch pad in Florida . On Wednesday, ESA released Hera's first views of the scar left by DART on Dimorphos . The images show the car-sized impactor carved out a crater the size of a stadium, nearly as big as Dimorphos itself, a rugged chunk of extraterrestrial rock measuring about 500 feet (151 meters) across. Mission planners selected Didymos and Dimorphos for the deflection experiment because they are similar to many near-Earth asteroids, but there's no risk of them striking our home planet. Scientists weren't sure what Hera would find when it got to the double asteroid, currently orbiting the Sun about 120 million miles (193.5 million kilometers) from Earth. " I would say we had two kinds of predictions: either we made a crater, or we reshaped the asteroid," said Patrick Michel, Hera's principal investigator from Côte d’Azur Observatory in Nice, France. "In fact, we did both because the crater is so large that the shape has changed. Therefore, we are in a sort of a transition between just cratering and global transformation, and we are still not sure how this can happen." Hera found Didymos, the larger of the two asteroids, spinning on its axis just as DART observed on final approach in 2022. Dimorphos is no longer so stable. "As Hera returned more images, it became clear that the DART impact has left Dimorphos tumbling wildly in its orbit,” says Michael Kueppers, ESA’s Hera mission scientist. The Hera spacecraft will fly closer to Didymos and Dimorphos over the next six months to obtain more detailed observations. Hera will release two small sub-satellites to attempt landings on Dimorphos and collect data on the asteroid's composition, internal structure, and mass. Scientists will use this information to reconstruct the dynamics of DART's impact four years ago and better understand how a future deflection mission might move an asteroid off a trajectory that actually threatens Earth. Near-Earth asteroids come in many shapes and sizes, with different densities and makeups, so knowledge of Dimorphos's physical properties will anchor predictive computer models teaching scientists how best to deflect all types of asteroids. "Once we understand, we have a breakthrough, which really solves planetary defense," Michel said in an interview with Ars. This is a composite image combining 11 long-exposure images from Hera's Hyperscout-H instrument, centered on the Didymos asteroid. The dot trails correspond to hundreds of boulders of differing sizes in motion around the Didymos-Dimorphos system. The two asteroids have been subtracted from the image for improved visualization of the boulders. These images were acquired on November 6 with an approximate distance of 29.9 kilometers (18.6 miles) from the asteroids. What a mess In its initial reconnaissance this month, Hera spotted hundreds of boulders surrounding the double asteroid. This was not entirely unexpected. A picture taken by the Hubble Space Telescope shortly after DART's impact showed a cloud of material streaming behind Didymos and Dimorphos , but scientists were astonished by the extent of the debris swarm in Hera's first images. "As we approached Didymos and Dimorphos, we quickly realized the asteroids were not alone," said Naomi Murdoch, planetary scientist at the Institut Supérieur de l'Aéronautique et de l'Espace in Toulouse, France. "In fact, they had a lot of company." Read full article Comments</content:encoded>
+<content:encoded>Four years ago, NASA dispatched a small spacecraft on a suicide mission to show how humanity might deflect an asteroid on a collision course with Earth. The first-of-its-kind experiment worked beautifully as the solar-powered space probe slammed into asteroid Dimorphos, permanently altering its trajectory. Using telescopes, astronomers measured changes in the orbit of Dimorphos around a larger asteroid companion named Didymos in the aftermath of NASA's Double Asteroid Redirection Test (DART) mission. The spacecraft released some 10 billion joules of energy as it impacted Dimorphos in September 2022 at more than 13,700 mph (6.14 kilometers per second), shortening the asteroid's 12-hour orbit around Didymos by about 33 minutes, 25 times the most conservative expectation. But scientists could only learn so much from DART. The collision destroyed the spacecraft, as expected. DART recorded images as it took aim on Dimorphos, but only faraway telescopes and a small CubeSat that briefly detected the impact flash could see what happened next. Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg" medium="image"/>
 </item>
@@ -1187,32 +1447,6 @@
 <media:content url="https://www.engadget.com/img/gallery/the-battery-in-your-fitbit-edge-is-replaceable-but-its-not-as-easy-as-youd-think/l-intro-1795018884.jpg" medium="image"/>
 </item>
 <item>
-<title>Australia to pass safety bill that could result in massive fines for tech platforms</title>
-<link>https://www.engadget.com/2327499/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms</link>
-<guid isPermaLink="false">c959c21fe63c1b1e4cd6ca725a41b386cc71479083a3d79a5f6aac19575d7834</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 23:21:40 +0000</pubDate>
-<description>Australian lawmakers are close to passing the Digital Duty of Care Bill, an amendment to the country's Online Safety Act of 2021.</description>
-<dc:creator>staff@engadget.com (Ian Carlos Campbell)</dc:creator>
-<content:encoded>Australian lawmakers are close to passing the Digital Duty of Care Bill, an amendment to the country's Online Safety Act of 2021.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms/l-intro-1795562364.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms/l-intro-1795562364.jpg" medium="image"/>
-</item>
-<item>
-<title>Improve your Starlink Wi-Fi speed with this app setting</title>
-<link>https://www.engadget.com/2321248/starlink-wifi-speed-split-network-app-setting</link>
-<guid isPermaLink="false">6e2856761cb995714306f963ebb8a3d4e583699478708a36a1fe4f268cb73647</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 23:00:00 +0000</pubDate>
-<description>See how a single setting in the Starlink app can improve your home internet speed, and figure out whether switching it on makes sense for your setup.</description>
-<dc:creator>staff@engadget.com (Roger Fingas)</dc:creator>
-<content:encoded>See how a single setting in the Starlink app can improve your home internet speed, and figure out whether switching it on makes sense for your setup.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/improve-your-starlink-wi-fi-speed-with-this-app-setting/l-intro-1795012955.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/improve-your-starlink-wi-fi-speed-with-this-app-setting/l-intro-1795012955.jpg" medium="image"/>
-</item>
-<item>
 <title>Half of NASA's aging Mars fleet knocked offline by technical issues</title>
 <link>https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues</link>
 <guid isPermaLink="false">239d5156f08bd8a999d570ec84531155094dd2bd2943aa640196e57b128b0d78</guid>
@@ -1224,19 +1458,6 @@
 <content:encoded>Two of NASA's four missions operating at Mars have suspended science operations after encountering separate technical issues in recent weeks. The missions affected by the outages — hopefully temporary — are NASA's Perseverance rover and Odyssey orbiter. Both are operating beyond their original design lifetimes. Perseverance is in its sixth year exploring the surface of Mars, having collected rock and soil samples for eventual return to Earth. The rover is now studying the rim of a crater that once contained an ancient lake of liquid water. Odyssey arrived in orbit around Mars in 2001 and is the longest-lived Mars mission in history. Losing its voice The problem on Perseverance stems from the rover's communications system. The rover has two redundant UHF radios for high-rate communications with a fleet of orbiters that relay data to Earth. A separate X-band system is available for direct-to-Earth communications at a lower data rate. Read full article Comments</content:encoded>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg" medium="image"/>
-</item>
-<item>
-<title>Huawei is guilty of conspiracy to steal trade secrets, US jury rules</title>
-<link>https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules</link>
-<guid isPermaLink="false">0ab86c7870fee031f20ca608b43482e33d05a283ce42af4d544f6648c17490fe</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 22:40:07 +0000</pubDate>
-<description>The charges against the Chinese tech company date back to 2019.</description>
-<dc:creator>staff@engadget.com (Ian Carlos Campbell)</dc:creator>
-<content:encoded>The charges against the Chinese tech company date back to 2019.</content:encoded>
-<enclosure url="https://www.engadget.com/img/gallery/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/l-intro-1795559783.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/l-intro-1795559783.jpg" medium="image"/>
 </item>
 <item>
 <title>Microsoft's historic cloud outage exposed an engineering “fog of war”</title>
@@ -1603,19 +1824,6 @@
 <media:content url="https://media.wired.com/photos/6b04c97ceec76be14d96215d/master/pass/Holiday-Travel-Mess-Science-2305538543.jpg" medium="image"/>
 </item>
 <item>
-<title>Chinese media hail Huang’s Nvidia return with warning over ‘witch-hunts’</title>
-<link>https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo</link>
-<guid isPermaLink="false">33df3403a4663998b796d7c9d20985d4c92c37a29f248914156ec15dad4fdf4d</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 14:45:03 +0000</pubDate>
-<description>State-run Global Times says reports about CEO’s affair with alleged Chinese spy were ‘malicious’ Trump made up to $15m on Nvidia stock after Huang’s return Nvidia staff: what do you think of Jensen Huang’s return as chief executive? Chinese media have reacted with glee to the dramatic reinstatement of Jensen Huang as the chief executive of Nvidia, with one commentary warning against future “witch-hunts”. An article published on Tuesday in the state-run outlet the Global Times said US media reports about Huang’s affair with an alleged Chinese intelligence asset were “malicious” and “negatively impacted American public perception of China”. Continue reading...</description>
-<dc:creator>Amy Hawkins Senior China correspondent</dc:creator>
-<content:encoded>State-run Global Times says reports about CEO’s affair with alleged Chinese spy were ‘malicious’ Trump made up to $15m on Nvidia stock after Huang’s return Nvidia staff: what do you think of Jensen Huang’s return as chief executive? Chinese media have reacted with glee to the dramatic reinstatement of Jensen Huang as the chief executive of Nvidia, with one commentary warning against future “witch-hunts”. An article published on Tuesday in the state-run outlet the Global Times said US media reports about Huang’s affair with an alleged Chinese intelligence asset were “malicious” and “negatively impacted American public perception of China”. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/8abb1b7af3336437d7b77914b83f5a5515682536/1362_0_6830_5464/master/6830.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60e5916731cbff15bd2297fe91729a7c" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/8abb1b7af3336437d7b77914b83f5a5515682536/1362_0_6830_5464/master/6830.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60e5916731cbff15bd2297fe91729a7c" medium="image"/>
-</item>
-<item>
 <title>Claude Ship puts AI at the helm of pull request approvals</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883</link>
 <guid isPermaLink="false">e541071035f06a50f0b4bef1bc76c97456f9b5cebc762758cf9e8253b3eec889</guid>
@@ -1876,45 +2084,6 @@
 <media:content url="https://media.wired.com/photos/6afd988f1a9a899b59991c80/master/pass/WIRED_Dupes_AmyLuo_06.jpg" medium="image"/>
 </item>
 <item>
-<title>Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving</title>
-<link>https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving</link>
-<guid isPermaLink="false">2bc8e1c921b242419ca125353fbe1fe72baa266b9201bfe3ec59de2ab351e5b2</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 10:45:00 +0000</pubDate>
-<description>Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.</description>
-<dc:creator>Elana Klein</dc:creator>
-<content:encoded>Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6b04ca840ad1d7b44d47c2ed/master/pass/Dont-Bring-Up-AI-if-You-Want-to-Enjoy-Thanksgiving-Business.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6b04ca840ad1d7b44d47c2ed/master/pass/Dont-Bring-Up-AI-if-You-Want-to-Enjoy-Thanksgiving-Business.jpg" medium="image"/>
-</item>
-<item>
-<title>Election Deniers Despair Because Even Donald Trump Isn’t Buying What They’re Selling</title>
-<link>https://www.wired.com/story/election-deniers-despair-because-even-donald-trump-isnt-buying-what-theyre-selling</link>
-<guid isPermaLink="false">9a6b15e6162405538c467afdc4f4d3b01e50994645735ee041978587d125aff7</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 10:30:00 +0000</pubDate>
-<description>In the wake of the overwhelming victory for Democrats in the midterm elections, Trump has broadly appeared to accept the results. His followers are devastated.</description>
-<dc:creator>David Gilbert</dc:creator>
-<content:encoded>In the wake of the overwhelming victory for Democrats in the midterm elections, Trump has broadly appeared to accept the results. His followers are devastated.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6b0474796b539f1f31296459/master/pass/Trump-Refusal-To-Entertain-Midterm-Conspiracy-Theories-Politics-2306092808.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6b0474796b539f1f31296459/master/pass/Trump-Refusal-To-Entertain-Midterm-Conspiracy-Theories-Politics-2306092808.jpg" medium="image"/>
-</item>
-<item>
-<title>AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It</title>
-<link>https://www.wired.com/story/ai-solved-maths-most-famous-problem</link>
-<guid isPermaLink="false">ee36fb188dc11d0f09a2643160905fd3ce4fe044764d8db5d0e6f81e5d4e3607</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 10:15:00 +0000</pubDate>
-<description>It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.</description>
-<dc:creator>Isabella Ward</dc:creator>
-<content:encoded>It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6b04a99395eb5d98cc1eb23a/master/pass/112326-Riemann-hypothesis-ai.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6b04a99395eb5d98cc1eb23a/master/pass/112326-Riemann-hypothesis-ai.jpg" medium="image"/>
-</item>
-<item>
 <title>InferNode gives Bell Labs' Inferno OS a 64-bit second wind</title>
 <link>https://www.theregister.com/os-platforms/2026/11/24/infernode-gives-bell-labs-inferno-os-a-64-bit-second-wind/5311704</link>
 <guid isPermaLink="false">c6646733c5c63a09f16c5e41f198df9d774e355501ed63fe4fa7179e8091a25c</guid>
@@ -1926,19 +2095,6 @@
 <content:encoded>InferNode brings a modernized, 64-bit edition of Inferno, the distributed operating system that followed Plan 9 from Bell Labs. For us, the strapline of the InferNode project distracts from the interesting part. It describes the project as a "Secure Runtime for AI Agents," but we think it's something far more interesting than another LLM tool. Fair warning: this vulture has no interest whatsoever in AI agents, and we are not even going to look at this planned use of InferNode. We're interested in the OS, and here, its GitHub repository spells out the part that caught our attention: "a 64-bit Inferno® OS." That grabbed us because Inferno is a very interesting OS, although it doesn't get much attention – for example, the official Inferno GitHub repository shows little activity in the last few years. Inferno is the successor to Plan 9, which we've written and talked about before , including recent releases of its community continuation, 9front . Plan 9 is what the team who invented Unix did next. Plan 9 is a very minimalist, natively clustered Unix: machines can freely mount one another's filesystems, display windows on one another, and start processes on one another. Plan 9 turns a network of machines running this Unix-like OS into a single machine. So, for instance, if you were working on a laptop with limited storage and compute power, you could compile a large complex project on a faster machine elsewhere on the network, using project files located on a third machine, while watching the process in your terminal on your screen, with no messing about with SSH sessions. Plan 9 and 9front programs are compiled into architecture-specific native binaries. Different processor families can still work together across the network, but the same executable won't run unchanged on both an x86-64 laptop and an Arm64 server. Inferno takes a different approach. It's contemporaneous with the far less ambitious Java. On Inferno, languages compile code for a VM called Dis, which is part of the kernel. This means that Inferno binaries execute directly on anything that the Inferno kernel runs on. The OS kernel is built to run bare-metal, or as a process on various other OSes, without needing a separate hardware virtual machine or hypervisor. A single binary can run on all supported CPU architectures. Inferno applications are normally written in the Limbo programming language , whose documentation was written by Unix co-creator Dennis Ritchie. Limbo is one of the languages that influenced Go, but Inferno lets compilers for other languages target Dis as well. The binaries run anywhere. Inferno on Arm, or x86, or RISC-V, or running in a Windows or Linux or macOS process, your program just runs. We've been trying to contact Vita Nuova , the company that maintains Inferno, for some years without success. Development appears to have slowed considerably. Moving the runtime to 64-bit also raises compatibility questions: some forks change Dis's word size and cannot run existing 32-bit bytecode unchanged. We're aware of several efforts to build 64-bit versions of Inferno. Caerwyn Jones's Inferno64 is one of the more visible, and the GitHub repository (and indeed his X account ) show considerable activity. However, Inferno64's Dis is not compatible with 32-bit Dis code. Another fork is Dinsmoor's Inferno64 , which also shows recent activity, albeit with the assistance of the Claude LLM. Others include the long-quiescent Purgatorio and 9ferno , both inactive for years, plus Scott Guyon's more active fork . Dropping the compatibility goal altogether, Node9 replaces Limbo with Lua and Dis with LuaJIT . There are more forks and variants than we've gone into here. Given that there have been quite a few efforts, and most haven't delivered final ready-to-use products yet, we were surprised when InferNode was suddenly announced on the Inferno-OS mailing list last week. Developer Peter Finn said: "An experimental runtime for containing generative AI agents was the original motivation, but most of the work since has been on the OS itself, and the AI parts are ordinary file servers. For example, llmsrv at /mnt/llm and speech9p are started from the login profile, and if you delete those lines they're simply not there. There's also non-generative AI additions on object detection served as files at /mnt/vision, on the CPU or a GPU host, and voice calls between devices done by mounting each other's audio files over 9P. There's a GUI layer intended to facilitate hands-free AI agent use, but it too is optional." He also said that InferNode's development was largely independent of the existing efforts, partly because the primary target was Arm64, not x86-64. Its 64-bit Dis runtime is incompatible with the 32-bit original: "The opcodes, file format and magic number are unchanged, but the word size isn't, so frame sizes, offsets and pointer maps all differ. Limbo source recompiles without edits. A 32-bit .dis is currently rejected at load time." InferNode doesn't implement 9front's DP9IK authentication protocol , so it cannot connect to servers requiring that authentication. Dr Finn told us: "DP9IK is not quantum-safe. That's the reason. InferNode's current crypto policy is strict CNSA ." InferNode also includes some slightly unexpected components, related to its intended use for testing LLM agents – such as a wallet for the Ethereum cryptocurrency, which Finn said was "mainly to support agent payments." The first release of Inferno was in 1996, the year after Java and the JVM were launched. Inferno is a much more ambitious project, but its core function – the ability to run identical binaries on multiple platforms, without recompilation – was close enough that they ended up competing in the market, and Java won. It was a pleasant surprise to see a modernized version of Inferno arrive this year, 30 years on. Finn told us: "About a year ago I saw the potential for a 'break-out' moment for this tech as a runtime for containing AI agents. The flood of cybersecurity risks we would face on account of adversarial AI agents required new systems with small footprints and minimal attack surfaces. Inferno was a perfect candidate and it was an opportunity to show the world how visionary Plan 9's ideas were and how well they mapped on to pressing contemporary security issues." "If InferNode succeeds, it is an opportunity for Plan 9's ideas to migrate out of hobby-land and really make an impact – as they deservedly should." He has a point. On a related note, this vulture discussed the possibility of rebuilding the world's IT systems from scratch on last week's Kettle podcast . Perhaps the hour for tools like this really has come round at last. ®</content:encoded>
 <enclosure url="https://image.theregister.com/?imageId=5311734&amp;width=800" type="image/jpeg"/>
 <media:content url="https://image.theregister.com/?imageId=5311734&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Wish List 2026: 27 Gifts for the Visionaries, Explorers, and Early Adopters in Your Life</title>
-<link>https://www.wired.com/story/wish-list-2026</link>
-<guid isPermaLink="false">17636a42a1018b27b20e1e6ed372d0be5451f9b448ee2fc76946d8e3542524b1</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
-<description>You’ll find something for everyone in this curated collection of gorgeously designed gifts.</description>
-<dc:creator>Michael Calore, Julian Chokkattu</dc:creator>
-<content:encoded>You’ll find something for everyone in this curated collection of gorgeously designed gifts.</content:encoded>
-<enclosure url="https://media.wired.com/photos/6b00bbacc3c11edfb41b277e/master/pass/Lead.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6b00bbacc3c11edfb41b277e/master/pass/Lead.png" medium="image"/>
 </item>
 <item>
 <title>UK gov invests in defense startup making virtual training ground for AI</title>
@@ -1978,110 +2134,6 @@
 <content:encoded>Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over Nvidia staff: what do you think of Jensen Huang’s return as chief executive? One can imagine high-fives all around Nvidia’s boardroom after the board reinstated Jensen Huang to the CEO suite. The market gave the move a fat thumbs-up, boosting Nvidia’s share price by about a third. Shareholders, whose interests the board is meant to represent, are surely happy. But like Fifa’s controversial decision to defer the one-match suspension of US forward Folarin Balogun after receiving a red card for a foul on Bosnia and Herzegovina’s Tarik Muharemović during the World Cup over the summer, Huang’s absolution might backfire. Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter Being There on Substack Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/ff56fa52c937e43cf50c68e8e45bc1f53dfcba5a/688_0_6880_5504/master/6880.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=205fad11235b57da727f66d18f1558b5" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ff56fa52c937e43cf50c68e8e45bc1f53dfcba5a/688_0_6880_5504/master/6880.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=205fad11235b57da727f66d18f1558b5" medium="image"/>
-</item>
-<item>
-<title>Nomad Goods Promo Codes: Get 25% Off in November 2026</title>
-<link>https://www.wired.com/story/nomad-discount-code</link>
-<guid isPermaLink="false">9254f5656796ce3331e0ab7f2639a1e5e2a380e2c0aa140222e6edb80f63bb05</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
-<description>Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
-</item>
-<item>
-<title>Hoka Coupon Codes: 30% Off in November 2026</title>
-<link>https://www.wired.com/story/hoka-coupon-code</link>
-<guid isPermaLink="false">2ffcf8afd11bb57e96a2c480db168a859d5ace30a6c486b90db6e39619571389</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
-<description>Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.</description>
-<dc:creator>Boutayna Chokrane</dc:creator>
-<content:encoded>Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" medium="image"/>
-</item>
-<item>
-<title>Layla Sleep Coupon: Save Up to $600 in November 2026</title>
-<link>https://www.wired.com/story/layla-sleep-coupon</link>
-<guid isPermaLink="false">2282511c64253732b6413422ef0ac34feb02cbf6e46fd4ba0e16e9000e02c432</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
-<description>Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases in November 2026.</description>
-<dc:creator>Nena Farrell</dc:creator>
-<content:encoded>Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases in November 2026.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" medium="image"/>
-</item>
-<item>
-<title>Chegg Coupon Codes November 2026: Save on Study, Textbooks, &amp; More</title>
-<link>https://www.wired.com/story/chegg-coupon-code</link>
-<guid isPermaLink="false">13885b637f41526b4e9074e5e1c21b9e714626e5743ab8e2d524e80bcbac3bcd</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
-<description>Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.</description>
-<dc:creator>Molly Higgins</dc:creator>
-<content:encoded>Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
-</item>
-<item>
-<title>Mattress Firm Coupons: Save up to $700</title>
-<link>https://www.wired.com/story/mattress-firm-coupon</link>
-<guid isPermaLink="false">49e4bd56c5dc54dae8ed21f5dcc8ee34721f0bfa88c216b825eab03564e80254</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
-<description>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</description>
-<dc:creator>Nena Farrell</dc:creator>
-<content:encoded>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
-<title>B&amp;H Photo Promo Codes and Deals This November 2026</title>
-<link>https://www.wired.com/story/bh-photo-coupon</link>
-<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
-<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
-<dc:creator>Gear Team</dc:creator>
-<content:encoded>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</content:encoded>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
-</item>
-<item>
-<title>Jabra Promo Codes: 30% Off Headphones, Headsets &amp; More</title>
-<link>https://www.wired.com/story/jabra-promo-codes-coupons</link>
-<guid isPermaLink="false">375454911936934d61c45307df9f8ccd99b887bfb16802027010552220a10fa0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
-<description>Unlock significant savings on Jabra headphones, headsets, and speakers with our verified promo codes, exclusive coupons, and limited-time deals.</description>
-<dc:creator>Christopher Null</dc:creator>
-<content:encoded>Unlock significant savings on Jabra headphones, headsets, and speakers with our verified promo codes, exclusive coupons, and limited-time deals.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
-</item>
-<item>
-<title>Purple Promo Codes and Deals: Up to 30% Off</title>
-<link>https://www.wired.com/story/purple-promo-code</link>
-<guid isPermaLink="false">8f98d4ca65c7b1398b70258cbeca03058e16a7994351c2640695653ac471e8d9</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
-<description>On the hunt for the perfect mattress or pillow? Save on your soon-to-be favorite brand, Purple, with these Purple coupons and deals.</description>
-<dc:creator>Nena Farrell</dc:creator>
-<content:encoded>On the hunt for the perfect mattress or pillow? Save on your soon-to-be favorite brand, Purple, with these Purple coupons and deals.</content:encoded>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>Orgs that leak data 'prioritize corporate interests over customers' says Have I Been Pwned’s Troy Hunt</title>
@@ -2305,19 +2357,6 @@
 <media:content url="https://image.theregister.com/?imageId=5309241&amp;width=800" medium="image"/>
 </item>
 <item>
-<title>Trump says he won't allow US companies to build datacenters abroad</title>
-<link>https://www.theregister.com/off-prem/2026/11/23/trump-says-he-wont-allow-us-companies-to-build-datacenters-abroad/5311640</link>
-<guid isPermaLink="false">9e55190251e13e13b0e2a09f03a36b0004bd869826ee02d4637403f19838d09e</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 13:40:00 +0000</pubDate>
-<description>US President Donald Trump has threatened a "tremendous tax" on American companies building datacenters overseas, arguing that the infrastructure should stay at home to preserve the country's AI lead over China. Speaking at a White House press conference after returning from the Asia-Pacific Economic Co-operation (APEC) summit in Shenzhen, Trump portrayed AI leadership as a contest America could not afford to lose. Trump went on to say that "we're not going to allow our companies to build datacenters outside of our country," adding that "they allowed that to happen with chips and everything else and it was very destructive to our country." The threat appeared to catch even his own administration unbriefed. "I haven't even said that to my people, but I'm telling them now," Trump said. The Official White House Rapid Response account posted a video clip on X. We asked the White House if the president intends to follow through, and we will let you know if we get an answer. Trump said: "We're not going to allow companies to build datacenters in other countries. If they do that, they can, but we're going to put a tremendous tax on them. We want them to do it here." The threat comes amid concerns that Chinese entities were able to use Nvidia's cutting-edge GPUs for training AI models by accessing cloud services hosted in third countries. The US Commerce Department's Bureau of Industry and Security (BIS) issued new rules to try and crack down on this practice last week. "We're not allowing datacenters to go into other countries, as China will take all of them, and we're not allowing that to happen," Trump repeated. "We're going to put tremendous penalties on companies that try and do it. They want to build that one in Finland, and we're not allowing that to happen," he added. Google is expanding its facilities in Finland, including one recently in the news because the developer had reportedly illegally felled 250,000 trees to make way for it. Such a policy seems unlikely to be allowed by Congress, where both houses will be under the control of the Democrats when the new term begins in January. Amazon, Google, and Microsoft already operate global datacenter networks to serve customers in different regions. Restrictions on further overseas construction would complicate those businesses. Omdia chief analyst Roy Illsley expressed doubt that this is a serious threat. "There will be ways around that if he does impose some executive order, and the ability to build datacenters is not just an American skill, many countries can build them, it is the equipment in them that is mostly US," he told The Register . "So I do not take this seriously as it would not work, there is no such thing as a US datacenter, they are made up of thousands of components from all over the globe. He could stop US capital from being invested in those countries, but that could have trade consequences." Mike Kharchenko of European hosting firm HostZealot said there are good reasons why the c</description>
-<dc:creator>Dan Robinson</dc:creator>
-<content:encoded>US President Donald Trump has threatened a "tremendous tax" on American companies building datacenters overseas, arguing that the infrastructure should stay at home to preserve the country's AI lead over China. Speaking at a White House press conference after returning from the Asia-Pacific Economic Co-operation (APEC) summit in Shenzhen, Trump portrayed AI leadership as a contest America could not afford to lose. Trump went on to say that "we're not going to allow our companies to build datacenters outside of our country," adding that "they allowed that to happen with chips and everything else and it was very destructive to our country." The threat appeared to catch even his own administration unbriefed. "I haven't even said that to my people, but I'm telling them now," Trump said. The Official White House Rapid Response account posted a video clip on X. We asked the White House if the president intends to follow through, and we will let you know if we get an answer. Trump said: "We're not going to allow companies to build datacenters in other countries. If they do that, they can, but we're going to put a tremendous tax on them. We want them to do it here." The threat comes amid concerns that Chinese entities were able to use Nvidia's cutting-edge GPUs for training AI models by accessing cloud services hosted in third countries. The US Commerce Department's Bureau of Industry and Security (BIS) issued new rules to try and crack down on this practice last week. "We're not allowing datacenters to go into other countries, as China will take all of them, and we're not allowing that to happen," Trump repeated. "We're going to put tremendous penalties on companies that try and do it. They want to build that one in Finland, and we're not allowing that to happen," he added. Google is expanding its facilities in Finland, including one recently in the news because the developer had reportedly illegally felled 250,000 trees to make way for it. Such a policy seems unlikely to be allowed by Congress, where both houses will be under the control of the Democrats when the new term begins in January. Amazon, Google, and Microsoft already operate global datacenter networks to serve customers in different regions. Restrictions on further overseas construction would complicate those businesses. Omdia chief analyst Roy Illsley expressed doubt that this is a serious threat. "There will be ways around that if he does impose some executive order, and the ability to build datacenters is not just an American skill, many countries can build them, it is the equipment in them that is mostly US," he told The Register . "So I do not take this seriously as it would not work, there is no such thing as a US datacenter, they are made up of thousands of components from all over the globe. He could stop US capital from being invested in those countries, but that could have trade consequences." Mike Kharchenko of European hosting firm HostZealot said there are good reasons why the cloud giants operate datacenters outside the US, such as latency and regulatory compliance. "A buyer in Frankfurt won't wait for a page to load from Virginia. Some countries require certain data to stay inside their borders, and big European clients write it into contracts anyway," he stated. Trump claimed that communities in America that host datacenters are "making so much money that they don't know what to do with it." Those claimed benefits come alongside substantial public subsidies. Nonprofit organization Good Jobs First reported earlier this year that some states are losing billions in revenue because of the tax abatement schemes offered to companies to entice them to set up shop there. ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=5223935&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5223935&amp;width=800" medium="image"/>
-</item>
-<item>
 <title>Can AI plan terrorist attacks? The US tested ChatGPT, Claude, Gemini, and Grok</title>
 <link>https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test</link>
 <guid isPermaLink="false">a084f9ab9f7ead03b644cf1e2e34c0c8f96c828824bda849b35b2d5302b05316</guid>
@@ -2329,32 +2368,6 @@
 <content:encoded>Investigators tried to bypass AI safeguards to generate plans. The results exposed security gaps and raised questions about preventing misuse.</content:encoded>
 <enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2263696087.jpg" type="image/jpeg"/>
 <media:content url="https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2263696087.jpg" medium="image"/>
-</item>
-<item>
-<title>New Outlook's attachment issues sent users into the arms of its predecessor</title>
-<link>https://www.theregister.com/saas/2026/11/23/new-outlooks-attachment-issues-sent-users-into-the-arms-of-its-predecessor/5311576</link>
-<guid isPermaLink="false">b768a8447aa2776ac62226b34d5b9ae10eb87344a98a04dde4ca75979a80d023</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 12:30:00 +0000</pubDate>
-<description>A recent update broke attachment handling for some New Outlook users, prompting Microsoft to recommend switching to the web or Classic version of its email client. Things are going swimmingly for New Outlook, the email client that Microsoft would very much like users to migrate to. A code change meant that for some users, opening or uploading email attachments failed. It took the company two attempts to fix the problem. Microsoft confirmed there were issues on November 20, as reports that customers were having problems with attachments began rolling in. By the end of the day, the company had added inline images in email to the litany of woe and "paused the rollout of a recent client update that may be contributing to attachment failures." The advice for affected users was to switch to the web version, or use Outlook Classic to open or upload attachments and view inline images. The good news was that Microsoft produced a fix. The bad news was that this fix only resolved problems with Office attachments and inline images, leaving other attachment types affected, according to incident notice EX1561765. The Windows behemoth tried again with a "supplemental fix" and reported the remaining problems resolved on November 21. Users needed to close and reopen New Outlook for the fix to take effect. Microsoft said it had tested the fixes before deployment. Administrators might reasonably wish the original update had received the same attention. The preliminary root cause was a "recent update to the code which supports embedded web content unexpectedly caused impact." The clock is ticking for Outlook Classic. Microsoft is clear that New Outlook is the future, though Classic Outlook will remain available until at least 2029. The fact that the company had to suggest that affected users fall back on the old warhorse to perform that rarely used email activity – attachment handling – is less than confidence-inspiring. Still, by the time Outlook Classic is finally put out to pasture, we're sure Microsoft's habit of sending out broken updates will also be a thing of the past. Right? ®</description>
-<dc:creator>Richard Speed</dc:creator>
-<content:encoded>A recent update broke attachment handling for some New Outlook users, prompting Microsoft to recommend switching to the web or Classic version of its email client. Things are going swimmingly for New Outlook, the email client that Microsoft would very much like users to migrate to. A code change meant that for some users, opening or uploading email attachments failed. It took the company two attempts to fix the problem. Microsoft confirmed there were issues on November 20, as reports that customers were having problems with attachments began rolling in. By the end of the day, the company had added inline images in email to the litany of woe and "paused the rollout of a recent client update that may be contributing to attachment failures." The advice for affected users was to switch to the web version, or use Outlook Classic to open or upload attachments and view inline images. The good news was that Microsoft produced a fix. The bad news was that this fix only resolved problems with Office attachments and inline images, leaving other attachment types affected, according to incident notice EX1561765. The Windows behemoth tried again with a "supplemental fix" and reported the remaining problems resolved on November 21. Users needed to close and reopen New Outlook for the fix to take effect. Microsoft said it had tested the fixes before deployment. Administrators might reasonably wish the original update had received the same attention. The preliminary root cause was a "recent update to the code which supports embedded web content unexpectedly caused impact." The clock is ticking for Outlook Classic. Microsoft is clear that New Outlook is the future, though Classic Outlook will remain available until at least 2029. The fact that the company had to suggest that affected users fall back on the old warhorse to perform that rarely used email activity – attachment handling – is less than confidence-inspiring. Still, by the time Outlook Classic is finally put out to pasture, we're sure Microsoft's habit of sending out broken updates will also be a thing of the past. Right? ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=5237731&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=5237731&amp;width=800" medium="image"/>
-</item>
-<item>
-<title>Norway links energy firm cyberattacks to critical Azure API Management flaw</title>
-<link>https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598</link>
-<guid isPermaLink="false">db1a4c1f605027d7898b3b8334e20e863e8cf91dca6306833088b156eeec1381</guid>
-<source>The Register</source>
-<category>technology</category>
-<pubDate>Mon, 23 Nov 2026 12:29:00 +0000</pubDate>
-<description>Microsoft has issued a critical vulnerability advisory after attackers were caught raiding Azure API Management (APIM) instances for secrets and performing admin operations. According to a nonpublic advisory, seen by The Register , Microsoft said the attacks, which have already affected two major energy companies , only impact customers on Azure API Management Classic tiers, not Azure API Management v2. It said of the now-patched vuln: "Our investigation found that customers were exposed and an unauthorized party could have used the issue to access secrets stored in Azure API Management Classic instances before Microsoft identified the security issue." Microsoft linked exposure to Classic-tier configurations that did not follow its network security guidance or stored secrets directly in APIM rather than referencing them from Azure Key Vault. Microsoft directs customers to its security guidance for the recommended configuration. The advisory lists potentially exposed secrets, including named values, client secrets associated with identity providers and OpenID Connect providers, subscription keys, and tokens used to call direct management APIs. Security expert Anders Kristiansen warned that stolen credentials could also give attackers access to services behind APIM. "If someone obtains a credential from that configuration, they may be able to use it directly against the service it protects, outside APIM," he wrote . "What they can reach depends on the credential's permissions and whether it is still valid." Norway's National Security Authority (NSM) urged organizations using APIM to assume their secrets and named values had been exposed and rotate all tokens and secrets. The agency also advised mapping the information accessible through each APIM instance to assess the potential scope of any compromise. NSM credited Norway's energy sector with first detecting the vulnerability last week. It named gas giant Equinor and hydropower company Skagerak Energi among the affected organizations. The authority commended Equinor for its early detection and rapid information-sharing, and warned that growing use of AI increased the risk of further exploitation. "The vulnerability affects several sectors in Norway and also beyond Norway's borders," it said . "NSM has close dialogue and cooperation with national and international partners and businesses about the situation. "When a vulnerability becomes known, multiple actors will be able to attempt to exploit it. Rapid escalation in the use of artificial intelligence is affecting the situation. This poses a risk to Norwegian businesses." Customers who spoke to The Register warned that forgotten development and test instances could leave more organizations exposed. The extent of exploitation remains unclear. Microsoft said it identified the security issue on November 18 and automatically applied a mitigation to close the access path the following day. The Windows giant said customers still needed to investigate wh</description>
-<dc:creator>Connor Jones</dc:creator>
-<content:encoded>Microsoft has issued a critical vulnerability advisory after attackers were caught raiding Azure API Management (APIM) instances for secrets and performing admin operations. According to a nonpublic advisory, seen by The Register , Microsoft said the attacks, which have already affected two major energy companies , only impact customers on Azure API Management Classic tiers, not Azure API Management v2. It said of the now-patched vuln: "Our investigation found that customers were exposed and an unauthorized party could have used the issue to access secrets stored in Azure API Management Classic instances before Microsoft identified the security issue." Microsoft linked exposure to Classic-tier configurations that did not follow its network security guidance or stored secrets directly in APIM rather than referencing them from Azure Key Vault. Microsoft directs customers to its security guidance for the recommended configuration. The advisory lists potentially exposed secrets, including named values, client secrets associated with identity providers and OpenID Connect providers, subscription keys, and tokens used to call direct management APIs. Security expert Anders Kristiansen warned that stolen credentials could also give attackers access to services behind APIM. "If someone obtains a credential from that configuration, they may be able to use it directly against the service it protects, outside APIM," he wrote . "What they can reach depends on the credential's permissions and whether it is still valid." Norway's National Security Authority (NSM) urged organizations using APIM to assume their secrets and named values had been exposed and rotate all tokens and secrets. The agency also advised mapping the information accessible through each APIM instance to assess the potential scope of any compromise. NSM credited Norway's energy sector with first detecting the vulnerability last week. It named gas giant Equinor and hydropower company Skagerak Energi among the affected organizations. The authority commended Equinor for its early detection and rapid information-sharing, and warned that growing use of AI increased the risk of further exploitation. "The vulnerability affects several sectors in Norway and also beyond Norway's borders," it said . "NSM has close dialogue and cooperation with national and international partners and businesses about the situation. "When a vulnerability becomes known, multiple actors will be able to attempt to exploit it. Rapid escalation in the use of artificial intelligence is affecting the situation. This poses a risk to Norwegian businesses." Customers who spoke to The Register warned that forgotten development and test instances could leave more organizations exposed. The extent of exploitation remains unclear. Microsoft said it identified the security issue on November 18 and automatically applied a mitigation to close the access path the following day. The Windows giant said customers still needed to investigate whether their instances had been compromised before the mitigation was applied. NSM nevertheless advised organizations to check their instance's runtime version against its published patch thresholds and contact their provider if it remained unpatched. Microsoft did not immediately respond to our request for comment. ®</content:encoded>
-<enclosure url="https://image.theregister.com/?imageId=260104&amp;width=800" type="image/jpeg"/>
-<media:content url="https://image.theregister.com/?imageId=260104&amp;width=800" medium="image"/>
 </item>
 <item>
 <title>Apple iPhone Duo review: the most novel and interesting iPhone in almost a decade</title>
@@ -2381,19 +2394,6 @@
 <content:encoded>The announcement from Rockstar Games would mean GTA VI has already earned more than the entire box office run of the highest-grossing film of all time Grand Theft Auto VI generated $3.79bn in retail sales on its first day , publisher Rockstar Games has announced, calling it the biggest launch for any entertainment product in history. The worldwide figure was based on company estimates through the end of the day Thursday, the day the game launched. Rockstar said also it had sold 32.5m units of the game on prerelease, setting a record across platforms. Continue reading...</content:encoded>
 <enclosure url="https://i.guim.co.uk/img/media/5988d7ddcc73c1dddca7f0d330ee2d523648a57a/1183_0_6827_5464/master/6827.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1643b4eff06353699c0da9575a2a2024" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/5988d7ddcc73c1dddca7f0d330ee2d523648a57a/1183_0_6827_5464/master/6827.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1643b4eff06353699c0da9575a2a2024" medium="image"/>
-</item>
-<item>
-<title>‘The greatest game ever made’: readers and Guardian staff on Grand Theft Auto VI</title>
-<link>https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review</link>
-<guid isPermaLink="false">3abe0d75db7cbf59aa5bc17c16334ff4e834993ed1c1678615ba88177e74bb26</guid>
-<source>The Guardian Technology</source>
-<category>technology</category>
-<pubDate>Fri, 20 Nov 2026 18:04:15 +0000</pubDate>
-<description>Rockstar’s newest installment of its hit franchise still has plenty of action, along with a dose of ‘healthy masculinity’ Described as the biggest entertainment launch in history, the new Grand Theft Auto game has prompted avid fans around the world to take the day off work, stock up on snacks and celebrate its arrival after 13 years of waiting. While some have already spent hours immersed in the game’s criminal escapades, others have found themselves doing household chores, building houses or simply taking in the scenery – which includes more than 170 flora and fauna species native to Florida . GTA VI has generated extraordinary global anticipation for its action-packed gameplay, but players are now finding new delight in the game’s more intimate moments. Continue reading...</description>
-<dc:creator>Maya Yang Alfie Packham and Nicola Slawson</dc:creator>
-<content:encoded>Rockstar’s newest installment of its hit franchise still has plenty of action, along with a dose of ‘healthy masculinity’ Described as the biggest entertainment launch in history, the new Grand Theft Auto game has prompted avid fans around the world to take the day off work, stock up on snacks and celebrate its arrival after 13 years of waiting. While some have already spent hours immersed in the game’s criminal escapades, others have found themselves doing household chores, building houses or simply taking in the scenery – which includes more than 170 flora and fauna species native to Florida . GTA VI has generated extraordinary global anticipation for its action-packed gameplay, but players are now finding new delight in the game’s more intimate moments. Continue reading...</content:encoded>
-<enclosure url="https://i.guim.co.uk/img/media/bf2fb910b6bd1814c2576b1066e4abdbc6482747/356_0_3818_3055/master/3818.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19275bfa3e380f6dfd390606dbd9abce" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/bf2fb910b6bd1814c2576b1066e4abdbc6482747/356_0_3818_3055/master/3818.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19275bfa3e380f6dfd390606dbd9abce" medium="image"/>
 </item>
 <item>
 <title>Signal to restrict screenshots over AI agent concerns – again</title>
